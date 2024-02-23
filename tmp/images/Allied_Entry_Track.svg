@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.0"
+   width="950"
+   height="1150"
+   id="svg2">
+  <defs
+     id="defs4">
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       style="overflow:visible"
+       id="Arrow2Send">
+      <path
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.97309,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path4435" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       style="overflow:visible"
+       id="TriangleOutS">
+      <path
+         d="M 5.77,0 L -2.88,5 L -2.88,-5 L 5.77,0 z "
+         transform="scale(0.2,0.2)"
+         style="fill-rule:evenodd;stroke:black;stroke-width:1pt;marker-start:none"
+         id="path4364" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       style="overflow:visible"
+       id="CurveIn">
+      <path
+         d="M 4.625493,-5.0456926 C 1.865493,-5.0456926 -0.37450702,-2.8056926 -0.37450702,-0.04569258 C -0.37450702,2.7143074 1.865493,4.9543074 4.625493,4.9543074"
+         transform="scale(0.6,0.6)"
+         style="fill:none;fill-rule:evenodd;stroke:black;stroke-width:1pt;marker-start:none;marker-end:none"
+         id="path4346" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       style="overflow:visible"
+       id="Legs">
+      <g
+         transform="scale(-0.7,-0.7)"
+         id="g4321">
+        <g
+           transform="matrix(0,-1,-1,0,20.70862,21.31391)"
+           id="g4323">
+          <path
+             d="M 21.22125,20.67536 C 14.311099,25.396517 18.766725,27.282204 15.380179,34.118595"
+             style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:black;stroke-width:1pt;marker-start:none;marker-end:none"
+             id="path4325" />
+          <path
+             d="M 21.39811,20.54812 C 20.037601,28.895644 24.934182,29.31806 25.903151,34.373078"
+             style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:black;stroke-width:1pt;marker-start:none;marker-end:none"
+             id="path4327" />
+        </g>
+        <path
+           d="M -14.09007,-6.7318716 L -15.012238,-2.6884886 L -11.049487,-3.9115586 L -14.09007,-6.7318716 z "
+           style="fill:#030300;fill-rule:evenodd;stroke-width:1pt;marker-end:none"
+           id="path4329" />
+        <path
+           d="M -15.215679,4.5567534 L -13.341552,8.2563664 L -11.074678,4.7835114 L -15.215679,4.5567534 z "
+           style="fill:#030300;fill-rule:evenodd;stroke-width:1pt;marker-end:none"
+           id="path4331" />
+      </g>
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       style="overflow:visible"
+       id="Club">
+      <path
+         d="M -1.5971367,-7.0977635 C -3.4863874,-7.0977635 -5.0235187,-5.5606321 -5.0235187,-3.6713813 C -5.0235187,-3.0147015 -4.7851656,-2.4444556 -4.4641095,-1.9232271 C -4.5028609,-1.8911157 -4.5437814,-1.8647646 -4.5806531,-1.8299921 C -5.2030765,-2.6849849 -6.1700514,-3.275133 -7.307773,-3.275133 C -9.1970245,-3.2751331 -10.734155,-1.7380016 -10.734155,0.15124914 C -10.734155,2.0404999 -9.1970245,3.5776313 -7.307773,3.5776313 C -6.3143268,3.5776313 -5.439154,3.1355702 -4.8137404,2.4588126 C -4.9384274,2.8137041 -5.0235187,3.1803 -5.0235187,3.5776313 C -5.0235187,5.4668819 -3.4863874,7.0040135 -1.5971367,7.0040135 C 0.29211394,7.0040135 1.8292454,5.4668819 1.8292454,3.5776313 C 1.8292454,2.7842354 1.5136868,2.0838028 1.0600576,1.503155 C 2.4152718,1.7663868 3.7718375,2.2973711 4.7661444,3.8340272 C 4.0279463,3.0958289 3.5540908,1.7534117 3.5540908,-0.058529361 L 2.9247554,-0.10514681 L 3.5074733,-0.12845553 C 3.5074733,-1.9403966 3.9580199,-3.2828138 4.6962183,-4.0210121 C 3.7371277,-2.5387813 2.4390549,-1.9946496 1.1299838,-1.7134486 C 1.5341802,-2.2753578 1.8292454,-2.9268556 1.8292454,-3.6713813 C 1.8292454,-5.5606319 0.29211394,-7.0977635 -1.5971367,-7.0977635 z "
+         transform="scale(0.6,0.6)"
+         style="fill-rule:evenodd;stroke:black;stroke-width:0.74587913pt;marker-start:none"
+         id="path4301" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="RazorWire">
+       style=&quot;overflow:visible&quot;&gt;
+      <path
+   d="M 0.022727273,-0.74009011 L 0.022727273,0.69740989 L -7.7585227,3.0099099 L 10.678977,3.0099099 L 3.4914773,0.69740989 L 3.4914773,-0.74009011 L 10.741477,-2.8963401 L -7.7272727,-2.8963401 L 0.022727273,-0.74009011 z "
+   transform="scale(0.8,0.8)"
+   style="fill:gray;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:0.1pt"
+   id="path4298" />
+</marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       style="overflow:visible"
+       id="Torso">
+      <g
+         transform="scale(0.7,0.7)"
+         id="g4304">
+        <path
+           d="M -4.7792281,-3.239542 C -2.4288541,-2.8736027 0.52103922,-1.3019943 0.25792722,0.38794346 C -0.0051877922,2.0778819 -2.2126741,2.6176539 -4.5630471,2.2517169 C -6.9134221,1.8857769 -8.521035,0.75201414 -8.257922,-0.93792336 C -7.994809,-2.6278615 -7.1296041,-3.6054813 -4.7792281,-3.239542 z "
+           style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:black;stroke-width:1.25;marker-start:none;marker-mid:none;marker-end:none"
+           id="path4306" />
+        <path
+           d="M 4.4598789,0.088665736 C -2.5564571,-4.378332 5.2248769,-3.9061806 -0.84829578,-8.7197331"
+           style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:black;stroke-width:1pt;marker-end:none"
+           id="path4308" />
+        <path
+           d="M 4.9298719,0.057520736 C -1.3872731,1.7494689 1.8027579,5.4782079 -4.9448731,7.5462725"
+           style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:black;stroke-width:1pt;marker-start:none;marker-end:none"
+           id="path4310" />
+        <rect
+           width="2.6366582"
+           height="2.7608147"
+           x="-10.391706"
+           y="-1.7408575"
+           transform="matrix(0.527536,-0.849533,0.887668,0.460484,0,0)"
+           style="fill-rule:evenodd;stroke-width:1pt;marker-end:none"
+           id="rect4312" />
+        <rect
+           width="2.7327356"
+           height="2.8614161"
+           x="4.9587269"
+           y="-7.9629307"
+           transform="matrix(0.671205,-0.741272,0.790802,0.612072,0,0)"
+           style="fill-rule:evenodd;stroke-width:1pt;marker-end:none"
+           id="rect4314" />
+        <path
+           d="M 16.779951,-28.685045 C 16.780267,-28.349409 16.50827,-28.077155 16.172634,-28.077155 C 15.836998,-28.077155 15.565001,-28.349409 15.565317,-28.685045 C 15.565001,-29.020681 15.836998,-29.292935 16.172634,-29.292935 C 16.50827,-29.292935 16.780267,-29.020681 16.779951,-28.685045 z "
+           transform="matrix(0,-1.109517,1.109517,0,25.96648,19.71619)"
+           style="fill:red;fill-opacity:0.75;fill-rule:evenodd;stroke:black;stroke-width:1pt;marker-start:none;marker-end:none"
+           id="path4316" />
+        <path
+           d="M 16.779951,-28.685045 C 16.780267,-28.349409 16.50827,-28.077155 16.172634,-28.077155 C 15.836998,-28.077155 15.565001,-28.349409 15.565317,-28.685045 C 15.565001,-29.020681 15.836998,-29.292935 16.172634,-29.292935 C 16.50827,-29.292935 16.780267,-29.020681 16.779951,-28.685045 z "
+           transform="matrix(0,-1.109517,1.109517,0,26.8245,16.99126)"
+           style="fill:red;fill-opacity:0.75;fill-rule:evenodd;stroke:black;stroke-width:1pt;marker-start:none;marker-end:none"
+           id="path4318" />
+      </g>
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       style="overflow:visible"
+       id="TriangleOutL">
+      <path
+         d="M 5.77,0 L -2.88,5 L -2.88,-5 L 5.77,0 z "
+         transform="scale(0.8,0.8)"
+         style="fill-rule:evenodd;stroke:black;stroke-width:1pt;marker-start:none"
+         id="path4370" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       style="overflow:visible"
+       id="Arrow2Mend">
+      <path
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.97309,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(-0.6,-0.6)"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path4441" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       style="overflow:visible"
+       id="Arrow2Lend">
+      <path
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.97309,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path4447" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       style="overflow:visible"
+       id="Arrow1Lend">
+      <path
+         d="M 0,0 L 5,-5 L -12.5,0 L 5,5 L 0,0 z "
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill-rule:evenodd;stroke:black;stroke-width:1pt;marker-start:none"
+         id="path4465" />
+    </marker>
+  </defs>
+  <text
+     x="345.3934"
+     y="63.375999"
+     style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text2853"
+     xml:space="preserve"><tspan
+       x="345.3934"
+       y="63.375999"
+       style="font-size:36px;font-weight:bold"
+       id="tspan2855">ALLIED UNIT ENTRY TRACK</tspan></text>
+  <text
+     x="78.393402"
+     y="48.375999"
+     style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text2857"
+     xml:space="preserve"><tspan
+       x="78.393402"
+       y="48.375999"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;font-family:Nimbus Sans L"
+       id="tspan2859">Directly to Beach/Port</tspan><tspan
+       x="78.393402"
+       y="66.375999"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;font-family:Nimbus Sans L"
+       id="tspan2861">Landing Boxes on Map</tspan></text>
+  <text
+     x="565.39337"
+     y="135.37601"
+     style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text2863"
+     xml:space="preserve"><tspan
+       x="565.39337"
+       y="135.37601"
+       id="tspan2865">ALLIED REPLACEMENT UNIT DEAD/UNUSED PILE</tspan></text>
+  <text
+     x="52.393398"
+     y="448.37601"
+     style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text2867"
+     xml:space="preserve"><tspan
+       x="52.393398"
+       y="448.37601"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Nimbus Sans L"
+       id="tspan2869">Air Supply Units</tspan></text>
+  <text
+     x="53.393398"
+     y="518.37598"
+     style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text2871"
+     xml:space="preserve"><tspan
+       x="53.393398"
+       y="518.37598"
+       id="tspan2873">Air supply units are not placed on the Entry</tspan><tspan
+       x="53.393398"
+       y="530.37598"
+       id="tspan2875">Track, but may be placed directly on the map.</tspan></text>
+  <text
+     x="175.3934"
+     y="578.37598"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text2877"
+     xml:space="preserve"><tspan
+       x="175.3934"
+       y="578.37598"
+       id="tspan2879">REPLACEMENT</tspan><tspan
+       x="175.3934"
+       y="602.37598"
+       id="tspan2881">UNIT POOL</tspan></text>
+  <text
+     x="60.393398"
+     y="624.37598"
+     style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text2883"
+     xml:space="preserve"><tspan
+       x="60.393398"
+       y="624.37598"
+       id="tspan2885">1. Add one infantry REPL unit to the REPL</tspan><tspan
+       x="60.393398"
+       y="636.37598"
+       id="tspan2887">pool from the dead/unused pile for each</tspan><tspan
+       x="60.393398"
+       y="648.37598"
+       id="tspan2889">Infantry Division HQ unit started on the</tspan><tspan
+       x="60.393398"
+       y="660.37598"
+       id="tspan2891">&quot;10&quot; Entry Track box.</tspan><tspan
+       x="60.393398"
+       y="672.37598"
+       id="tspan2893" /><tspan
+       x="60.393398"
+       y="684.37598"
+       id="tspan2895">2. Add one Armored REPL unit to the REPL</tspan><tspan
+       x="60.393398"
+       y="696.37598"
+       id="tspan2899">pool from the dead/unused pile for each</tspan><tspan
+       x="60.393398"
+       y="708.37598"
+       id="tspan2901">Armored Division HQ started on the &quot;10&quot;</tspan><tspan
+       x="60.393398"
+       y="720.37598"
+       id="tspan2903">Entry Track box.</tspan><tspan
+       x="60.393398"
+       y="732.37598"
+       id="tspan2905" /><tspan
+       x="60.393398"
+       y="744.37598"
+       id="tspan2907">3. Return expended REPL units from the</tspan><tspan
+       x="60.393398"
+       y="756.37598"
+       id="tspan2909">map to the REPL unit pool, NOT the dead</tspan><tspan
+       x="60.393398"
+       y="768.37598"
+       id="tspan2911">pile.</tspan><tspan
+       x="60.393398"
+       y="780.37598"
+       id="tspan2897" /></text>
+  <text
+     x="671.39337"
+     y="974.37598"
+     style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text2913"
+     xml:space="preserve"><tspan
+       x="671.39337"
+       y="974.37598"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Nimbus Sans L"
+       id="tspan2915">SUPPLY UNIT POOL</tspan></text>
+  <text
+     x="662.39337"
+     y="1010.376"
+     style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text2917"
+     xml:space="preserve"><tspan
+       x="662.39337"
+       y="1010.376"
+       id="tspan2919">1. Add one supply unit to the Supply Unit Pool</tspan><tspan
+       x="662.39337"
+       y="1022.376"
+       id="tspan2921">for each divisional HQ starting in the &quot;10&quot; Entry</tspan><tspan
+       x="662.39337"
+       y="1034.376"
+       id="tspan2923">Track box. Place new supply units with the HQ</tspan><tspan
+       x="662.39337"
+       y="1046.376"
+       id="tspan2925">units that trigger their entry.</tspan><tspan
+       x="662.39337"
+       y="1058.376"
+       id="tspan2927" /><tspan
+       x="662.39337"
+       y="1070.376"
+       id="tspan2929">2. Return all expended supply units from the</tspan><tspan
+       x="662.39337"
+       y="1082.376"
+       id="tspan2931">map to this Supply Unit Pool. They remain in</tspan><tspan
+       x="662.39337"
+       y="1094.376"
+       id="tspan2933">the game and may re-enter the &quot;10&quot; box on</tspan><tspan
+       x="662.39337"
+       y="1106.376"
+       id="tspan2935">the turn following their expenditure.</tspan></text>
+  <text
+     x="134.3934"
+     y="164.37601"
+     style="font-size:36px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text2937"
+     xml:space="preserve"><tspan
+       x="134.3934"
+       y="164.37601"
+       id="tspan2939">1</tspan></text>
+  <text
+     x="235.3934"
+     y="265.37601"
+     style="font-size:36px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text2941"
+     xml:space="preserve"><tspan
+       x="235.3934"
+       y="265.37601"
+       id="tspan2943">2</tspan></text>
+  <text
+     x="335.3934"
+     y="364.37601"
+     style="font-size:36px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text2945"
+     xml:space="preserve"><tspan
+       x="335.3934"
+       y="364.37601"
+       id="tspan2947">3</tspan></text>
+  <text
+     x="436.3934"
+     y="463.37601"
+     style="font-size:36px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text2949"
+     xml:space="preserve"><tspan
+       x="436.3934"
+       y="463.37601"
+       id="tspan2951">4</tspan></text>
+  <text
+     x="535.39343"
+     y="564.37598"
+     style="font-size:36px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text2953"
+     xml:space="preserve"><tspan
+       x="535.39343"
+       y="564.37598"
+       id="tspan2955">5</tspan></text>
+  <text
+     x="635.39337"
+     y="664.37598"
+     style="font-size:36px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text2957"
+     xml:space="preserve"><tspan
+       x="635.39337"
+       y="664.37598"
+       id="tspan2959">6</tspan></text>
+  <text
+     x="536.39343"
+     y="764.37598"
+     style="font-size:36px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text2961"
+     xml:space="preserve"><tspan
+       x="536.39343"
+       y="764.37598"
+       id="tspan2963">7</tspan></text>
+  <text
+     x="435.3934"
+     y="864.37598"
+     style="font-size:36px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text2965"
+     xml:space="preserve"><tspan
+       x="435.3934"
+       y="864.37598"
+       id="tspan2967">8</tspan></text>
+  <text
+     x="336.3934"
+     y="964.37598"
+     style="font-size:36px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text2969"
+     xml:space="preserve"><tspan
+       x="336.3934"
+       y="964.37598"
+       id="tspan2971">9</tspan></text>
+  <text
+     x="234.3934"
+     y="1064.376"
+     style="font-size:36px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text2973"
+     xml:space="preserve"><tspan
+       x="234.3934"
+       y="1064.376"
+       id="tspan2975">10</tspan></text>
+  <rect
+     width="298"
+     height="99"
+     x="26"
+     y="27.048573"
+     style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect2977" />
+  <rect
+     width="298"
+     height="100"
+     x="125.3934"
+     y="126.376"
+     style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect2979" />
+  <rect
+     width="298"
+     height="100"
+     x="225.3934"
+     y="226.37601"
+     style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect2981" />
+  <rect
+     width="298"
+     height="100"
+     x="325.3934"
+     y="326.37601"
+     style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect2983" />
+  <rect
+     width="298"
+     height="100"
+     x="425.3934"
+     y="426.37601"
+     style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect3381" />
+  <rect
+     width="298"
+     height="100"
+     x="525.39343"
+     y="526.37598"
+     style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect3383" />
+  <rect
+     width="298"
+     height="100"
+     x="625.39337"
+     y="626.37598"
+     style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect3385" />
+  <rect
+     width="298"
+     height="100"
+     x="525.39343"
+     y="726.37598"
+     style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect3387" />
+  <rect
+     width="298"
+     height="100"
+     x="425.3934"
+     y="826.37598"
+     style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect3389" />
+  <rect
+     width="298"
+     height="100"
+     x="325.3934"
+     y="926.37598"
+     style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect3391" />
+  <rect
+     width="298"
+     height="100"
+     x="225.3934"
+     y="1026.376"
+     style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect3393" />
+  <rect
+     width="372"
+     height="182"
+     x="548.39337"
+     y="119.73818"
+     style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect3400" />
+  <rect
+     width="270"
+     height="176"
+     x="650.39337"
+     y="950.37598"
+     style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect3402" />
+  <rect
+     width="250"
+     height="450"
+     x="49.393398"
+     y="551.37598"
+     style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect3404" />
+  <rect
+     width="250"
+     height="106"
+     x="49.393398"
+     y="431.37601"
+     style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect3406" />
+  <path
+     d="M 138.3934,1001.376 L 138.3934,1080.376 L 216.3934,1080.376"
+     style="fill:none;stroke:black;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;marker-end:url(#TriangleOutS);stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path3408" />
+  <path
+     d="M 650.3934,1080.376 L 533.3934,1080.376"
+     style="fill:none;stroke:black;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;marker-end:url(#TriangleOutS);stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path4505" />
+</svg>

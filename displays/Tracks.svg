@@ -1,0 +1,1542 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.0"
+   width="950"
+   height="840"
+   id="svg2">
+  <defs
+     id="defs4">
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       style="overflow:visible"
+       id="Arrow2Sstart">
+      <path
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.97309,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="matrix(0.3,0,0,0.3,-0.69,0)"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path74613" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       style="overflow:visible"
+       id="Arrow2Send">
+      <path
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.97309,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path74610" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       style="overflow:visible"
+       id="Arrow2Mend">
+      <path
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.97309,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(-0.6,-0.6)"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path74616" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       style="overflow:visible"
+       id="Arrow2Lend">
+      <path
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.97309,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path74622" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       style="overflow:visible"
+       id="Arrow1Lend">
+      <path
+         d="M 0,0 L 5,-5 L -12.5,0 L 5,5 L 0,0 z "
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill-rule:evenodd;stroke:black;stroke-width:1pt;marker-start:none"
+         id="path74640" />
+    </marker>
+  </defs>
+  <text
+     x="-222.61136"
+     y="43.791626"
+     transform="matrix(0,-1,1,0,0,0)"
+     style="font-size:36px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text57129"
+     xml:space="preserve"><tspan
+       x="-222.61136"
+       y="43.791626"
+       id="tspan57131">June</tspan></text>
+  <text
+     x="-414.90765"
+     y="43.791626"
+     transform="matrix(0,-1,1,0,0,0)"
+     style="font-size:36px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text57133"
+     xml:space="preserve"><tspan
+       x="-414.90765"
+       y="43.791626"
+       id="tspan57135">July</tspan></text>
+  <text
+     x="-667.14105"
+     y="43.791626"
+     transform="matrix(0,-1,1,0,0,0)"
+     style="font-size:36px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text57137"
+     xml:space="preserve"><tspan
+       x="-667.14105"
+       y="43.791626"
+       id="tspan57139">August</tspan></text>
+  <text
+     x="185"
+     y="115"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text56699">6</text>
+  <text
+     x="235"
+     y="115"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text56701">7</text>
+  <text
+     x="285"
+     y="115"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text56703">8</text>
+  <text
+     x="335"
+     y="115"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text56705">9</text>
+  <text
+     x="385"
+     y="115"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text56707">10</text>
+  <text
+     x="85"
+     y="165"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text56709">11</text>
+  <text
+     x="135"
+     y="165"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text56711">12</text>
+  <text
+     x="185"
+     y="165"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text56713">13</text>
+  <text
+     x="235"
+     y="165"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text56715">14</text>
+  <text
+     x="285"
+     y="165"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text56717">15</text>
+  <text
+     x="335"
+     y="165"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text56719">16</text>
+  <text
+     x="385"
+     y="165"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text56721">17</text>
+  <text
+     x="85"
+     y="215"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text56723">18</text>
+  <text
+     x="135"
+     y="215"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text56725">19</text>
+  <text
+     x="185"
+     y="215"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text56727">20</text>
+  <text
+     x="235"
+     y="215"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text56729">21</text>
+  <text
+     x="285"
+     y="215"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text56731">22</text>
+  <text
+     x="335"
+     y="215"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text56733">23</text>
+  <text
+     x="385"
+     y="215"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text56735">24</text>
+  <text
+     x="85"
+     y="265"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text56737">25</text>
+  <text
+     x="135"
+     y="265"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text56739">26</text>
+  <text
+     x="185"
+     y="265"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text56741">27</text>
+  <text
+     x="235"
+     y="265"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text56743">28</text>
+  <text
+     x="285"
+     y="265"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text56745">29</text>
+  <text
+     x="335"
+     y="265"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text56747">30</text>
+  <text
+     x="385"
+     y="265"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text56749">1</text>
+  <text
+     x="85"
+     y="315"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text56751">2</text>
+  <text
+     x="135"
+     y="315"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text56753">3</text>
+  <text
+     x="185"
+     y="315"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text56755">4</text>
+  <text
+     x="235"
+     y="315"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text56757">5</text>
+  <text
+     x="285"
+     y="315"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text56759">6</text>
+  <text
+     x="335"
+     y="315"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text56761">7</text>
+  <text
+     x="385"
+     y="315"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text56763">8</text>
+  <text
+     x="85"
+     y="365"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text56765">9</text>
+  <text
+     x="135"
+     y="365"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text56767">10</text>
+  <text
+     x="185"
+     y="365"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text56769">11</text>
+  <text
+     x="235"
+     y="365"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text56771">12</text>
+  <text
+     x="285"
+     y="365"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text56773">13</text>
+  <text
+     x="335"
+     y="365"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text56775">14</text>
+  <text
+     x="385"
+     y="365"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text56777">15</text>
+  <text
+     x="85"
+     y="415"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text56779">16</text>
+  <text
+     x="135"
+     y="415"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text56781">17</text>
+  <text
+     x="185"
+     y="415"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text56783">18</text>
+  <text
+     x="235"
+     y="415"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text56785">19</text>
+  <text
+     x="285"
+     y="415"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text56787">20</text>
+  <text
+     x="335"
+     y="415"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text56789">21</text>
+  <text
+     x="385"
+     y="415"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text56791">22</text>
+  <text
+     x="85"
+     y="465"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text56793">23</text>
+  <text
+     x="135"
+     y="465"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text56795">24</text>
+  <text
+     x="185"
+     y="465"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text56797">25</text>
+  <text
+     x="235"
+     y="465"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text56799">26</text>
+  <text
+     x="285"
+     y="465"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text56801">27</text>
+  <text
+     x="335"
+     y="465"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text56803">28</text>
+  <text
+     x="385"
+     y="465"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text56805">29</text>
+  <text
+     x="85"
+     y="515"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text56807">30</text>
+  <text
+     x="135"
+     y="515"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text56809">31</text>
+  <text
+     x="185"
+     y="515"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text56811">1</text>
+  <text
+     x="235"
+     y="515"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text56813">2</text>
+  <text
+     x="285"
+     y="515"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text56815">3</text>
+  <text
+     x="335"
+     y="515"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text56817">4</text>
+  <text
+     x="385"
+     y="515"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text56819">5</text>
+  <text
+     x="85"
+     y="565"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text56821">6</text>
+  <text
+     x="135"
+     y="565"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text56823">7</text>
+  <text
+     x="185"
+     y="565"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text56825">8</text>
+  <text
+     x="235"
+     y="565"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text56827">9</text>
+  <text
+     x="285"
+     y="565"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text56829">10</text>
+  <text
+     x="335"
+     y="565"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text56831">11</text>
+  <text
+     x="385"
+     y="565"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text56833">12</text>
+  <text
+     x="85"
+     y="615"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text56835">13</text>
+  <text
+     x="135"
+     y="615"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text56837">14</text>
+  <text
+     x="185"
+     y="615"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text56839">15</text>
+  <text
+     x="235"
+     y="615"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text56841">16</text>
+  <text
+     x="285"
+     y="615"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text56843">17</text>
+  <text
+     x="335"
+     y="615"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text56845">18</text>
+  <text
+     x="385"
+     y="615"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text56847">19</text>
+  <text
+     x="85"
+     y="665"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text56849">20</text>
+  <text
+     x="135"
+     y="665"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text56851">21</text>
+  <text
+     x="185"
+     y="665"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text56853">22</text>
+  <text
+     x="235"
+     y="665"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text56855">23</text>
+  <text
+     x="285"
+     y="665"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text56857">24</text>
+  <text
+     x="335"
+     y="665"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text56859">25</text>
+  <text
+     x="385"
+     y="665"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text56861">26</text>
+  <text
+     x="85"
+     y="715"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text56863">27</text>
+  <text
+     x="135"
+     y="715"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text56865">28</text>
+  <text
+     x="185"
+     y="715"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text56867">29</text>
+  <text
+     x="235"
+     y="715"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text56869">30</text>
+  <text
+     x="285"
+     y="715"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text56871">31</text>
+  <line
+     x1="60"
+     y1="130"
+     x2="60"
+     y2="730"
+     style="stroke:black;stroke-width:1px;stroke-linecap:square"
+     id="line59706" />
+  <line
+     x1="110"
+     y1="130"
+     x2="110"
+     y2="730"
+     style="stroke:black;stroke-width:1px;stroke-linecap:square"
+     id="line59708" />
+  <line
+     x1="160"
+     y1="80"
+     x2="160"
+     y2="730"
+     style="stroke:black;stroke-width:1px;stroke-linecap:square"
+     id="line59710" />
+  <line
+     x1="210"
+     y1="80"
+     x2="210"
+     y2="730"
+     style="stroke:black;stroke-width:1px;stroke-linecap:square"
+     id="line59712" />
+  <line
+     x1="260"
+     y1="80"
+     x2="260"
+     y2="730"
+     style="stroke:black;stroke-width:1px;stroke-linecap:square"
+     id="line59714" />
+  <line
+     x1="310"
+     y1="80"
+     x2="310"
+     y2="730"
+     style="stroke:black;stroke-width:1px;stroke-linecap:square"
+     id="line59716" />
+  <line
+     x1="360"
+     y1="80"
+     x2="360"
+     y2="680"
+     style="stroke:black;stroke-width:1px;stroke-linecap:square"
+     id="line59718" />
+  <line
+     x1="410"
+     y1="80"
+     x2="410"
+     y2="680"
+     style="stroke:black;stroke-width:1px;stroke-linecap:square"
+     id="line59720" />
+  <line
+     x1="160"
+     y1="80"
+     x2="410"
+     y2="80"
+     style="stroke:black;stroke-width:1px;stroke-linecap:square"
+     id="line59722" />
+  <line
+     x1="60"
+     y1="130"
+     x2="410"
+     y2="130"
+     style="stroke:black;stroke-width:1px;stroke-linecap:square"
+     id="line59724" />
+  <line
+     x1="60"
+     y1="180"
+     x2="410"
+     y2="180"
+     style="stroke:black;stroke-width:1px;stroke-linecap:square"
+     id="line59726" />
+  <line
+     x1="60"
+     y1="230"
+     x2="410"
+     y2="230"
+     style="stroke:black;stroke-width:1px;stroke-linecap:square"
+     id="line59728" />
+  <line
+     x1="60"
+     y1="280"
+     x2="410"
+     y2="280"
+     style="stroke:black;stroke-width:1px;stroke-linecap:square"
+     id="line59730" />
+  <line
+     x1="60"
+     y1="330"
+     x2="410"
+     y2="330"
+     style="stroke:black;stroke-width:1px;stroke-linecap:square"
+     id="line59732" />
+  <line
+     x1="60"
+     y1="380"
+     x2="410"
+     y2="380"
+     style="stroke:black;stroke-width:1px;stroke-linecap:square"
+     id="line59734" />
+  <line
+     x1="60"
+     y1="430"
+     x2="410"
+     y2="430"
+     style="stroke:black;stroke-width:1px;stroke-linecap:square"
+     id="line59736" />
+  <line
+     x1="60"
+     y1="480"
+     x2="410"
+     y2="480"
+     style="stroke:black;stroke-width:1px;stroke-linecap:square"
+     id="line59738" />
+  <line
+     x1="60"
+     y1="530"
+     x2="410"
+     y2="530"
+     style="stroke:black;stroke-width:1px;stroke-linecap:square"
+     id="line59740" />
+  <line
+     x1="60"
+     y1="580"
+     x2="410"
+     y2="580"
+     style="stroke:black;stroke-width:1px;stroke-linecap:square"
+     id="line59742" />
+  <line
+     x1="60"
+     y1="630"
+     x2="410"
+     y2="630"
+     style="stroke:black;stroke-width:1px;stroke-linecap:square"
+     id="line59744" />
+  <line
+     x1="60"
+     y1="680"
+     x2="410"
+     y2="680"
+     style="stroke:black;stroke-width:1px;stroke-linecap:square"
+     id="line59746" />
+  <line
+     x1="60"
+     y1="730"
+     x2="310"
+     y2="730"
+     style="stroke:black;stroke-width:1px;stroke-linecap:square"
+     id="line59748" />
+  <text
+     x="234.86763"
+     y="64.362183"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text59750"
+     xml:space="preserve"><tspan
+       x="234.86763"
+       y="64.362183"
+       id="tspan59752">TURN RECORD TRACK</tspan></text>
+  <g
+     transform="translate(60,80)"
+     id="g72586">
+    <rect
+       width="50"
+       height="50"
+       x="400"
+       y="50"
+       style="fill:#b5be22;fill-opacity:1;stroke:black;stroke-width:1;stroke-opacity:1"
+       id="rect68679" />
+    <rect
+       width="50"
+       height="50"
+       x="400"
+       y="100"
+       style="fill:none;stroke:black;stroke-width:1;stroke-opacity:1"
+       id="rect68681" />
+    <rect
+       width="50"
+       height="50"
+       x="400"
+       y="150"
+       style="fill:none;stroke:black;stroke-width:1;stroke-opacity:1"
+       id="rect68683" />
+    <rect
+       width="50"
+       height="50"
+       x="400"
+       y="200"
+       style="fill:none;stroke:black;stroke-width:1;stroke-opacity:1"
+       id="rect68685" />
+    <rect
+       width="50"
+       height="50"
+       x="400"
+       y="250"
+       style="fill:#ccc;fill-opacity:1;stroke:black;stroke-width:1;stroke-opacity:1"
+       id="rect68687" />
+    <rect
+       width="50"
+       height="50"
+       x="400"
+       y="300"
+       style="fill:none;stroke:black;stroke-width:1;stroke-opacity:1"
+       id="rect68689" />
+    <rect
+       width="50"
+       height="50"
+       x="400"
+       y="350"
+       style="fill:none;stroke:black;stroke-width:1;stroke-opacity:1"
+       id="rect68691" />
+    <rect
+       width="50"
+       height="50"
+       x="400"
+       y="400"
+       style="fill:none;stroke:black;stroke-width:1;stroke-opacity:1"
+       id="rect68693" />
+    <rect
+       width="50"
+       height="50"
+       x="400"
+       y="450"
+       style="fill:none;stroke:black;stroke-width:1;stroke-opacity:1"
+       id="rect68695" />
+    <rect
+       width="50"
+       height="50"
+       x="400"
+       y="500"
+       style="fill:none;stroke:black;stroke-width:1;stroke-opacity:1"
+       id="rect68697" />
+    <rect
+       width="50"
+       height="50"
+       x="400"
+       y="550"
+       style="fill:none;stroke:black;stroke-width:1;stroke-opacity:1"
+       id="rect68699" />
+    <rect
+       width="50"
+       height="50"
+       x="400"
+       y="600"
+       style="fill:none;stroke:black;stroke-width:1;stroke-opacity:1"
+       id="rect68701" />
+    <rect
+       width="50"
+       height="50"
+       x="400"
+       y="650"
+       style="fill:none;stroke:black;stroke-width:1;stroke-opacity:1"
+       id="rect68703" />
+    <rect
+       width="50"
+       height="50"
+       x="450"
+       y="650"
+       style="fill:none;stroke:black;stroke-width:1;stroke-opacity:1"
+       id="rect68705" />
+    <rect
+       width="50"
+       height="50"
+       x="500"
+       y="50"
+       style="fill:none;stroke:black;stroke-width:1;stroke-opacity:1"
+       id="rect68707" />
+    <rect
+       width="50"
+       height="50"
+       x="500"
+       y="100"
+       style="fill:none;stroke:black;stroke-width:1;stroke-opacity:1"
+       id="rect68709" />
+    <rect
+       width="50"
+       height="50"
+       x="500"
+       y="150"
+       style="fill:none;stroke:black;stroke-width:1;stroke-opacity:1"
+       id="rect68711" />
+    <rect
+       width="50"
+       height="50"
+       x="500"
+       y="200"
+       style="fill:none;stroke:black;stroke-width:1;stroke-opacity:1"
+       id="rect68713" />
+    <rect
+       width="50"
+       height="50"
+       x="500"
+       y="250"
+       style="fill:none;stroke:black;stroke-width:1;stroke-opacity:1"
+       id="rect68715" />
+    <rect
+       width="50"
+       height="50"
+       x="500"
+       y="300"
+       style="fill:none;stroke:black;stroke-width:1;stroke-opacity:1"
+       id="rect68717" />
+    <rect
+       width="50"
+       height="50"
+       x="500"
+       y="350"
+       style="fill:none;stroke:black;stroke-width:1;stroke-opacity:1"
+       id="rect68719" />
+    <rect
+       width="50"
+       height="50"
+       x="500"
+       y="400"
+       style="fill:none;stroke:black;stroke-width:1;stroke-opacity:1"
+       id="rect68721" />
+    <rect
+       width="50"
+       height="50"
+       x="500"
+       y="450"
+       style="fill:none;stroke:black;stroke-width:1;stroke-opacity:1"
+       id="rect68723" />
+    <rect
+       width="50"
+       height="50"
+       x="500"
+       y="500"
+       style="fill:none;stroke:black;stroke-width:1;stroke-opacity:1"
+       id="rect68725" />
+    <rect
+       width="50"
+       height="50"
+       x="500"
+       y="550"
+       style="fill:#b5be22;fill-opacity:1;stroke:black;stroke-width:1;stroke-opacity:1"
+       id="rect68727" />
+    <rect
+       width="50"
+       height="50"
+       x="500"
+       y="600"
+       style="fill:none;stroke:black;stroke-width:1;stroke-opacity:1"
+       id="rect68729" />
+    <rect
+       width="50"
+       height="50"
+       x="500"
+       y="650"
+       style="fill:none;stroke:black;stroke-width:1;stroke-opacity:1"
+       id="rect68731" />
+    <rect
+       width="50"
+       height="50"
+       x="550"
+       y="50"
+       style="fill:none;stroke:black;stroke-width:1;stroke-opacity:1"
+       id="rect68733" />
+    <rect
+       width="50"
+       height="50"
+       x="600"
+       y="50"
+       style="fill:none;stroke:black;stroke-width:1;stroke-opacity:1"
+       id="rect68735" />
+    <rect
+       width="50"
+       height="50"
+       x="600"
+       y="100"
+       style="fill:none;stroke:black;stroke-width:1;stroke-opacity:1"
+       id="rect68737" />
+    <rect
+       width="50"
+       height="50"
+       x="600"
+       y="150"
+       style="fill:none;stroke:black;stroke-width:1;stroke-opacity:1"
+       id="rect68739" />
+    <rect
+       width="50"
+       height="50"
+       x="600"
+       y="200"
+       style="fill:none;stroke:black;stroke-width:1;stroke-opacity:1"
+       id="rect68741" />
+    <rect
+       width="50"
+       height="50"
+       x="600"
+       y="250"
+       style="fill:none;stroke:black;stroke-width:1;stroke-opacity:1"
+       id="rect68743" />
+    <rect
+       width="50"
+       height="50"
+       x="600"
+       y="300"
+       style="fill:none;stroke:black;stroke-width:1;stroke-opacity:1"
+       id="rect68745" />
+    <rect
+       width="50"
+       height="50"
+       x="600"
+       y="350"
+       style="fill:none;stroke:black;stroke-width:1;stroke-opacity:1"
+       id="rect68747" />
+    <rect
+       width="50"
+       height="50"
+       x="600"
+       y="400"
+       style="fill:none;stroke:black;stroke-width:1;stroke-opacity:1"
+       id="rect68749" />
+    <rect
+       width="50"
+       height="50"
+       x="600"
+       y="450"
+       style="fill:none;stroke:black;stroke-width:1;stroke-opacity:1"
+       id="rect68751" />
+    <rect
+       width="50"
+       height="50"
+       x="600"
+       y="500"
+       style="fill:none;stroke:black;stroke-width:1;stroke-opacity:1"
+       id="rect68753" />
+    <rect
+       width="50"
+       height="50"
+       x="600"
+       y="550"
+       style="fill:none;stroke:black;stroke-width:1;stroke-opacity:1"
+       id="rect68755" />
+    <rect
+       width="50"
+       height="50"
+       x="600"
+       y="650"
+       style="fill:#b5be22;fill-opacity:1;stroke:black;stroke-width:1;stroke-opacity:1"
+       id="rect68759" />
+    <rect
+       width="50"
+       height="50"
+       x="600"
+       y="600"
+       style="fill:none;stroke:black;stroke-width:1;stroke-opacity:1"
+       id="rect68757" />
+    <rect
+       width="50"
+       height="50"
+       x="650"
+       y="650"
+       style="fill:none;stroke:black;stroke-width:1;stroke-opacity:1"
+       id="rect68761" />
+    <rect
+       width="50"
+       height="50"
+       x="700"
+       y="50"
+       style="fill:none;stroke:black;stroke-width:1;stroke-opacity:1"
+       id="rect68763" />
+    <rect
+       width="50"
+       height="50"
+       x="700"
+       y="100"
+       style="fill:none;stroke:black;stroke-width:1;stroke-opacity:1"
+       id="rect68765" />
+    <rect
+       width="50"
+       height="50"
+       x="700"
+       y="150"
+       style="fill:none;stroke:black;stroke-width:1;stroke-opacity:1"
+       id="rect68767" />
+    <rect
+       width="50"
+       height="50"
+       x="700"
+       y="200"
+       style="fill:none;stroke:black;stroke-width:1;stroke-opacity:1"
+       id="rect68769" />
+    <rect
+       width="50"
+       height="50"
+       x="700"
+       y="250"
+       style="fill:none;stroke:black;stroke-width:1;stroke-opacity:1"
+       id="rect68771" />
+    <rect
+       width="50"
+       height="50"
+       x="700"
+       y="300"
+       style="fill:none;stroke:black;stroke-width:1;stroke-opacity:1"
+       id="rect68773" />
+    <rect
+       width="50"
+       height="50"
+       x="700"
+       y="350"
+       style="fill:none;stroke:black;stroke-width:1;stroke-opacity:1"
+       id="rect68775" />
+    <rect
+       width="50"
+       height="50"
+       x="700"
+       y="400"
+       style="fill:none;stroke:black;stroke-width:1;stroke-opacity:1"
+       id="rect68777" />
+    <rect
+       width="50"
+       height="50"
+       x="700"
+       y="450"
+       style="fill:none;stroke:black;stroke-width:1;stroke-opacity:1"
+       id="rect68779" />
+    <rect
+       width="50"
+       height="50"
+       x="700"
+       y="500"
+       style="fill:none;stroke:black;stroke-width:1;stroke-opacity:1"
+       id="rect68781" />
+    <rect
+       width="50"
+       height="50"
+       x="700"
+       y="550"
+       style="fill:none;stroke:black;stroke-width:1;stroke-opacity:1"
+       id="rect68783" />
+    <rect
+       width="50"
+       height="50"
+       x="700"
+       y="600"
+       style="fill:none;stroke:black;stroke-width:1;stroke-opacity:1"
+       id="rect68785" />
+    <rect
+       width="50"
+       height="50"
+       x="700"
+       y="650"
+       style="fill:none;stroke:black;stroke-width:1;stroke-opacity:1"
+       id="rect68787" />
+    <rect
+       width="50"
+       height="50"
+       x="750"
+       y="50"
+       style="fill:none;stroke:black;stroke-width:1;stroke-opacity:1"
+       id="rect68789" />
+    <rect
+       width="50"
+       height="50"
+       x="800"
+       y="50"
+       style="fill:none;stroke:black;stroke-width:1;stroke-opacity:1"
+       id="rect68791" />
+    <rect
+       width="50"
+       height="50"
+       x="800"
+       y="100"
+       style="fill:none;stroke:black;stroke-width:1;stroke-opacity:1"
+       id="rect68793" />
+    <rect
+       width="50"
+       height="50"
+       x="800"
+       y="150"
+       style="fill:none;stroke:black;stroke-width:1;stroke-opacity:1"
+       id="rect68795" />
+    <rect
+       width="50"
+       height="50"
+       x="800"
+       y="200"
+       style="fill:none;stroke:black;stroke-width:1;stroke-opacity:1"
+       id="rect68797" />
+    <rect
+       width="50"
+       height="50"
+       x="800"
+       y="250"
+       style="fill:none;stroke:black;stroke-width:1;stroke-opacity:1"
+       id="rect68799" />
+    <rect
+       width="50"
+       height="50"
+       x="800"
+       y="300"
+       style="fill:none;stroke:black;stroke-width:1;stroke-opacity:1"
+       id="rect68801" />
+    <rect
+       width="50"
+       height="50"
+       x="800"
+       y="350"
+       style="fill:none;stroke:black;stroke-width:1;stroke-opacity:1"
+       id="rect68803" />
+    <rect
+       width="50"
+       height="50"
+       x="800"
+       y="400"
+       style="fill:none;stroke:black;stroke-width:1;stroke-opacity:1"
+       id="rect68805" />
+    <rect
+       width="50"
+       height="50"
+       x="800"
+       y="450"
+       style="fill:#ccc;fill-opacity:1;stroke:black;stroke-width:1;stroke-opacity:1"
+       id="rect68807" />
+    <text
+       x="425"
+       y="85"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+       id="text68809">−4</text>
+    <text
+       x="425"
+       y="135"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+       id="text68811">−3</text>
+    <text
+       x="425"
+       y="185"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+       id="text68813">−2</text>
+    <text
+       x="425"
+       y="235"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+       id="text68815">−1</text>
+    <text
+       x="425"
+       y="285"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+       id="text68817">0</text>
+    <text
+       x="425"
+       y="335"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+       id="text68819">1</text>
+    <text
+       x="425"
+       y="385"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+       id="text68821">2</text>
+    <text
+       x="425"
+       y="435"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+       id="text68823">3</text>
+    <text
+       x="425"
+       y="485"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+       id="text68825">4</text>
+    <text
+       x="425"
+       y="535"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+       id="text68827">5</text>
+    <text
+       x="425"
+       y="585"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+       id="text68829">6</text>
+    <text
+       x="425"
+       y="635"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+       id="text68831">7</text>
+    <text
+       x="425"
+       y="685"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+       id="text68833">8</text>
+    <text
+       x="475"
+       y="685"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+       id="text68835">9</text>
+    <text
+       x="525"
+       y="85"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+       id="text68837">22</text>
+    <text
+       x="525"
+       y="135"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+       id="text68839">21</text>
+    <text
+       x="525"
+       y="185"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+       id="text68841">20</text>
+    <text
+       x="525"
+       y="235"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+       id="text68843">19</text>
+    <text
+       x="525"
+       y="285"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+       id="text68845">18</text>
+    <text
+       x="525"
+       y="335"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+       id="text68847">17</text>
+    <text
+       x="525"
+       y="385"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+       id="text68849">16</text>
+    <text
+       x="525"
+       y="435"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+       id="text68851">15</text>
+    <text
+       x="525"
+       y="485"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+       id="text68853">14</text>
+    <text
+       x="525"
+       y="535"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+       id="text68855">13</text>
+    <text
+       x="525"
+       y="585"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+       id="text68857">12</text>
+    <text
+       x="525"
+       y="635"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+       id="text68859">11</text>
+    <text
+       x="525"
+       y="685"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+       id="text68861">10</text>
+    <text
+       x="575"
+       y="85"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+       id="text68863">23</text>
+    <text
+       x="625"
+       y="85"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+       id="text68865">24</text>
+    <text
+       x="625"
+       y="135"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+       id="text68867">25</text>
+    <text
+       x="625"
+       y="185"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+       id="text68869">26</text>
+    <text
+       x="625"
+       y="235"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+       id="text68871">27</text>
+    <text
+       x="625"
+       y="285"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+       id="text68873">28</text>
+    <text
+       x="625"
+       y="335"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+       id="text68875">29</text>
+    <text
+       x="625"
+       y="385"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+       id="text68877">30</text>
+    <text
+       x="625"
+       y="435"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+       id="text68879">31</text>
+    <text
+       x="625"
+       y="485"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+       id="text68881">32</text>
+    <text
+       x="625"
+       y="535"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+       id="text68883">33</text>
+    <text
+       x="625"
+       y="585"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+       id="text68885">34</text>
+    <text
+       x="625"
+       y="635"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+       id="text68887">35</text>
+    <text
+       x="625"
+       y="685"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+       id="text68889">36</text>
+    <text
+       x="675"
+       y="685"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+       id="text68891">37</text>
+    <text
+       x="725"
+       y="85"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+       id="text68893">50</text>
+    <text
+       x="725"
+       y="135"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+       id="text68895">49</text>
+    <text
+       x="725"
+       y="185"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+       id="text68897">48</text>
+    <text
+       x="725"
+       y="235"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+       id="text68899">47</text>
+    <text
+       x="725"
+       y="285"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+       id="text68901">46</text>
+    <text
+       x="725"
+       y="335"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+       id="text68903">45</text>
+    <text
+       x="725"
+       y="385"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+       id="text68905">44</text>
+    <text
+       x="725"
+       y="435"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+       id="text68907">43</text>
+    <text
+       x="725"
+       y="485"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+       id="text68909">42</text>
+    <text
+       x="725"
+       y="535"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+       id="text68911">41</text>
+    <text
+       x="725"
+       y="585"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+       id="text68913">40</text>
+    <text
+       x="725"
+       y="635"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+       id="text68915">39</text>
+    <text
+       x="725"
+       y="685"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+       id="text68917">38</text>
+    <text
+       x="775"
+       y="85"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+       id="text68919">51</text>
+    <text
+       x="825"
+       y="85"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+       id="text68921">52</text>
+    <text
+       x="825"
+       y="135"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+       id="text68923">53</text>
+    <text
+       x="825"
+       y="185"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+       id="text68925">54</text>
+    <text
+       x="825"
+       y="235"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+       id="text68927">55</text>
+    <text
+       x="825"
+       y="285"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+       id="text68929">56</text>
+    <text
+       x="825"
+       y="335"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+       id="text68931">57</text>
+    <text
+       x="825"
+       y="385"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+       id="text68933">58</text>
+    <text
+       x="825"
+       y="435"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+       id="text68935">59</text>
+    <text
+       x="825"
+       y="485"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-opacity:1;font-family:Nimbus Sans L"
+       id="text68937">60</text>
+    <text
+       x="825"
+       y="518.36218"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Sans L"
+       id="text71849"
+       xml:space="preserve"><tspan
+         x="825"
+         y="518.36218"
+         id="tspan71853">RAIL</tspan><tspan
+         x="825"
+         y="530.36218"
+         id="tspan71855">SYSTEM</tspan><tspan
+         x="825"
+         y="542.36218"
+         id="tspan71857">COLLAPSE</tspan></text>
+    <text
+       x="625"
+       y="718.36218"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Sans L"
+       id="text71859"
+       xml:space="preserve"><tspan
+         x="625"
+         y="718.36218"
+         id="tspan71861">MAXIMUM</tspan><tspan
+         x="625"
+         y="730.36218"
+         id="tspan71863">CHERBOURG</tspan><tspan
+         x="625"
+         y="742.36218"
+         id="tspan71865">CAPACITY</tspan></text>
+    <text
+       x="425"
+       y="17.362183"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Sans L"
+       id="text71867"
+       xml:space="preserve"><tspan
+         x="425"
+         y="17.362183"
+         id="tspan71869">MAXIMUM</tspan><tspan
+         x="425"
+         y="29.362183"
+         id="tspan71871">CHERBOURG</tspan><tspan
+         x="425"
+         y="41.362183"
+         id="tspan71873">DAMAGE</tspan></text>
+  </g>
+  <text
+     x="685.80365"
+     y="34.362183"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text68939"
+     xml:space="preserve"><tspan
+       x="689.13177"
+       y="34.362183"
+       id="tspan68947">RAIL DAMAGE AND </tspan><tspan
+       x="685.80365"
+       y="64.362183"
+       id="tspan68949">CHERBOURG  PORT CAPACITY TRACK</tspan></text>
+</svg>

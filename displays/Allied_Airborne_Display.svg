@@ -1,0 +1,973 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.0"
+   width="775"
+   height="625"
+   id="svg2">
+  <defs
+     id="defs4">
+    <path
+       d="M 0,0 L 15,-25.9808 L 45,-25.9808 L 60,0 L 45,25.9808 L 15,25.9808 L 0,0 z "
+       id="outline" />
+    <path
+       d="M 0,0 L 30,0"
+       id="tops" />
+    <path
+       d=""
+       id="bottoms" />
+    <path
+       d="M 0,0 L 12.5,-21.6506 L 37.5,-21.6506 L 50,0 L 37.5,21.6506 L 12.5,21.6506 L 0,0 z "
+       id="path3032" />
+    <path
+       d="M 0,0 L 25,0"
+       id="path3030" />
+    <path
+       d=""
+       id="path3028" />
+    <path
+       d="M 0,0 L 10,-17.3205 L 30,-17.3205 L 40,0 L 30,17.3205 L 10,17.3205 L 0,0 z "
+       id="path3094" />
+    <path
+       d="M 0,0 L 20,0"
+       id="path3092" />
+    <path
+       d=""
+       id="path3090" />
+    <path
+       d="M 0,0 L 12.5,-21.6506 L 37.5,-21.6506 L 50,0 L 75,0 L 87.5,-21.6506 L 112.5,-21.6506 L 125,0 L 150,0 L 162.5,-21.6506 L 187.5,-21.6506 L 200,0 L 187.5,21.6506 L 200,43.3012 L 187.5,64.9518 L 200,86.6024 L 187.5,108.253 L 200,129.9036 L 187.5,151.5542 L 162.5,151.5542 L 150,173.2048 L 125,173.2048 L 112.5,151.5542 L 87.5,151.5542 L 75,173.2048 L 50,173.2048 L 37.5,151.5542 L 12.5,151.5542 L 0,129.9036 L 12.5,108.253 L 0,86.6024 L 12.5,64.9518 L 0,43.3012 L 12.5,21.6506 L 0,0 z "
+       id="path3354" />
+    <path
+       d="M 0,0 L 25,0 L 37.5,21.6506 L 62.5,21.6506 L 75,0 L 100,0 L 112.5,21.6506 L 137.5,21.6506 L 150,0 L 175,0"
+       id="path3352" />
+    <path
+       d="M 0,0 L 12.5,-21.6506 M 37.5,-21.6506 L 50,0 M 75,0 L 87.5,-21.6506 M 112.5,-21.6506 L 125,0"
+       id="path3350" />
+  </defs>
+  <text
+     x="270"
+     y="31"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text2938"
+     xml:space="preserve"><tspan
+       x="270"
+       y="31"
+       id="tspan2940">ALLIED AIRBORNE DISPLAY</tspan></text>
+  <text
+     x="534"
+     y="74"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text2942"
+     xml:space="preserve"><tspan
+       x="534"
+       y="74"
+       id="tspan2944">DRIFT DIAGRAM</tspan></text>
+  <text
+     x="8"
+     y="67"
+     style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text2946"
+     xml:space="preserve"><tspan
+       x="8"
+       y="67"
+       id="tspan2948">US 82nd AIRBORNE DIVISION</tspan></text>
+  <text
+     x="8"
+     y="266"
+     style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text2950"
+     xml:space="preserve"><tspan
+       x="8"
+       y="266"
+       id="tspan2952">US 101st AIRBORNE DIVISION</tspan></text>
+  <text
+     x="8"
+     y="468"
+     style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text2954"
+     xml:space="preserve"><tspan
+       x="8"
+       y="468"
+       id="tspan2956">BRITISH 6th AIRBORNE DIVISION</tspan></text>
+  <text
+     x="310"
+     y="67"
+     style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text2958"
+     xml:space="preserve"><tspan
+       x="310"
+       y="67"
+       id="tspan2960">Air Drop Phase</tspan></text>
+  <text
+     x="310"
+     y="268"
+     style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text2962"
+     xml:space="preserve"><tspan
+       x="310"
+       y="268"
+       id="tspan2964">Air Drop Phase</tspan></text>
+  <text
+     x="351"
+     y="466"
+     style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text2966"
+     xml:space="preserve"><tspan
+       x="351"
+       y="466"
+       id="tspan2968">Air Drop Phase</tspan></text>
+  <text
+     x="44"
+     y="141"
+     style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text2970"
+     xml:space="preserve"><tspan
+       x="44"
+       y="141"
+       id="tspan2972">Drop Zone &quot;N&quot;</tspan></text>
+  <text
+     x="219"
+     y="141"
+     style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text2974"
+     xml:space="preserve"><tspan
+       x="219"
+       y="141"
+       id="tspan2976">Drop Zone &quot;T&quot;</tspan></text>
+  <text
+     x="392"
+     y="141"
+     style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text2978"
+     xml:space="preserve"><tspan
+       x="392"
+       y="141"
+       id="tspan2980">Drop Zone &quot;O&quot;</tspan></text>
+  <text
+     x="67"
+     y="216"
+     style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text2986"
+     xml:space="preserve"><tspan
+       x="67"
+       y="216"
+       id="tspan2988">Drop Zone &quot;O&quot;</tspan></text>
+  <text
+     x="240"
+     y="216"
+     style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text2990"
+     xml:space="preserve"><tspan
+       x="240"
+       y="216"
+       id="tspan2992">Drop Zone &quot;W&quot;</tspan></text>
+  <text
+     x="389.81042"
+     y="216"
+     style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text2994"
+     xml:space="preserve"><tspan
+       x="389.81042"
+       y="216"
+       id="tspan2996">Drop Zone &quot;W&quot;</tspan></text>
+  <text
+     x="149"
+     y="229"
+     style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text2998"
+     xml:space="preserve"><tspan
+       x="149"
+       y="229"
+       id="tspan3000">Build-Up Phase</tspan></text>
+  <text
+     x="216"
+     y="432"
+     style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text3002"
+     xml:space="preserve"><tspan
+       x="216"
+       y="432"
+       id="tspan3004">Build-Up Phase</tspan></text>
+  <text
+     x="377"
+     y="229"
+     style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text3006"
+     xml:space="preserve"><tspan
+       x="377"
+       y="229"
+       id="tspan3008">D+1 Air Drop Phase</tspan></text>
+  <text
+     x="41"
+     y="343"
+     style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text3010"
+     xml:space="preserve"><tspan
+       x="41"
+       y="343"
+       id="tspan3012">Drop Zone &quot;A&quot;</tspan></text>
+  <text
+     x="218"
+     y="343"
+     style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text3014"
+     xml:space="preserve"><tspan
+       x="218"
+       y="343"
+       id="tspan3016">Drop Zone &quot;C&quot;</tspan></text>
+  <text
+     x="391.5"
+     y="343"
+     style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text3018"
+     xml:space="preserve"><tspan
+       x="391.5"
+       y="343"
+       id="tspan3020">Drop Zone &quot;D&quot;</tspan></text>
+  <text
+     x="117"
+     y="416"
+     style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text3022"
+     xml:space="preserve"><tspan
+       x="117"
+       y="416"
+       id="tspan3024">Drop Zone &quot;A&quot;</tspan></text>
+  <text
+     x="318"
+     y="416"
+     style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text3026"
+     xml:space="preserve"><tspan
+       x="318"
+       y="416"
+       id="tspan3028">Drop Zone &quot;C&quot;</tspan></text>
+  <text
+     x="40"
+     y="541"
+     style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text3030"
+     xml:space="preserve"><tspan
+       x="40"
+       y="541"
+       id="tspan3032">Drop Zone &quot;M&quot;</tspan></text>
+  <text
+     x="166"
+     y="541"
+     style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text3034"
+     xml:space="preserve"><tspan
+       x="166"
+       y="541"
+       id="tspan3036">Drop Zone &quot;Y&quot;</tspan></text>
+  <text
+     x="267"
+     y="541"
+     style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text3038"
+     xml:space="preserve"><tspan
+       x="267"
+       y="541"
+       id="tspan3040">Drop Zone &quot;V&quot;</tspan></text>
+  <text
+     x="367"
+     y="541"
+     style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text3042"
+     xml:space="preserve"><tspan
+       x="367"
+       y="541"
+       id="tspan3044">Drop Zone &quot;K&quot;</tspan></text>
+  <text
+     x="487"
+     y="541"
+     style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text3046"
+     xml:space="preserve"><tspan
+       x="487"
+       y="541"
+       id="tspan3048">Merville</tspan></text>
+  <text
+     x="41"
+     y="616"
+     style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text3050"
+     xml:space="preserve"><tspan
+       x="41"
+       y="616"
+       id="tspan3052">Drop Zone &quot;N&quot;</tspan></text>
+  <text
+     x="268"
+     y="616"
+     style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text3054"
+     xml:space="preserve"><tspan
+       x="268"
+       y="616"
+       id="tspan3056">Build-Up Phase</tspan></text>
+  <text
+     x="374"
+     y="616"
+     style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text3058"
+     xml:space="preserve"><tspan
+       x="374"
+       y="616"
+       id="tspan3060">Drop Zone &quot;M&quot; or &quot;N&quot;</tspan></text>
+  <text
+     x="530.31799"
+     y="271.86398"
+     style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Sans L"
+     id="text3062"
+     xml:space="preserve"><tspan
+       x="530.31799"
+       y="271.86398"
+       id="tspan3064">1. This diagram used for Allied air drop and</tspan><tspan
+       x="530.31799"
+       y="283.86398"
+       id="tspan3066">air supply procedures.</tspan><tspan
+       x="530.31799"
+       y="295.86398"
+       id="tspan3068">2. Roll ONCE for each unit counter for drift.</tspan><tspan
+       x="530.31799"
+       y="307.86398"
+       id="tspan3070">If the unit drifts, roll once on DISPERSAL</tspan><tspan
+       x="530.31799"
+       y="319.86398"
+       id="tspan3072">TABLE below to determine effects.</tspan><tspan
+       x="530.31799"
+       y="331.86398"
+       id="tspan3074">3. Modify drift die rolls as follows:</tspan><tspan
+       x="530.31799"
+       y="343.86398"
+       id="tspan3076">    -2 for HQ and glider units</tspan><tspan
+       x="530.31799"
+       y="355.86398"
+       id="tspan3078">   +1 for air supply</tspan><tspan
+       x="530.31799"
+       y="367.86398"
+       id="tspan3080">   +2 for enemy unit in drop zone</tspan><tspan
+       x="530.31799"
+       y="379.86398"
+       id="tspan3082">4. DISPERSAL: Units that drift roll once on</tspan><tspan
+       x="530.31799"
+       y="391.86398"
+       id="tspan3084">table. D=Unit disrupted. LS=unit loses one</tspan><tspan
+       x="530.31799"
+       y="403.86398"
+       id="tspan3086">step. NOTE: Do not roll for HQ units</tspan><tspan
+       x="530.31799"
+       y="415.86398"
+       id="tspan3088">regardless of drift.</tspan></text>
+  <g
+     transform="translate(24,-2)"
+     id="g2877">
+    <text
+       x="568"
+       y="439"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Sans L"
+       id="text3108"
+       xml:space="preserve"><tspan
+         x="568"
+         y="439"
+         id="tspan3110">DIE ROLL</tspan></text>
+    <text
+       x="568"
+       y="456"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Sans L"
+       id="text3112"
+       xml:space="preserve"><tspan
+         x="568"
+         y="456"
+         id="tspan3114">RESULT</tspan></text>
+    <text
+       x="635"
+       y="439"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Sans L"
+       id="text3116"
+       xml:space="preserve"><tspan
+         x="635"
+         y="439"
+         id="tspan3118">1-2</tspan></text>
+    <text
+       x="670"
+       y="439"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Sans L"
+       id="text3120"
+       xml:space="preserve"><tspan
+         x="670"
+         y="439"
+         id="tspan3122">3-4</tspan></text>
+    <text
+       x="703"
+       y="439"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Sans L"
+       id="text3124"
+       xml:space="preserve"><tspan
+         x="703"
+         y="439"
+         id="tspan3126">5-6</tspan></text>
+    <text
+       x="674"
+       y="456"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Sans L"
+       id="text3132"
+       xml:space="preserve"><tspan
+         x="674"
+         y="456"
+         id="tspan3134">D</tspan></text>
+    <text
+       x="699"
+       y="456"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Sans L"
+       id="text3136"
+       xml:space="preserve"><tspan
+         x="699"
+         y="456"
+         id="tspan3138">D/LS</tspan></text>
+    <path
+       d="M 563,443 L 729,443"
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:black;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path2851" />
+    <path
+       d="M 627,425 L 627,460"
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:black;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path2853" />
+    <path
+       d="M 661,425 L 661,460"
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:black;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path2855" />
+    <path
+       d="M 695,425 L 695,460"
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:black;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path2857" />
+    <text
+       x="638.22455"
+       y="455"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Sans L"
+       id="text2845"
+       xml:space="preserve"><tspan
+         x="638.22455"
+         y="455"
+         id="tspan2849">—</tspan></text>
+  </g>
+  <g
+     id="g5383">
+    <path
+       d="M 614.2071,215.66171 L 601.7071,194.01111 L 601.7071,194.01095 L 614.2071,172.3602 L 639.2071,172.3602 L 651.7071,194.0108 L 676.7071,194.0108 L 689.2071,172.3602 L 676.7071,150.7096 L 651.7071,150.7096 L 639.2071,129.059 L 614.2071,129.059 L 601.7071,150.7096 L 576.7071,150.7096 L 564.2071,129.059 L 539.2071,129.05895 L 526.7071,107.4083 L 539.2071,85.7577 L 564.2071,85.7577 L 576.7071,107.4083 L 601.7071,107.40835 L 601.7071,107.4084 L 614.2071,129.059 M 564.2071,129.059 L 576.7071,107.4084 M 601.7071,150.7096 L 614.2071,172.3602 M 639.2071,172.3602 L 651.7071,150.7096 M 639.2071,215.66171 L 651.7071,194.01111 M 676.7071,194.01111 L 689.2071,215.66171 M 676.7071,237.3121 L 689.2071,258.9626 L 714.2071,258.9625 L 726.7071,237.3119 L 714.2071,215.66151 L 689.2071,215.66171 L 676.7071,237.31231 L 651.7071,237.31231 L 639.2071,215.66171 L 614.2071,215.66171 L 601.7071,237.3122 L 601.7071,237.3121 L 614.2071,258.9626 L 639.2071,258.9626 L 639.2071,258.9627 L 651.7071,237.3121"
+       style="fill:none;stroke:black;stroke-width:1;stroke-opacity:1"
+       id="use3423" />
+    <text
+       x="548"
+       y="114"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Sans L"
+       id="text3494"
+       xml:space="preserve"><tspan
+         x="548"
+         y="114"
+         id="tspan3496">8</tspan></text>
+    <text
+       x="585"
+       y="135"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Sans L"
+       id="text3498"
+       xml:space="preserve"><tspan
+         x="585"
+         y="135"
+         id="tspan3500">6</tspan></text>
+    <text
+       x="622"
+       y="157"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Sans L"
+       id="text3514"
+       xml:space="preserve"><tspan
+         x="622"
+         y="157"
+         id="tspan3516">5</tspan></text>
+    <text
+       x="660"
+       y="178"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Sans L"
+       id="text3518"
+       xml:space="preserve"><tspan
+         x="660"
+         y="178"
+         id="tspan3520">4</tspan></text>
+    <text
+       x="660"
+       y="221"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Sans L"
+       id="text3522"
+       xml:space="preserve"><tspan
+         x="660"
+         y="221"
+         id="tspan3524">3</tspan></text>
+    <text
+       x="698"
+       y="244"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Sans L"
+       id="text3526"
+       xml:space="preserve"><tspan
+         x="698"
+         y="244"
+         id="tspan3528">7</tspan></text>
+    <text
+       x="622"
+       y="243"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Sans L"
+       id="text3530"
+       xml:space="preserve"><tspan
+         x="622"
+         y="243"
+         id="tspan3532">2</tspan></text>
+    <text
+       x="605"
+       y="200"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Sans L"
+       id="text3534"
+       xml:space="preserve"><tspan
+         x="605"
+         y="200"
+         id="tspan3536">-1 0 1</tspan></text>
+    <text
+       x="614"
+       y="185"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Sans L"
+       id="text5334"
+       xml:space="preserve"><tspan
+         x="614"
+         y="185"
+         id="tspan5336">Drop</tspan></text>
+    <text
+       x="614"
+       y="211.61221"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Sans L"
+       id="text5338"
+       xml:space="preserve"><tspan
+         x="614"
+         y="211.61221"
+         id="tspan5340">Zone</tspan></text>
+  </g>
+  <g
+     id="g9069">
+    <rect
+       width="50"
+       height="50"
+       x="8"
+       y="78"
+       style="fill:none;stroke:black;stroke-width:1"
+       id="rect9071" />
+    <rect
+       width="50"
+       height="50"
+       x="58"
+       y="78"
+       style="fill:none;stroke:black;stroke-width:1"
+       id="rect9073" />
+    <rect
+       width="50"
+       height="50"
+       x="108"
+       y="78"
+       style="fill:none;stroke:black;stroke-width:1"
+       id="rect9075" />
+  </g>
+  <g
+     id="g9077">
+    <rect
+       width="50"
+       height="50"
+       x="183"
+       y="78"
+       style="fill:none;stroke:black;stroke-width:1"
+       id="rect9079" />
+    <rect
+       width="50"
+       height="50"
+       x="233"
+       y="78"
+       style="fill:none;stroke:black;stroke-width:1"
+       id="rect9081" />
+    <rect
+       width="50"
+       height="50"
+       x="283"
+       y="78"
+       style="fill:none;stroke:black;stroke-width:1"
+       id="rect9083" />
+  </g>
+  <g
+     id="g9085">
+    <rect
+       width="50"
+       height="50"
+       x="358"
+       y="78"
+       style="fill:none;stroke:black;stroke-width:1"
+       id="rect9087" />
+    <rect
+       width="50"
+       height="50"
+       x="408"
+       y="78"
+       style="fill:none;stroke:black;stroke-width:1"
+       id="rect9089" />
+    <rect
+       width="50"
+       height="50"
+       x="458"
+       y="78"
+       style="fill:none;stroke:black;stroke-width:1"
+       id="rect9091" />
+  </g>
+  <g
+     transform="translate(0,-19)"
+     id="g9093">
+    <rect
+       width="50"
+       height="50"
+       x="8"
+       y="172"
+       style="fill:none;stroke:black;stroke-width:1"
+       id="rect9095" />
+    <rect
+       width="50"
+       height="50"
+       x="58"
+       y="172"
+       style="fill:none;stroke:black;stroke-width:1"
+       id="rect9097" />
+    <rect
+       width="50"
+       height="50"
+       x="108"
+       y="172"
+       style="fill:none;stroke:black;stroke-width:1"
+       id="rect9099" />
+    <rect
+       width="50"
+       height="50"
+       x="158"
+       y="172"
+       style="fill:none;stroke:black;stroke-width:1"
+       id="rect9101" />
+  </g>
+  <g
+     transform="translate(0,-19)"
+     id="g9103">
+    <rect
+       width="50"
+       height="50"
+       x="233"
+       y="172"
+       style="fill:none;stroke:black;stroke-width:1"
+       id="rect9105" />
+    <rect
+       width="50"
+       height="50"
+       x="283"
+       y="172"
+       style="fill:none;stroke:black;stroke-width:1"
+       id="rect9107" />
+  </g>
+  <g
+     transform="translate(0,-19)"
+     id="g9109">
+    <rect
+       width="50"
+       height="50"
+       x="358"
+       y="172"
+       style="fill:none;stroke:black;stroke-width:1"
+       id="rect9111" />
+    <rect
+       width="50"
+       height="50"
+       x="408"
+       y="172"
+       style="fill:none;stroke:black;stroke-width:1"
+       id="rect9113" />
+    <rect
+       width="50"
+       height="50"
+       x="458"
+       y="172"
+       style="fill:none;stroke:black;stroke-width:1"
+       id="rect9115" />
+  </g>
+  <g
+     transform="translate(0,-13)"
+     id="g9117">
+    <rect
+       width="50"
+       height="50"
+       x="8"
+       y="291"
+       style="fill:none;stroke:black;stroke-width:1"
+       id="rect9119" />
+    <rect
+       width="50"
+       height="50"
+       x="58"
+       y="291"
+       style="fill:none;stroke:black;stroke-width:1"
+       id="rect9121" />
+    <rect
+       width="50"
+       height="50"
+       x="108"
+       y="291"
+       style="fill:none;stroke:black;stroke-width:1"
+       id="rect9123" />
+  </g>
+  <g
+     transform="translate(0,-13)"
+     id="g9125">
+    <rect
+       width="50"
+       height="50"
+       x="183"
+       y="291"
+       style="fill:none;stroke:black;stroke-width:1"
+       id="rect9127" />
+    <rect
+       width="50"
+       height="50"
+       x="233"
+       y="291"
+       style="fill:none;stroke:black;stroke-width:1"
+       id="rect9129" />
+    <rect
+       width="50"
+       height="50"
+       x="283"
+       y="291"
+       style="fill:none;stroke:black;stroke-width:1"
+       id="rect9131" />
+  </g>
+  <g
+     transform="translate(0,-13)"
+     id="g9133">
+    <rect
+       width="50"
+       height="50"
+       x="358"
+       y="291"
+       style="fill:none;stroke:black;stroke-width:1"
+       id="rect9135" />
+    <rect
+       width="50"
+       height="50"
+       x="408"
+       y="291"
+       style="fill:none;stroke:black;stroke-width:1"
+       id="rect9137" />
+    <rect
+       width="50"
+       height="50"
+       x="458"
+       y="291"
+       style="fill:none;stroke:black;stroke-width:1"
+       id="rect9139" />
+  </g>
+  <g
+     transform="translate(0,-31)"
+     id="g9141">
+    <rect
+       width="50"
+       height="50"
+       x="108"
+       y="384"
+       style="fill:none;stroke:black;stroke-width:1"
+       id="rect9143" />
+    <rect
+       width="50"
+       height="50"
+       x="158"
+       y="384"
+       style="fill:none;stroke:black;stroke-width:1"
+       id="rect9145" />
+  </g>
+  <g
+     transform="translate(0,-31)"
+     id="g9147">
+    <rect
+       width="50"
+       height="50"
+       x="283"
+       y="384"
+       style="fill:none;stroke:black;stroke-width:1"
+       id="rect9149" />
+    <rect
+       width="50"
+       height="50"
+       x="333"
+       y="384"
+       style="fill:none;stroke:black;stroke-width:1"
+       id="rect9151" />
+    <rect
+       width="50"
+       height="50"
+       x="383"
+       y="384"
+       style="fill:none;stroke:black;stroke-width:1"
+       id="rect9153" />
+  </g>
+  <g
+     transform="translate(0,-26)"
+     id="g9155">
+    <rect
+       width="50"
+       height="50"
+       x="8"
+       y="504"
+       style="fill:none;stroke:black;stroke-width:1"
+       id="rect9157" />
+    <rect
+       width="50"
+       height="50"
+       x="58"
+       y="504"
+       style="fill:none;stroke:black;stroke-width:1"
+       id="rect9159" />
+    <rect
+       width="50"
+       height="50"
+       x="108"
+       y="504"
+       style="fill:none;stroke:black;stroke-width:1"
+       id="rect9161" />
+  </g>
+  <rect
+     width="50"
+     height="50"
+     x="183"
+     y="478"
+     style="fill:none;stroke:black;stroke-width:1"
+     id="rect9163" />
+  <rect
+     width="50"
+     height="50"
+     x="283"
+     y="478"
+     style="fill:none;stroke:black;stroke-width:1"
+     id="rect9165" />
+  <rect
+     width="50"
+     height="50"
+     x="383"
+     y="478"
+     style="fill:none;stroke:black;stroke-width:1"
+     id="rect9167" />
+  <rect
+     width="50"
+     height="50"
+     x="483"
+     y="478"
+     style="fill:none;stroke:black;stroke-width:1"
+     id="rect9169" />
+  <g
+     transform="translate(0,-26)"
+     id="g9171">
+    <rect
+       width="50"
+       height="50"
+       x="8"
+       y="579"
+       style="fill:none;stroke:black;stroke-width:1"
+       id="rect9173" />
+    <rect
+       width="50"
+       height="50"
+       x="58"
+       y="579"
+       style="fill:none;stroke:black;stroke-width:1"
+       id="rect9175" />
+    <rect
+       width="50"
+       height="50"
+       x="108"
+       y="579"
+       style="fill:none;stroke:black;stroke-width:1"
+       id="rect9177" />
+  </g>
+  <g
+     transform="translate(0,-43)"
+     id="g9179">
+    <rect
+       width="50"
+       height="50"
+       x="208"
+       y="596"
+       style="fill:none;stroke:black;stroke-width:1"
+       id="rect9181" />
+    <rect
+       width="50"
+       height="50"
+       x="258"
+       y="596"
+       style="fill:none;stroke:black;stroke-width:1"
+       id="rect9183" />
+    <rect
+       width="50"
+       height="50"
+       x="308"
+       y="596"
+       style="fill:none;stroke:black;stroke-width:1"
+       id="rect9185" />
+    <rect
+       width="50"
+       height="50"
+       x="358"
+       y="596"
+       style="fill:none;stroke:black;stroke-width:1"
+       id="rect9187" />
+    <rect
+       width="50"
+       height="50"
+       x="408"
+       y="596"
+       style="fill:none;stroke:black;stroke-width:1"
+       id="rect9189" />
+    <rect
+       width="50"
+       height="50"
+       x="458"
+       y="596"
+       style="fill:none;stroke:black;stroke-width:1"
+       id="rect9191" />
+    <rect
+       width="50"
+       height="50"
+       x="508"
+       y="596"
+       style="fill:none;stroke:black;stroke-width:1"
+       id="rect9193" />
+  </g>
+  <path
+     d="M 8,348 L 508,348"
+     style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:black;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     id="path9200" />
+  <g
+     transform="translate(0,-6)"
+     id="g9204">
+    <path
+       d="M 8,154 L 508,154"
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:black;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path9198" />
+    <path
+       d="M 346,154 L 346,245"
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:black;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path9202" />
+  </g>
+  <path
+     d="M 0,46 L 520,46 L 520,439 M 0,245 L 520,245 M 0,439 L 570,439 L 570,625"
+     style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:black;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     id="path9208" />
+  <path
+     d="M 185,626 L 185,547 L 558,547"
+     style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:black;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     id="path9226" />
+</svg>

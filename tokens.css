@@ -1,0 +1,160 @@
+@font-face {
+  font-family: "Silkscreen";
+  src: url("file:///home/uckelman/projects/games/tld/mod/silkscreen/slkscr.ttf");
+}
+
+text.division {
+  font-size: 10px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: bold;
+  font-stretch:normal;
+  text-anchor: middle;
+  fill: black;
+  fill-opacity: 1;
+  font-family: "Nimbus Sans L";
+}
+
+text.division-long {
+  font-size: 10px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: bold;
+  font-stretch:normal;
+  text-anchor: middle;
+  fill: black;
+  fill-opacity: 1;
+  font-family: "Nimbus Sans L Condensed";
+}
+
+text.division-split {
+  font-size: 10px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: bold;
+  font-stretch:normal;
+  text-anchor: end;
+  fill: black;
+  fill-opacity: 1;
+  font-family: "Nimbus Sans L Condensed";
+}
+
+text.size {
+  font-size: 9px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: bold;
+  font-stretch: normal;
+  text-anchor: start;
+  fill: black;
+  fill-opacity: 1;
+  font-family: "Nimbus Sans L";
+}
+
+text.range {
+  font-size: 9px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: bold;
+  font-stretch: normal;
+  text-anchor: start;
+  fill: black;
+  fill-opacity: 1;
+  font-family: "Nimbus Sans L";
+}
+
+text.designation {
+  font-size: 6px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  font-stretch: normal;
+  text-anchor: start;
+  fill: black; 
+  fill-opacity: 1;
+  font-family: "Silkscreen";
+}
+
+text.strength-ranged {
+  font-size: 14px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  font-stretch: normal;
+  text-anchor: middle;
+  fill: black;
+  fill-opacity: 1;
+  font-family: "Nimbus Sans L Condensed";
+}
+
+text.strength {
+  font-size: 14px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  font-stretch: normal;
+  text-anchor: end;
+  fill: black;
+  fill-opacity: 1;
+  font-family: "Nimbus Sans L Condensed";
+}
+
+text.strength-fort {
+  font-size: 14px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: bold;
+  font-stretch: normal;
+  text-anchor: middle;
+  fill-opacity: 1;
+  font-family: "Nimbus Sans L Condensed";
+}
+
+text.type {
+  font-size: 6px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  font-stretch: normal;
+  text-anchor: middle;
+  fill: black; 
+  fill-opacity: 1;
+/*  font-family: "Silkscreen"; */
+  font-family: "Numbus Sans L Condensed";
+}
+
+text.diagonal-small {
+  font-size: 10px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  font-stretch: normal;
+  text-anchor: middle;
+  fill: black;
+  fill-opacity: 1;
+  font-family: "Nimbus Sans L Condensed";
+}
+
+text.diagnoal-medium {
+  font-size: 14px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: bold;
+  font-stretch: normal;
+  text-anchor: middle;
+  fill: black;
+  fill-opacity: 1;
+  font-family: "Nimbus Sans L Condensed";
+}
+
+text.diagonal-large {
+  font-size: 24px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: bold;
+  font-stretch: normal;
+  text-anchor: middle;
+  fill: black;
+  fill-opacity: 1;
+  font-family: "Nimbus Sans L";
+}

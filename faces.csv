@@ -1,0 +1,2083 @@
+nat,group,dname,name,o,d,m,s,r,o,d,m,s,r,sz,tp,tr,mod,symbol+annotation,notes,fid,bid
+GE,"101 NW Bde",101,I/101,7,1,8,1,2,,,,,,bn,nw,mot,fix,"mot fixed nw bn 280 18",,0,
+GE,"101 NW Bde",101,II/101,7,1,8,1,2,,,,,,bn,nw,mot,fix,"mot fixed nw bn 280 18",,1,
+GE,"101 NW Bde",101,III/101,7,1,8,1,2,,,,,,bn,nw,mot,fix,"mot fixed nw bn 280 18",,2,
+GE,"10 SS Pz Div",10ss,,5,5,8,3,,2,3,8,3,,bn,ac,ht,rcce,"ht rcce ac bn",,3,2071
+GE,"10 SS Pz Div",10ss,I/10,3,3,6,1,6,,,,,,bn,arty,sp,,"sp arty bn 105 12",,4,
+GE,"10 SS Pz Div",10ss,II/10,3,2,8,1,6,,,,,,bn,arty,,,"arty bn 105 12",,5,
+GE,"10 SS Pz Div",10ss,III/10,4,2,8,1,7,,,,,,bn,arty,mot,,"mot arty bn 150 12",,6,
+GE,"10 SS Pz Div",10ss,IV/10,4,2,8,1,7,,,,,,bn,arty,mot,,"mot arty bn 150 12",,7,
+GE,"10 SS Pz Div",10ss,,2,5,8,2,1,1,3,8,1,1,bn,at,mot,,"mot at bty/mot at bn 75 12","size misprint: 1/2",8,2072
+GE,"10 SS Pz Div",10ss,,12,5,8,3,1,7,3,8,2,1,bn,flak,mot,,"mot flak bn 88 12",,9,2073
+GE,"10 SS Pz Div",10ss,13/10,1,1,8,1,10,,,,,,bty,gun,mot,,"mot gun bty 105G 4",,10,
+GE,"10 SS Pz Div",10ss,I/21,9,10,6,3,,5,6,6,3,,bn,inf,ht,,"ht inf bn",,11,2074
+GE,"10 SS Pz Div",10ss,I/22,9,10,6,3,,5,6,6,3,,bn,inf,ht,,"ht inf bn",,12,2075
+GE,"10 SS Pz Div",10ss,II/21,7,7,8,3,,4,5,8,3,,bn,inf,mot,,"mot inf bn",,13,2076
+GE,"10 SS Pz Div",10ss,II/22,7,7,8,3,,4,5,8,3,,bn,inf,mot,,"mot inf bn",,14,2077
+GE,"10 SS Pz Div",10ss,III/21,7,7,8,3,,4,5,8,3,,bn,inf,mot,,"mot inf bn",,15,2078
+GE,"10 SS Pz Div",10ss,III/22,7,7,8,3,,4,5,8,3,,bn,inf,mot,,"mot inf bn",,16,2079
+GE,"10 SS Pz Div",10ss,,0,2,8,3,,,,,,,bn,inf,,fe,"fe bn",,17,
+GE,"10 SS Pz Div",10ss,,5,5,6,3,,2,3,6,3,,bn,inf,ht,pio,"ht pio bn",,18,2080
+GE,"10 SS Pz Div",10ss,I/10,7,8,6,2,,4,5,6,2,,bn,pz,,,"pz bn IV 59",,19,2081
+GE,"10 SS Pz Div",10ss,II/10,11,12,6,2,,6,6,6,2,,bn,pz,,,"pz bn V 59",,20,2082
+GE,"10 SS Pz Div",10ss,PzJg,3,4,6,3,,1,2,6,3,,bn,pz,,ag,"pz ag bn SG3 22",,21,2083
+GE,"10 SS Pz Div",10ss,StuG,4,5,6,2,,2,3,6,2,,bn,pz,,ag,"pz ag bn SG3 31",,22,2084
+GE,"10 SS Pz Div",10ss,,,3,6,1,,,,,,,div,pz,,hq,"pz div HQ",,23,
+GE,"116 Pz Div",116,,4,5,8,3,,2,3,8,3,,bn,ac,ht,rcce,"ht rcce ac bn",,24,2085
+GE,"116 Pz Div",116,I/146,3,3,6,1,6,,,,,,bn,arty,sp,,"sp arty bn 105 12",,25,
+GE,"116 Pz Div",116,II/146,3,2,8,1,6,,,,,,bn,arty,,,"arty bn 105 12",,26,
+GE,"116 Pz Div",116,III/146,4,2,8,1,7,,,,,,bn,arty,mot,,"mot arty bn 150 12",,27,
+GE,"116 Pz Div",116,,2,5,8,2,1,1,3,8,1,1,bn,at,mot,,"mot at bty/mot at bn 75 12","size misprint: 1/1",28,2086
+GE,"116 Pz Div",116,281,7,4,8,3,1,4,2,8,2,1,bn,flak,mot,,"mot flak bn 88 8",,29,2087
+GE,"116 Pz Div",116,675,4,5,6,3,,2,3,6,3,,bn,inf,ht,pio,"ht pio bn",,30,2088
+GE,"116 Pz Div",116,I/156,8,9,6,3,,5,6,6,3,,bn,inf,ht,,"ht inf bn",,31,2089
+GE,"116 Pz Div",116,I/60,8,9,6,3,,5,6,6,3,,bn,inf,ht,,"ht inf bn",,32,2090
+GE,"116 Pz Div",116,II/156,5,6,8,3,,3,4,8,3,,bn,inf,mot,,"mot inf bn",,33,2091
+GE,"116 Pz Div",116,II/60,5,6,8,3,,3,4,8,3,,bn,inf,mot,,"mot inf bn",,34,2092
+GE,"116 Pz Div",116,,0,2,8,3,,,,,,,bn,inf,mot,fe,"mot fe bn",,35,
+GE,"116 Pz Div",116,288,3,4,6,3,,1,2,6,3,,bn,pz,,ag,"pz ag bn SG3 22",,36,2093
+GE,"116 Pz Div",116,I/16,6,7,6,2,,3,3,6,2,,bn,pz,,,"pz bn IV 48",,37,2094
+GE,"116 Pz Div",116,II/16,9,9,6,2,,5,5,6,2,,bn,pz,,,"pz bn V 48",,38,2095
+GE,"116 Pz Div",116,,,3,6,1,,,,,,,div,pz,,hq,"pz div HQ",,39,
+GE,"12 SS Pz Div",12ss,,5,5,8,3,,2,3,8,3,,bn,ac,ht,rcce,"ht rcce ac bn",,40,2096
+GE,"12 SS Pz Div",12ss,I/12,3,3,6,1,6,,,,,,bn,arty,sp,,"sp arty bn 105 12",,41,
+GE,"12 SS Pz Div",12ss,II/12,5,3,8,1,6,,,,,,bn,arty,,,"arty bn 105 18",,42,
+GE,"12 SS Pz Div",12ss,III/12,6,2,8,1,7,,,,,,bn,arty,,,"arty bn 150 18",,43,
+GE,"12 SS Pz Div",12ss,,2,5,8,2,1,1,3,8,1,1,bn,at,mot,,"mot at bty/mot at bn 75 12","size misprint: 1/2",44,2097
+GE,"12 SS Pz Div",12ss,,12,5,8,3,1,7,3,8,2,1,bn,flak,mot,,"mot flak bn 88 12",,45,2098
+GE,"12 SS Pz Div",12ss,10/12,1,1,8,1,10,,,,,,bty,gun,mot,,"mot gun bty 105G 4",,46,
+GE,"12 SS Pz Div",12ss,I/25,9,10,6,3,,5,6,6,3,,bn,inf,ht,,"ht inf bn",,47,2099
+GE,"12 SS Pz Div",12ss,I/26,9,10,6,3,,5,6,6,3,,bn,inf,ht,,"ht inf bn",,48,2100
+GE,"12 SS Pz Div",12ss,II/25,7,7,8,3,,4,5,8,3,,bn,inf,mot,,"mot inf bn",,49,2101
+GE,"12 SS Pz Div",12ss,II/26,7,7,8,3,,4,5,8,3,,bn,inf,mot,,"mot inf bn",,50,2102
+GE,"12 SS Pz Div",12ss,III/25,7,7,8,3,,4,5,8,3,,bn,inf,mot,,"mot inf bn",,51,2103
+GE,"12 SS Pz Div",12ss,III/26,7,7,8,3,,4,5,8,3,,bn,inf,mot,,"mot inf bn",,52,2104
+GE,"12 SS Pz Div",12ss,,0,2,8,3,,,,,,,bn,inf,,fe,"fe bn",,53,
+GE,"12 SS Pz Div",12ss,,5,5,6,3,,2,3,6,3,,bn,inf,ht,pio,"ht pio bn",,54,2105
+GE,"12 SS Pz Div",12ss,IV/12,4,1,8,1,3,,,,,,bn,nw,mot,,"mot nw bn 150 18",,55,
+GE,"12 SS Pz Div",12ss,I/12,7,8,6,2,,4,5,6,2,,bn,pz,,,"pz bn IV 59",,56,2106
+GE,"12 SS Pz Div",12ss,II/12,11,12,6,2,,6,6,6,2,,bn,pz,,,"pz bn V 59",,57,2107
+GE,"12 SS Pz Div",12ss,PzJg,3,4,6,3,,1,2,6,3,,bn,pz,,ag,"pz ag bn SG3 22",,58,2108
+GE,"12 SS Pz Div",12ss,StuG,4,5,6,2,,2,3,6,2,,bn,pz,,ag,"pz ag bn SG3 31",,59,2109
+GE,"12 SS Pz Div",12ss,,,3,6,1,,,,,,,div,pz,,hq,"pz div HQ",,60,
+GE,"130 Pz Div",130,,8,8,8,3,,4,5,8,3,,bn,ac,ht,rcce,"ht rcce ac bn",,61,2110
+GE,"130 Pz Div",130,I/130,3,2,8,1,6,,,,,,bn,arty,,,"arty bn 105 12",,62,
+GE,"130 Pz Div",130,II/130,3,2,8,1,6,,,,,,bn,arty,,,"arty bn 105 12",,63,
+GE,"130 Pz Div",130,III/130,6,2,8,1,7,,,,,,bn,arty,,,"arty bn 152 18 RU","no div as printed",64,
+GE,"130 Pz Div",130,,2,5,8,2,1,1,3,8,1,1,bty,at,mot,,"mot at bty 75 12","size misprint: 1/1",65,2111
+GE,"130 Pz Div",130,311,12,5,8,3,1,7,3,8,2,1,bn,flak,mot,,"mot flak bn 88 12",,66,2112
+GE,"130 Pz Div",130,I/901,9,10,6,3,,5,6,6,3,,bn,inf,ht,,"ht inf bn",,67,2113
+GE,"130 Pz Div",130,I/902,9,10,6,3,,5,6,6,3,,bn,inf,ht,,"ht inf bn",,68,2114
+GE,"130 Pz Div",130,II/901,9,10,6,3,,5,6,6,3,,bn,inf,ht,,"ht inf bn",,69,2115
+GE,"130 Pz Div",130,II/902,9,10,6,3,,5,6,6,3,,bn,inf,ht,,"ht inf bn",,70,2116
+GE,"130 Pz Div",130,,0,2,8,3,,,,,,,bn,inf,mot,fe,"mot fe bn",,71,
+GE,"130 Pz Div",130,,4,5,6,3,,2,3,6,3,,bn,inf,ht,pio,"ht pio bn",,72,2117
+GE,"130 Pz Div",130,130,3,3,4,1,,2,2,4,1,,co,pz,,,"pz co VI 14",,73,2118
+GE,"130 Pz Div",130,2/1,3,3,6,1,,1,2,6,1,,co,pz,,,"pz co IV 22",,74,2119
+GE,"130 Pz Div",130,3/1,3,3,6,1,,1,2,6,1,,co,pz,,,"pz co IV 22",,75,2120
+GE,"130 Pz Div",130,4/1,3,3,6,1,,1,2,6,1,,co,pz,,,"pz co IV 22",,76,2121
+GE,"130 Pz Div",130,5/2,4,4,6,1,,2,3,6,1,,co,pz,,,"pz co V 22",,77,2122
+GE,"130 Pz Div",130,6/2,4,4,6,1,,2,3,6,1,,co,pz,,,"pz co V 22",,78,2123
+GE,"130 Pz Div",130,7/2,4,4,6,1,,2,3,6,1,,co,pz,,,"pz co V 22",,79,2124
+GE,"130 Pz Div",130,8/2,4,5,6,1,,2,3,6,1,,co,pz,,ag,"pz ag co V 22","back misprint: 4-5-6",80,2125
+GE,"130 Pz Div",130,1/1,3,3,6,1,,1,2,6,1,,co,pz,,,"pz co IV 22",,81,2126
+GE,"130 Pz Div",130,,2,3,6,1,,1,2,6,1,,co,pz,,ag,"pz ag co IV 14",,82,2127
+GE,"130 Pz Div",130,,3,5,4,1,,2,3,4,1,,co,pz,,ag,"pz ag co VI 14",,83,2128
+GE,"130 Pz Div",130,,,3,6,1,,,,,,,div,pz,,hq,"pz div HQ",,84,
+GE,"17 SS Mot Div",17ss,,5,5,8,3,,2,3,8,3,,bn,ac,ht,rcce,"ht rcce ac bn",,85,2129
+GE,"17 SS Mot Div",17ss,I/17,3,2,8,1,6,,,,,,bn,arty,,,"arty bn 105 12",,86,
+GE,"17 SS Mot Div",17ss,II/17,3,2,8,1,6,,,,,,bn,arty,,,"arty bn 105 12",,87,
+GE,"17 SS Mot Div",17ss,,12,5,8,3,1,7,3,8,2,1,bn,flak,mot,,"mot flak bn 88 12",,88,2130
+GE,"17 SS Mot Div",17ss,PzJg,2,5,6,1,1,1,2,6,1,1,bty,gun,sp,ag,"sp ag bty 75 12 M2",,89,2131
+GE,"17 SS Mot Div",17ss,I/37,6,6,8,3,,3,4,8,3,,bn,inf,mot,,"mot inf bn",,90,2132
+GE,"17 SS Mot Div",17ss,I/38,6,6,8,3,,3,4,8,3,,bn,inf,mot,,"mot inf bn",,91,2133
+GE,"17 SS Mot Div",17ss,II/37,6,6,8,3,,3,4,8,3,,bn,inf,mot,,"mot inf bn",,92,2134
+GE,"17 SS Mot Div",17ss,II/38,6,6,8,3,,3,4,8,3,,bn,inf,mot,,"mot inf bn",,93,2135
+GE,"17 SS Mot Div",17ss,III/37,5,6,6,3,,3,4,6,3,,bn,inf,bi,,"bi inf bn",,94,2136
+GE,"17 SS Mot Div",17ss,III/38,5,6,6,3,,3,4,6,3,,bn,inf,bi,,"bi inf bn",,95,2137
+GE,"17 SS Mot Div",17ss,,0,2,6,3,,,,,,,bn,inf,bi,fe,"bi fe bn",,96,
+GE,"17 SS Mot Div",17ss,,4,5,8,3,,2,3,8,3,,bn,inf,mot,pio,"mot pio bn",,97,2138
+GE,"17 SS Mot Div",17ss,,,3,6,1,,,,,,,div,inf,ht,hq,"ht inf div HQ",,98,
+GE,"17 SS Mot Div",17ss,StuG,5,6,6,3,,3,3,6,3,,bn,pz,,ag,"pz ag bn SG3 37",,99,2139
+GE,"1 SS Pz Div",1ss,,5,5,8,3,,2,3,8,3,,bn,ac,ht,rcce,"ht rcce ac bn",,100,2140
+GE,"1 SS Pz Div",1ss,I/1,3,3,6,1,6,,,,,,bn,arty,sp,,"sp arty bn 105 12",,101,
+GE,"1 SS Pz Div",1ss,II/1,3,2,8,1,6,,,,,,bn,arty,,,"arty bn 105 12",,102,
+GE,"1 SS Pz Div",1ss,III/1,3,2,8,1,7,,,,,,bn,arty,,,"arty bn 150 9",,103,
+GE,"1 SS Pz Div",1ss,,2,5,8,2,1,1,3,8,1,1,bn,at,mot,,"mot at bty/mot at bn 75 12","size misprint: 1/2",104,2141
+GE,"1 SS Pz Div",1ss,,12,5,8,3,1,7,3,8,2,1,bn,flak,mot,,"mot flak bn 88 12",,105,2142
+GE,"1 SS Pz Div",1ss,10/1,1,1,8,1,10,,,,,,bty,gun,mot,,"mot gun bty 105G 4","missing name",106,
+GE,"1 SS Pz Div",1ss,I/1,9,10,6,3,,5,6,6,3,,bn,inf,ht,,"ht inf bn",,107,2143
+GE,"1 SS Pz Div",1ss,I/2,9,10,6,3,,5,6,6,3,,bn,inf,ht,,"ht inf bn",,108,2144
+GE,"1 SS Pz Div",1ss,II/1,7,7,8,3,,4,5,8,3,,bn,inf,mot,,"mot inf bn",,109,2145
+GE,"1 SS Pz Div",1ss,II/2,7,7,8,3,,4,5,8,3,,bn,inf,mot,,"mot inf bn",,110,2146
+GE,"1 SS Pz Div",1ss,III/1,7,7,8,3,,4,5,8,3,,bn,inf,mot,,"mot inf bn",,111,2147
+GE,"1 SS Pz Div",1ss,III/2,7,7,8,3,,4,5,8,3,,bn,inf,mot,,"mot inf bn",,112,2148
+GE,"1 SS Pz Div",1ss,,0,2,8,3,,,,,,,bn,inf,mot,fe,"mot fe bn",,113,
+GE,"1 SS Pz Div",1ss,,5,5,6,3,,2,3,6,3,,bn,inf,ht,pio,"ht pio bn",,114,2149
+GE,"1 SS Pz Div",1ss,I/1,7,8,6,2,,4,5,6,2,,bn,pz,,,"pz bn IV 59",,115,2150
+GE,"1 SS Pz Div",1ss,II/1,11,12,6,2,,6,6,6,2,,bn,pz,,,"pz bn V 59",,116,2151
+GE,"1 SS Pz Div",1ss,PzJg,3,4,6,3,,1,2,6,3,,bn,pz,,ag,"pz ag bn SG3 22",,117,2152
+GE,"1 SS Pz Div",1ss,StuG,4,5,6,2,,2,3,6,2,,bn,pz,,ag,"pz ag bn SG3 31",,118,2153
+GE,"1 SS Pz Div",1ss,,,3,6,1,,,,,,,div,pz,,hq,"pz div HQ",,119,
+GE,"21 Pz Div",21,,4,5,8,3,,2,3,8,3,,bn,ac,ht,rcce,"ht rcce ac bn",,120,2154
+GE,"21 Pz Div",21,I/155,5,4,6,1,6,,,,,,bn,arty,sp,,"sp arty bn 105 18",,121,
+GE,"21 Pz Div",21,II/155,5,4,6,1,6,,,,,,bn,arty,sp,,"sp arty bn 105 18",,122,
+GE,"21 Pz Div",21,III/155,4,2,4,1,10,,,,,,bn,arty,,,"arty bn 105G 122 4 8 RU",,123,
+GE,"21 Pz Div",21,1/200,7,2,8,1,1,4,1,8,1,1,bty,at,mot,,"mot at bty 88 8",,124,2155
+GE,"21 Pz Div",21,2/200,7,2,8,1,1,4,1,8,1,1,bty,at,mot,,"mot at bty 88 8",,125,2156
+GE,"21 Pz Div",21,3/200,7,2,8,1,1,4,1,8,1,1,bty,at,mot,,"mot at bty 88 8",,126,2157
+GE,"21 Pz Div",21,305,7,4,8,3,1,4,2,8,2,1,bn,flak,mot,,"mot flak bn 88 8",,127,2158
+GE,"21 Pz Div",21,220,4,5,6,3,,2,3,6,3,,bn,inf,ht,pio,"ht pio bn",,128,2159
+GE,"21 Pz Div",21,I/125,9,10,6,3,,5,6,6,3,,bn,inf,ht,,"ht inf bn",,129,2160
+GE,"21 Pz Div",21,I/192,9,10,6,3,,5,6,6,3,,bn,inf,ht,,"ht inf bn",,130,2161
+GE,"21 Pz Div",21,II/125,5,6,8,3,,3,4,8,3,,bn,inf,mot,,"mot inf bn",,131,2162
+GE,"21 Pz Div",21,II/192,5,6,8,3,,3,4,8,3,,bn,inf,mot,,"mot inf bn",,132,2163
+GE,"21 Pz Div",21,,0,2,8,3,,,,,,,bn,inf,mot,fe,"mot fe bn",,133,
+GE,"21 Pz Div",21,10/125,2,2,6,1,3,,,,,,bty,nw,ht,,"ht nw bty 81.4 150 4 4",,134,
+GE,"21 Pz Div",21,10/155,1,1,6,1,3,,,,,,bty,nw,ht,,"ht nw bty 150 4",,135,
+GE,"21 Pz Div",21,10/192,2,2,6,1,3,,,,,,co,nw,ht,,"ht nw co 81.4 4 150 4",,136,
+GE,"21 Pz Div",21,21,1,1,6,1,3,,,,,,co,nw,ht,,"ht nw co 150 4",,137,
+GE,"21 Pz Div",21,200,6,6,6,3,,3,3,6,2,,bn,pz,,ag,"pz ag bn H39 44",,138,2164
+GE,"21 Pz Div",21,I/100,5,5,6,2,,3,3,6,2,,bn,pz,,,"pz bn IV","no count",139,2165
+GE,"21 Pz Div",21,II/100,4,4,6,2,,2,2,6,2,,bn,pz,,,"pz bn IV","no count",140,2166
+GE,"21 Pz Div",21,,,3,6,1,,,,,,,div,pz,,hq,"pz div HQ",,141,
+GE,"243 Inf Div",243,I/243,2,3,8,1,5,,,,,,bn,arty,mot,,"mot arty bn 76.2 12 RU",,142,
+GE,"243 Inf Div",243,II/243,2,3,8,1,5,,,,,,bn,arty,mot,,"mot arty bn 76.2 12 RU",,143,
+GE,"243 Inf Div",243,III/243,3,2,8,1,10,,,,,,bn,arty,mot,,"mot arty bn 122 12 RU",,144,
+GE,"243 Inf Div",243,PzJg,1,3,8,1,1,,,,,,bty,flak,mot,,"mot flak bty 20 12",,145,
+GE,"243 Inf Div",243,PzJg,2,5,6,1,1,1,2,6,1,1,bn,gun,sp,ag,"sp ag bn 75 14 M2",,146,2167
+GE,"243 Inf Div",243,I/920,3,4,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,147,2168
+GE,"243 Inf Div",243,I/921,3,4,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,148,2169
+GE,"243 Inf Div",243,I/922,3,4,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,149,2170
+GE,"243 Inf Div",243,II/920,3,4,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,150,2171
+GE,"243 Inf Div",243,II/921,3,4,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,151,2172
+GE,"243 Inf Div",243,II/922,3,4,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,152,2173
+GE,"243 Inf Div",243,III/921,3,4,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,153,2174
+GE,"243 Inf Div",243,III/922,3,4,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,154,2175
+GE,"243 Inf Div",243,,0,2,4,3,,,,,,,bn,inf,,fe,"fe bn",,155,
+GE,"243 Inf Div",243,,,3,6,1,,,,,,,div,inf,,hq,"div HQ",,156,
+GE,"243 Inf Div",243,1243,1,2,6,1,,,,,,,co,pz,,ag,"pz ag co SG3 10",,157,
+GE,"265 Inf Div",265,I/265,2,3,4,1,5,,,,,,bn,arty,,,"arty bn 76.2 12 RU",,158,
+GE,"265 Inf Div",265,II/265,2,3,4,1,5,,,,,,bn,arty,,,"arty bn 76.2 12 RU",,159,
+GE,"265 Inf Div",265,III/265,3,2,4,1,10,,,,,,bn,arty,,,"arty bn 122 12 RU",,160,
+GE,"265 Inf Div",265,,2,5,4,2,1,1,3,4,1,1,bn,at,,,"at bn 75 12","size misprint: 2/2",161,2176
+GE,"265 Inf Div",265,I/894,3,3,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,162,2177
+GE,"265 Inf Div",265,I/895,3,3,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,163,2178
+GE,"265 Inf Div",265,I/896,3,3,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,164,2179
+GE,"265 Inf Div",265,II/894,3,3,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,165,2180
+GE,"265 Inf Div",265,II/895,3,3,6,3,,1,2,6,3,,bn,inf,bi,,"bi inf bn",,166,2181
+GE,"265 Inf Div",265,II/896,3,3,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,167,2182
+GE,"265 Inf Div",265,,2,3,6,3,,1,1,6,3,,bn,inf,bi,pio,"bi pio bn",,168,2183
+GE,"265 Inf Div",265,,,3,6,1,,,,,,,div,inf,,hq,"div HQ",,169,
+GE,"266 Inf Div",266,I/266,2,3,4,1,5,,,,,,bn,arty,,,"arty bn 76.2 12 RU",,170,
+GE,"266 Inf Div",266,II/266,3,2,4,1,10,,,,,,bn,arty,,,"arty bn 122 12 RU",,171,
+GE,"266 Inf Div",266,III/266,5,2,4,1,5,,,,,,bn,arty,,,"arty bn 155 20 FR",,172,
+GE,"266 Inf Div",266,,2,5,4,2,1,1,3,4,1,1,bn,at,,,"at bn 75 12","size misprint: 2/2",173,2184
+GE,"266 Inf Div",266,I/897,3,4,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,174,2185
+GE,"266 Inf Div",266,I/899,3,4,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,175,2186
+GE,"266 Inf Div",266,II/897,3,4,6,3,,1,2,6,3,,bn,inf,bi,,"bi inf bn",,176,2187
+GE,"266 Inf Div",266,II/899,3,4,6,3,,1,2,6,3,,bn,inf,bi,,"bi inf bn",,177,2188
+GE,"266 Inf Div",266,III/897,3,4,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,178,2189
+GE,"266 Inf Div",266,III/899,3,4,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,179,2190
+GE,"266 Inf Div",266,,2,3,4,3,,1,1,4,3,,bn,inf,,pio,"pio bn",,180,2191
+GE,"266 Inf Div",266,,,3,6,1,,,,,,,div,inf,,hq,"div HQ",,181,
+GE,"271 Inf Div",271,I/271,3,2,4,1,6,,,,,,bn,arty,,,"arty bn 105 12",,182,
+GE,"271 Inf Div",271,II/271,3,2,4,1,6,,,,,,bn,arty,,,"arty bn 105 12",,183,
+GE,"271 Inf Div",271,III/271,3,2,4,1,6,,,,,,bn,arty,,,"arty bn 105 12",,184,
+GE,"271 Inf Div",271,,2,5,4,2,1,1,3,4,1,1,bn,at,,,"at bn 75 12","size misprint: 2/2",185,2192
+GE,"271 Inf Div",271,IV/271,1,1,4,1,10,,,,,,bty,gun,,,"gun bty 105G 4",,186,
+GE,"271 Inf Div",271,I/977,3,3,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,187,2193
+GE,"271 Inf Div",271,I/978,3,3,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,188,2194
+GE,"271 Inf Div",271,I/979,3,3,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,189,2195
+GE,"271 Inf Div",271,II/977,3,3,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,190,2196
+GE,"271 Inf Div",271,II/978,3,3,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,191,2197
+GE,"271 Inf Div",271,II/979,3,3,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,192,2198
+GE,"271 Inf Div",271,,0,1,4,3,,,,,,,bn,inf,,fe,"fe bn",,193,
+GE,"271 Inf Div",271,,2,3,4,3,,1,1,4,3,,bn,inf,,pio,"pio bn",,194,2199
+GE,"271 Inf Div",271,,,3,6,1,,,,,,,div,inf,,hq,"div HQ",,195,
+GE,"272 Inf Div",272,I/272,3,2,4,1,6,,,,,,bn,arty,,,"arty bn 105 12",,196,
+GE,"272 Inf Div",272,II/272,3,2,4,1,6,,,,,,bn,arty,,,"arty bn 105 12",,197,
+GE,"272 Inf Div",272,III/272,3,2,4,1,6,,,,,,bn,arty,,,"arty bn 105 12",,198,
+GE,"272 Inf Div",272,IV/272,4,2,8,1,7,,,,,,bn,arty,mot,,"mot arty bn 150 12",,199,
+GE,"272 Inf Div",272,,2,5,4,2,1,1,3,4,1,1,bn,at,,,"at bn 75 12","size misprint: 2/2",200,2200
+GE,"272 Inf Div",272,I/980,3,3,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,201,2201
+GE,"272 Inf Div",272,I/981,3,3,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,202,2202
+GE,"272 Inf Div",272,I/982,3,3,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,203,2203
+GE,"272 Inf Div",272,II/980,3,3,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,204,2204
+GE,"272 Inf Div",272,II/981,3,3,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,205,2205
+GE,"272 Inf Div",272,II/982,3,3,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,206,2206
+GE,"272 Inf Div",272,,0,1,4,3,,,,,,,bn,inf,,fe,"fe bn",,207,
+GE,"272 Inf Div",272,,2,3,4,3,,1,1,4,3,,bn,inf,,pio,"pio bn",,208,2207
+GE,"272 Inf Div",272,,3,3,4,3,,1,2,4,3,,bn,inf,,fus,"fus bn",,209,2208
+GE,"272 Inf Div",272,,,3,6,1,,,,,,,div,inf,,hq,"div HQ",,210,
+GE,"275 Inf Div",275,I/275,3,2,4,1,6,,,,,,bn,arty,,,"arty bn 105 12",,211,
+GE,"275 Inf Div",275,II/275,3,2,4,1,6,,,,,,bn,arty,,,"arty bn 105 12",,212,
+GE,"275 Inf Div",275,III/275,3,2,4,1,6,,,,,,bn,arty,,,"arty bn 105 12",,213,
+GE,"275 Inf Div",275,IV/275,4,2,8,1,7,,,,,,bn,arty,mot,,"mot arty bn 150 12",,214,
+GE,"275 Inf Div",275,,1,2,8,1,1,,,,,,bty,at,mot,,"mot at bty 75 8",,215,
+GE,"275 Inf Div",275,1/275,1,3,8,1,1,,,,,,bty,flak,mot,,"mot flak bty 20 12",,216,
+GE,"275 Inf Div",275,2/275,1,3,8,1,1,,,,,,bty,flak,mot,,"mot flak bty 20 12",,217,
+GE,"275 Inf Div",275,3/275,1,3,8,1,1,,,,,,bty,flak,mot,,"mot flak bty 20 12",,218,
+GE,"275 Inf Div",275,I/983,3,4,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,219,2209
+GE,"275 Inf Div",275,I/984,3,4,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,220,2210
+GE,"275 Inf Div",275,I/985,3,4,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,221,2211
+GE,"275 Inf Div",275,II/983,3,4,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,222,2212
+GE,"275 Inf Div",275,II/984,3,4,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,223,2213
+GE,"275 Inf Div",275,II/985,3,4,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,224,2214
+GE,"275 Inf Div",275,,0,2,4,3,,,,,,,bn,inf,,fe,"fe bn",,225,
+GE,"275 Inf Div",275,,3,3,4,3,,1,2,4,3,,bn,inf,,fus,"fus bn",,226,2215
+GE,"275 Inf Div",275,,3,4,4,3,,1,2,4,3,,bn,inf,,pio,"pio bn",,227,2216
+GE,"275 Inf Div",275,,,3,6,1,,,,,,,div,inf,,hq,"div HQ",,228,
+GE,"276 Inf Div",276,I/276,3,2,4,1,6,,,,,,bn,arty,,,"arty bn 105 12",,229,
+GE,"276 Inf Div",276,II/276,3,2,4,1,6,,,,,,bn,arty,,,"arty bn 105 12",,230,
+GE,"276 Inf Div",276,III/276,3,2,4,1,6,,,,,,bn,arty,,,"arty bn 105 12",,231,
+GE,"276 Inf Div",276,IV/276,4,2,8,1,7,,,,,,bn,arty,mot,,"mot arty bn 150 12",,232,
+GE,"276 Inf Div",276,,2,5,4,2,1,1,3,4,1,1,bn,at,,,"at bn 75 12","size misprint: 2/2",233,2217
+GE,"276 Inf Div",276,I/986,3,3,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,234,2218
+GE,"276 Inf Div",276,I/987,3,3,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,235,2219
+GE,"276 Inf Div",276,I/988,3,3,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,236,2220
+GE,"276 Inf Div",276,II/986,3,3,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,237,2221
+GE,"276 Inf Div",276,II/987,3,3,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,238,2222
+GE,"276 Inf Div",276,II/988,3,3,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,239,2223
+GE,"276 Inf Div",276,,0,1,4,3,,,,,,,bn,inf,,fe,"fe bn",,240,
+GE,"276 Inf Div",276,,2,3,4,3,,1,1,4,3,,bn,inf,,pio,"pio bn",,241,2224
+GE,"276 Inf Div",276,,3,3,4,3,,1,2,4,3,,bn,inf,,fus,"fus bn",,242,2225
+GE,"276 Inf Div",276,,,3,6,1,,,,,,,div,inf,,hq,"div HQ",,243,
+GE,"277 Inf Div",277,I/277,3,2,4,1,6,,,,,,bn,arty,,,"arty bn 105 12",,244,
+GE,"277 Inf Div",277,II/277,3,2,4,1,6,,,,,,bn,arty,,,"arty bn 105 12",,245,
+GE,"277 Inf Div",277,III/277,3,2,4,1,6,,,,,,bn,arty,,,"arty bn 105 12",,246,
+GE,"277 Inf Div",277,IV/277,4,2,8,1,7,,,,,,bn,arty,mot,,"mot arty bn 150 12",,247,
+GE,"277 Inf Div",277,,2,5,4,2,1,1,3,4,1,1,bn,at,,,"at bn 75 12","size misprint: 2/2",248,2226
+GE,"277 Inf Div",277,I/989,3,4,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,249,2227
+GE,"277 Inf Div",277,I/990,3,4,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,250,2228
+GE,"277 Inf Div",277,I/991,3,4,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,251,2229
+GE,"277 Inf Div",277,II/989,3,4,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,252,2230
+GE,"277 Inf Div",277,II/990,3,4,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,253,2231
+GE,"277 Inf Div",277,II/991,3,4,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,254,2232
+GE,"277 Inf Div",277,,0,1,4,3,,,,,,,bn,inf,,fe,"fe bn",,255,
+GE,"277 Inf Div",277,,2,3,4,3,,1,1,4,3,,bn,inf,,pio,"pio bn",,256,2233
+GE,"277 Inf Div",277,,3,3,4,3,,1,2,4,3,,bn,inf,,fus,"fus bn",,257,2234
+GE,"277 Inf Div",277,,,3,6,1,,,,,,,div,inf,,hq,"div HQ",,258,
+GE,"2 Pz Div",2,,4,5,8,3,,2,3,8,3,,bn,ac,ht,rcce,"ht rcce ac bn",,259,2235
+GE,"2 Pz Div",2,I/2,3,3,6,1,6,,,,,,bn,arty,sp,,"sp arty bn 105 12",,260,
+GE,"2 Pz Div",2,II/2,3,2,8,1,6,,,,,,bn,arty,,,"arty bn 105 12",,261,
+GE,"2 Pz Div",2,III/2,4,2,8,1,7,,,,,,bn,arty,mot,,"mot arty bn 150 14",,262,
+GE,"2 Pz Div",2,,2,5,8,2,1,1,3,8,1,1,bn,at,mot,,"mot at bty/mot at bn 75 12","size misprint: 1/2",263,2236
+GE,"2 Pz Div",2,273,7,4,8,3,1,4,2,8,2,1,bn,flak,mot,,"mot flak bn 88 8",,264,2237
+GE,"2 Pz Div",2,10/2,1,1,8,1,10,,,,,,bty,gun,mot,,"mot gun bty 105G 4",,265,
+GE,"2 Pz Div",2,38,4,5,6,3,,2,3,6,3,,bn,inf,ht,pio,"ht pio bn",,266,2238
+GE,"2 Pz Div",2,I/2,8,9,6,3,,5,6,6,3,,bn,inf,ht,,"ht inf bn",,267,2239
+GE,"2 Pz Div",2,I/304,8,9,6,3,,5,6,6,3,,bn,inf,ht,,"ht inf bn",,268,2240
+GE,"2 Pz Div",2,II/2,5,6,8,3,,3,4,8,3,,bn,inf,mot,,"mot inf bn",,269,2241
+GE,"2 Pz Div",2,II/304,5,6,8,3,,3,4,8,3,,bn,inf,mot,,"mot inf bn",,270,2242
+GE,"2 Pz Div",2,,0,1,8,1,,,,,,,co,inf,mot,mp,"mot mp co",,271,
+GE,"2 Pz Div",2,,0,2,8,3,,,,,,,bn,inf,mot,fe,"mot fe bn",,272,
+GE,"2 Pz Div",2,38,3,4,6,3,,1,2,6,3,,bn,pz,,ag,"pz ag bn SG3 22",,273,2243
+GE,"2 Pz Div",2,I/3,6,7,6,2,,3,3,6,2,,bn,pz,,,"pz bn IV 48",,274,2244
+GE,"2 Pz Div",2,II/3,9,9,6,2,,5,5,6,2,,bn,pz,,,"pz bn V 48",,275,2245
+GE,"2 Pz Div",2,,,3,6,1,,,,,,,div,pz,,hq,"pz div HQ",,276,
+GE,"2 SS Pz Div",2ss,,5,5,8,3,,2,3,8,3,,bn,ac,ht,rcce,"ht rcce ac bn",,277,2246
+GE,"2 SS Pz Div",2ss,I/2,3,3,6,1,6,,,,,,bn,arty,sp,,"sp arty bn 105 12",,278,
+GE,"2 SS Pz Div",2ss,II/2,3,2,8,1,6,,,,,,bn,arty,,,"arty bn 105 12",,279,
+GE,"2 SS Pz Div",2ss,III/2,4,2,8,1,7,,,,,,bn,arty,mot,,"mot arty bn 150 12",,280,
+GE,"2 SS Pz Div",2ss,,2,5,8,1,1,1,3,8,2,1,bn,at,mot,,"mot at bty/mot at bn 75 12","size misprint: 1/2",281,2247
+GE,"2 SS Pz Div",2ss,,12,5,8,3,1,7,3,8,2,1,bn,flak,mot,,"mot flak bn 88 12",,282,2248
+GE,"2 SS Pz Div",2ss,10/2,1,1,8,1,10,,,,,,bty,gun,mot,,"mot gun bty 105G 4",,283,
+GE,"2 SS Pz Div",2ss,I/3,9,10,6,3,,5,6,6,3,,bn,inf,ht,,"ht inf bn",,284,2249
+GE,"2 SS Pz Div",2ss,I/4,9,10,6,3,,5,6,6,3,,bn,inf,ht,,"ht inf bn",,285,2250
+GE,"2 SS Pz Div",2ss,II/3,7,7,8,3,,4,5,8,3,,bn,inf,mot,,"mot inf bn",,286,2251
+GE,"2 SS Pz Div",2ss,II/4,7,7,8,3,,4,5,8,3,,bn,inf,mot,,"mot inf bn",,287,2252
+GE,"2 SS Pz Div",2ss,III/3,7,7,8,3,,4,5,8,3,,bn,inf,mot,,"mot inf bn",,288,2253
+GE,"2 SS Pz Div",2ss,III/4,7,7,8,3,,4,5,8,3,,bn,inf,mot,,"mot inf bn",,289,2254
+GE,"2 SS Pz Div",2ss,,0,2,8,3,,,,,,,bn,inf,mot,fe,"mot fe bn",,290,
+GE,"2 SS Pz Div",2ss,,5,5,6,3,,2,3,6,3,,bn,inf,ht,pio,"ht pio bn",,291,2255
+GE,"2 SS Pz Div",2ss,I/2,7,8,6,2,,4,5,6,2,,bn,pz,,,"pz bn IV 59",,292,2256
+GE,"2 SS Pz Div",2ss,II/2,11,12,6,2,,6,6,6,2,,bn,pz,,,"pz bn V 59",,293,2257
+GE,"2 SS Pz Div",2ss,PzJg,3,4,6,3,,1,2,6,3,,bn,pz,,ag,"pz ag bn SG3 22",,294,2258
+GE,"2 SS Pz Div",2ss,StuG,4,5,6,2,,2,3,6,2,,bn,pz,,ag,"pz ag bn SG3 31",,295,2259
+GE,"2 SS Pz Div",2ss,,,3,6,1,,,,,,,div,pz,,hq,"pz div HQ",,296,
+GE,"319 Inf Div",319,I/319,3,1,4,1,4,,,,,,bn,arty,,,"arty bn 100 12 CZ",,297,
+GE,"319 Inf Div",319,II/319,3,1,4,1,4,,,,,,bn,arty,,,"arty bn 100 12 CZ",,298,
+GE,"319 Inf Div",319,III/319,3,1,4,1,4,,,,,,bn,arty,,,"arty bn 100 12 CZ",,299,
+GE,"319 Inf Div",319,IV/319,3,1,4,1,6,,,,,,bn,arty,,,"arty bn 80 12 CZ",,300,
+GE,"319 Inf Div",319,"450 Schn",2,7,8,2,1,1,3,8,1,1,bn,at,mot,,"mot at bn 75 12","size misprint: 2/2",301,2260
+GE,"319 Inf Div",319,Schnell,2,7,8,2,1,3,8,1,1,,bn,at,mot,,"mot at bn","no gun size or count; size misprint: 2/2",302,2261
+GE,"319 Inf Div",319,16,4,5,8,3,,3,3,8,3,,bn,inf,mot,,"mot inf bn",,303,2262
+GE,"319 Inf Div",319,I/582,4,5,4,3,,2,3,4,3,,bn,inf,,,"inf bn",,304,2263
+GE,"319 Inf Div",319,I/583,4,5,4,3,,2,3,4,3,,bn,inf,,,"inf bn",,305,2264
+GE,"319 Inf Div",319,I/584,4,5,4,3,,2,3,4,3,,bn,inf,,,"inf bn",,306,2265
+GE,"319 Inf Div",319,II/582,4,5,4,3,,2,3,4,3,,bn,inf,,,"inf bn",,307,2266
+GE,"319 Inf Div",319,II/583,4,5,4,3,,2,3,4,3,,bn,inf,,,"inf bn",,308,2267
+GE,"319 Inf Div",319,II/584,4,5,4,3,,2,3,4,3,,bn,inf,,,"inf bn",,309,2268
+GE,"319 Inf Div",319,III/582,4,5,4,3,,2,3,4,3,,bn,inf,,,"inf bn",,310,2269
+GE,"319 Inf Div",319,III/583,4,5,4,3,,2,3,4,3,,bn,inf,,,"inf bn",,311,2270
+GE,"319 Inf Div",319,III/584,4,5,4,3,,2,3,4,3,,bn,inf,,,"inf bn",,312,2271
+GE,"319 Inf Div",319,,2,3,4,3,,1,1,4,3,,bn,inf,,pio,"pio bn",,313,2272
+GE,"319 Inf Div",319,,,3,8,1,,,,,,,div,inf,smot,hq,"smot div HQ",,314,
+GE,"326 Inf Div",326,I/326,2,3,4,1,5,,,,,,bn,arty,,,"arty bn 76.2 12 RU",,315,
+GE,"326 Inf Div",326,II/326,3,2,4,1,5,,,,,,bn,arty,,,"arty bn 105 16",,316,
+GE,"326 Inf Div",326,III/326,4,2,4,1,10,,,,,,bn,arty,,,"arty bn 122 16 RU",,317,
+GE,"326 Inf Div",326,,2,5,4,2,1,1,3,4,1,1,bn,at,,,"at bn 75 12","size misprint: 2/2",318,2273
+GE,"326 Inf Div",326,I/751,3,3,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,319,2274
+GE,"326 Inf Div",326,I/752,3,3,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,320,2275
+GE,"326 Inf Div",326,I/753,3,3,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,321,2276
+GE,"326 Inf Div",326,II/751,3,3,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,322,2277
+GE,"326 Inf Div",326,II/752,3,3,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,323,2278
+GE,"326 Inf Div",326,II/753,3,3,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,324,2279
+GE,"326 Inf Div",326,,1,1,4,3,,,,,,,bn,inf,,fe,"fe bn",,325,
+GE,"326 Inf Div",326,,3,3,4,3,,1,2,4,3,,bn,inf,,fus,"fus bn",,326,2280
+GE,"326 Inf Div",326,,3,4,4,3,,1,2,4,3,,bn,inf,,pio,"pio bn",,327,2281
+GE,"326 Inf Div",326,,,3,6,1,,,,,,,div,inf,,hq,"div HQ",,328,
+GE,"331 Inf Div",331,I/331,3,2,4,1,6,,,,,,bn,arty,,,"arty bn 105 12",,329,
+GE,"331 Inf Div",331,II/331,3,2,4,1,6,,,,,,bn,arty,,,"arty bn 105 12",,330,
+GE,"331 Inf Div",331,III/331,3,2,4,1,6,,,,,,bn,arty,,,"arty bn 105 12",,331,
+GE,"331 Inf Div",331,,2,5,8,2,1,1,3,8,1,1,bn,at,mot,,"mot at bn 75 12","size misprint: 2/2",332,2282
+GE,"331 Inf Div",331,I/557,3,4,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,333,2283
+GE,"331 Inf Div",331,I/558,3,4,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,334,2284
+GE,"331 Inf Div",331,I/559,3,3,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,335,2285
+GE,"331 Inf Div",331,II/557,3,4,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,336,2286
+GE,"331 Inf Div",331,II/558,3,3,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,337,2287
+GE,"331 Inf Div",331,II/559,3,4,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,338,2288
+GE,"331 Inf Div",331,,2,3,4,3,,1,1,4,3,,bn,inf,,pio,"pio bn",,339,2289
+GE,"331 Inf Div",331,,,3,6,1,,,,,,,div,inf,,hq,"div HQ",,340,
+GE,"343 Inf Div",343,I/851,3,3,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,341,2290
+GE,"343 Inf Div",343,I/852,3,3,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,342,2291
+GE,"343 Inf Div",343,I/898,3,3,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,343,2292
+GE,"343 Inf Div",343,II/851,3,3,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,344,2293
+GE,"343 Inf Div",343,II/852,3,3,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,345,2294
+GE,"343 Inf Div",343,II/898,3,3,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,346,2295
+GE,"343 Inf Div",343,III/851,3,3,6,3,,1,2,6,3,,bn,inf,bi,,"bi inf bn",,347,2296
+GE,"343 Inf Div",343,III/852,3,3,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,348,2297
+GE,"343 Inf Div",343,III/898,1,3,4,3,,0,1,4,3,,bn,inf,,ost,"ost bn",,349,2298
+GE,"343 Inf Div",343,,3,4,4,3,,1,2,4,3,,bn,inf,,pio,"pio bn",,350,2299
+GE,"343 Inf Div",343,,,3,6,1,,,,,,,div,inf,,hq,"div HQ",,351,
+GE,"344 Inf Div",344,I/344,3,3,4,1,5,,,,,,bn,arty,,,"arty bn 76.2 16 RU",,352,
+GE,"344 Inf Div",344,II/344,3,1,4,1,5,,,,,,bn,arty,,,"arty bn 105 12 FR",,353,
+GE,"344 Inf Div",344,III/344,4,2,4,1,5,,,,,,bn,arty,,,"arty bn .122 12 RU",,354,
+GE,"344 Inf Div",344,PzJg,1,2,6,1,1,,,,,,co,gun,sp,ag,"sp ag co 75 8 M2",,355,
+GE,"344 Inf Div",344,I/854,2,3,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,356,2300
+GE,"344 Inf Div",344,I/855,1,3,4,3,,0,1,4,3,,bn,inf,,ost,"ost bn",,357,2301
+GE,"344 Inf Div",344,I/856,2,3,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,358,2302
+GE,"344 Inf Div",344,II/854,2,3,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,359,2303
+GE,"344 Inf Div",344,II/855,2,3,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,360,2304
+GE,"344 Inf Div",344,II/856,1,3,4,3,,0,1,4,3,,bn,inf,,ost,"ost bn",,361,2305
+GE,"344 Inf Div",344,,0,1,4,3,,,,,,,bn,inf,,fe,"fe bn",,362,
+GE,"344 Inf Div",344,,2,3,4,3,,1,1,4,3,,bn,inf,,pio,"pio bn",,363,2306
+GE,"344 Inf Div",344,,3,3,4,3,,1,2,4,3,,bn,inf,,fus,"fus bn",,364,2307
+GE,"344 Inf Div",344,,,3,6,1,,,,,,,div,inf,,hq,"div HQ",,365,
+GE,"344 Inf Div",344,StuG,1,2,6,1,,,,,,,co,pz,,ag,"pz ag co SG3 10",,366,
+GE,"346 Inf Div",346,I/346,3,1,4,1,5,,,,,,bn,arty,,,"arty bn .105 12 FR",,367,
+GE,"346 Inf Div",346,II/346,4,2,4,1,5,,,,,,bn,arty,,,"arty bn .122 12 RU",,368,
+GE,"346 Inf Div",346,III/346,2,3,4,1,5,,,,,,bn,arty,,,"arty bn 76.2 12 RU",,369,
+GE,"346 Inf Div",346,,2,5,4,2,1,1,3,4,1,1,bn,at,,,"at bn 75 12","size misprint: 2/2",370,2308
+GE,"346 Inf Div",346,1346,1,2,6,1,1,,,,,,bn,gun,sp,,"sp gun bn 75 8 M2",,371,
+GE,"346 Inf Div",346,I/762,3,4,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,372,2309
+GE,"346 Inf Div",346,I/857,3,4,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,373,2310
+GE,"346 Inf Div",346,I/858,3,4,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,374,2311
+GE,"346 Inf Div",346,II/762,3,4,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,375,2312
+GE,"346 Inf Div",346,II/857,3,4,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,376,2313
+GE,"346 Inf Div",346,II/858,3,4,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,377,2314
+GE,"346 Inf Div",346,,2,3,4,3,,1,1,4,3,,bn,inf,,pio,"pio bn",,378,2315
+GE,"346 Inf Div",346,,3,3,6,3,,1,2,6,3,,bn,inf,bi,fus,"bi fus bn",,379,2316
+GE,"346 Inf Div",346,,,3,6,1,,,,,,,div,inf,,hq,"div HQ",,380,
+GE,"352 Inf Div",352,I/352,3,2,4,1,6,,,,,,bn,arty,,,"arty bn 105 12",,381,
+GE,"352 Inf Div",352,II/352,3,2,4,1,6,,,,,,bn,arty,,,"arty bn 105 12",,382,
+GE,"352 Inf Div",352,III/352,3,2,4,1,6,,,,,,bn,arty,,,"arty bn 105 12",,383,
+GE,"352 Inf Div",352,IV/352,4,2,4,1,7,,,,,,bn,arty,,,"arty bn 150 12",,384,
+GE,"352 Inf Div",352,PzJg,2,3,8,1,1,,,,,,bty,flak,mot,,"mot flak bty 37 12",,385,
+GE,"352 Inf Div",352,PzJg,2,5,6,1,1,1,2,6,1,1,bn,gun,sp,ag,"sp ag bn 75 14 M2",,386,2317
+GE,"352 Inf Div",352,513,4,4,6,3,,1,2,6,3,,bn,inf,bi,,"bi inf bn",,387,2318
+GE,"352 Inf Div",352,517,4,4,6,3,,1,2,6,3,,bn,inf,bi,,"bi inf bn",,388,2319
+GE,"352 Inf Div",352,518,3,4,6,3,,1,2,6,3,,bn,inf,bi,,"bi inf bn",,389,2320
+GE,"352 Inf Div",352,I/914,4,5,4,3,,2,3,4,3,,bn,inf,,,"inf bn",,390,2321
+GE,"352 Inf Div",352,I/915,4,5,4,3,,2,3,4,3,,bn,inf,,,"inf bn",,391,2322
+GE,"352 Inf Div",352,I/916,4,5,4,3,,2,3,4,3,,bn,inf,,,"inf bn",,392,2323
+GE,"352 Inf Div",352,II/914,4,4,4,3,,2,3,4,3,,bn,inf,,,"inf bn",,393,2324
+GE,"352 Inf Div",352,II/915,4,5,4,3,,2,3,4,3,,bn,inf,,,"inf bn",,394,2325
+GE,"352 Inf Div",352,II/916,4,5,4,3,,2,3,4,3,,bn,inf,,,"inf bn",,395,2326
+GE,"352 Inf Div",352,,0,2,4,3,,,,,,,bn,inf,,fe,"fe bn",,396,
+GE,"352 Inf Div",352,,4,5,4,3,,2,3,4,3,,bn,inf,,pio,"pio bn",,397,2327
+GE,"352 Inf Div",352,,4,5,6,3,,2,3,6,3,,bn,inf,bi,fus,"bi fus bn",,398,2328
+GE,"352 Inf Div",352,,,3,8,1,,,,,,,div,inf,smot,hq,"smot div HQ",,399,
+GE,"352 Inf Div",352,1352,1,2,6,1,,,,,,,co,pz,,ag,"pz ag co SG3 10",,400,
+GE,"353 Inf Div",353,I/353,3,2,4,1,6,,,,,,bn,arty,,,"arty bn 105 12",,401,
+GE,"353 Inf Div",353,II/353,3,2,4,1,6,,,,,,bn,arty,,,"arty bn 105 12",,402,
+GE,"353 Inf Div",353,III/353,3,2,4,1,6,,,,,,bn,arty,,,"arty bn 105 12",,403,
+GE,"353 Inf Div",353,IV/353,4,2,4,1,7,,,,,,bn,arty,,,"arty bn 150 12",,404,
+GE,"353 Inf Div",353,PzJg,2,5,6,1,1,1,2,6,1,1,bn,gun,sp,,"sp gun bn 75 12 M2",,405,2329
+GE,"353 Inf Div",353,I/941,4,4,4,3,,2,3,4,3,,bn,inf,,,"inf bn",,406,2330
+GE,"353 Inf Div",353,I/942,4,4,4,3,,2,3,4,3,,bn,inf,,,"inf bn",,407,2331
+GE,"353 Inf Div",353,I/943,4,4,6,3,,2,3,6,3,,bn,inf,bi,,"bi inf bn",,408,2332
+GE,"353 Inf Div",353,II/941,4,4,4,3,,2,3,4,3,,bn,inf,,,"inf bn",,409,2333
+GE,"353 Inf Div",353,II/942,4,4,4,3,,2,3,4,3,,bn,inf,,,"inf bn",,410,2334
+GE,"353 Inf Div",353,II/943,4,4,6,3,,2,3,6,3,,bn,inf,bi,,"bi inf bn",,411,2335
+GE,"353 Inf Div",353,,0,2,4,3,,,,,,,bn,inf,,fe,"fe bn",,412,
+GE,"353 Inf Div",353,,4,5,6,3,,2,3,6,3,,bn,inf,bi,fus,"bi fus bn",,413,2336
+GE,"353 Inf Div",353,,4,5,6,3,,2,3,6,3,,bn,inf,bi,pio,"bi pio bn",,414,2337
+GE,"353 Inf Div",353,,,3,8,1,,,,,,,div,inf,smot,hq,"smot div HQ",,415,
+GE,"353 Inf Div",353,1353,1,2,6,1,,,,,,,co,pz,,ag,"pz ag co SG3 10",,416,
+GE,"363 Inf Div",363,I/363,3,2,4,1,6,,,,,,bn,arty,,,"arty bn 105 12",,417,
+GE,"363 Inf Div",363,II/363,3,2,4,1,6,,,,,,bn,arty,,,"arty bn 105 12",,418,
+GE,"363 Inf Div",363,III/363,3,2,4,1,6,,,,,,bn,arty,,,"arty bn 105 12",,419,
+GE,"363 Inf Div",363,IV/363,4,2,4,1,7,,,,,,bn,arty,,,"arty bn 150 12",,420,
+GE,"363 Inf Div",363,,2,5,4,2,1,1,3,4,1,1,bn,at,,,"at bn 75 12","size misprint: 2/2",421,2338
+GE,"363 Inf Div",363,I/957,3,3,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,422,2339
+GE,"363 Inf Div",363,I/958,3,3,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,423,2340
+GE,"363 Inf Div",363,I/959,3,3,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,424,2341
+GE,"363 Inf Div",363,II/957,3,3,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,425,2342
+GE,"363 Inf Div",363,II/958,3,3,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,426,2343
+GE,"363 Inf Div",363,II/959,3,3,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,427,2344
+GE,"363 Inf Div",363,,0,1,4,3,,,,,,,bn,inf,,fe,"fe bn",,428,
+GE,"363 Inf Div",363,,2,3,4,3,,1,1,4,3,,bn,inf,,pio,"pio bn",,429,2345
+GE,"363 Inf Div",363,,3,3,4,3,,1,2,4,3,,bn,inf,,fus,"fus bn",,430,2346
+GE,"363 Inf Div",363,,,3,6,1,,,,,,,div,inf,,hq,"div HQ",,431,
+GE,"708 Inf Div",708,I/1708,2,1,4,1,6,,,,,,bn,arty,,,"arty bn 105 8",,432,
+GE,"708 Inf Div",708,,2,5,4,2,1,1,3,4,1,1,bn,at,,,"at bn 75 12","size misprint: 2/2",433,2347
+GE,"708 Inf Div",708,I/728,2,3,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,434,2348
+GE,"708 Inf Div",708,I/748,2,3,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,435,2349
+GE,"708 Inf Div",708,I/769,2,3,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,436,2350
+GE,"708 Inf Div",708,II/728,2,3,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,437,2351
+GE,"708 Inf Div",708,II/748,2,3,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,438,2352
+GE,"708 Inf Div",708,II/760,2,3,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,439,2353
+GE,"708 Inf Div",708,,2,3,4,3,,1,1,4,3,,bn,inf,,pio,"pio bn",,440,2354
+GE,"708 Inf Div",708,,,3,6,1,,,,,,,div,inf,,hq,"div HQ",,441,
+GE,"709 Inf Div",709,I/1709,2,3,4,1,4,,,,,,bn,arty,,,"arty bn 100 8 CZ",,442,
+GE,"709 Inf Div",709,III/1709,3,3,4,1,5,,,,,,bn,arty,,,"arty bn 155 12 FR",,443,
+GE,"709 Inf Div",709,IV/709,2,3,4,1,5,,,,,,bn,arty,,,"arty bn 76.2 12 RU",,444,
+GE,"709 Inf Div",709,,2,5,8,2,1,1,3,8,1,1,bn,at,mot,,"mot at bn 75 12","size misprint: 2/2",445,2355
+GE,"709 Inf Div",709,PzJg,1,3,8,1,1,,,,,,bty,flak,mot,,"mot flak bty 37 9",,446,
+GE,"709 Inf Div",709,1709,1,2,6,1,1,,,,,,bn,gun,sp,,"sp gun bn 75 8 M2",,447,
+GE,"709 Inf Div",709,II/1709,3,1,4,1,6,,,,,,bn,gun,,,"gun bn 105G 12 FR",,448,
+GE,"709 Inf Div",709,I/729,3,4,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,449,2356
+GE,"709 Inf Div",709,I/739,3,4,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,450,2357
+GE,"709 Inf Div",709,I/919,4,4,4,3,,2,3,4,3,,bn,inf,,,"inf bn",,451,2358
+GE,"709 Inf Div",709,II/729,3,4,6,3,,1,2,6,3,,bn,inf,bi,,"bi inf bn",,452,2359
+GE,"709 Inf Div",709,II/739,3,4,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,453,2360
+GE,"709 Inf Div",709,II/919,4,4,4,3,,2,3,4,3,,bn,inf,,,"inf bn",,454,2361
+GE,"709 Inf Div",709,III/729,3,4,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,455,2362
+GE,"709 Inf Div",709,III/739,3,4,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,456,2363
+GE,"709 Inf Div",709,III/919,4,4,6,3,,2,3,6,3,,bn,inf,bi,,"bi inf bn",,457,2364
+GE,"709 Inf Div",709,,3,4,4,3,,1,2,4,3,,bn,inf,,pio,"pio bn",,458,2365
+GE,"709 Inf Div",709,,,3,8,1,,,,,,,div,inf,smot,hq,"smot div HQ",,459,
+GE,"711 Inf Div",711,I/711,3,3,4,1,5,,,,,,bn,arty,,,"arty bn 76.2 16 RU",,460,
+GE,"711 Inf Div",711,II/711,3,3,4,1,5,,,,,,bn,arty,,,"arty bn 76.2 16 RU",,461,
+GE,"711 Inf Div",711,III/711,5,2,4,1,6,,,,,,bn,arty,,,"arty bn 155 16 FR",,462,
+GE,"711 Inf Div",711,,2,5,4,2,1,1,3,4,1,1,bn,at,,,"at bn 75 12","size misprint: 2/2",463,2366
+GE,"711 Inf Div",711,I/731,1,3,4,3,,0,1,4,3,,bn,inf,,ost,"ost bn",,464,2367
+GE,"711 Inf Div",711,I/744,3,4,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,465,2368
+GE,"711 Inf Div",711,II/731,3,4,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,466,2369
+GE,"711 Inf Div",711,II/744,3,4,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,467,2370
+GE,"711 Inf Div",711,III/731,3,4,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,468,2371
+GE,"711 Inf Div",711,III/744,3,4,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,469,2372
+GE,"711 Inf Div",711,,0,2,4,3,,,,,,,bn,inf,,fe,"fe bn",,470,
+GE,"711 Inf Div",711,,2,3,4,3,,1,1,4,3,,bn,inf,,pio,"pio bn",,471,2373
+GE,"711 Inf Div",711,,,3,6,1,,,,,,,div,inf,,hq,"div HQ",,472,
+GE,"716 Inf Div",716,,2,5,4,2,1,1,3,4,1,1,bn,at,,,"at bn 75 12","size misprint: 2/2",473,2374
+GE,"716 Inf Div",716,PzJg,1,3,8,1,1,,,,,,bty,flak,mot,,"mot flak bty 20 12",,474,
+GE,"716 Inf Div",716,1716,2,5,6,1,1,1,2,6,1,1,bn,gun,sp,ag,"sp ag bn 75 12 M2",,475,2375
+GE,"716 Inf Div",716,I/726,3,3,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,476,2376
+GE,"716 Inf Div",716,I/736,3,3,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,477,2377
+GE,"716 Inf Div",716,II/726,3,3,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,478,2378
+GE,"716 Inf Div",716,II/736,3,3,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,479,2379
+GE,"716 Inf Div",716,III/726,3,3,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,480,2380
+GE,"716 Inf Div",716,III/736,3,3,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,481,2381
+GE,"716 Inf Div",716,,2,3,4,3,,1,1,4,3,,bn,inf,,pio,"pio bn",,482,2382
+GE,"716 Inf Div",716,,,3,8,1,,,,,,,div,inf,smot,hq,"smot div HQ",,483,
+GE,"752 Rgt",752,,,2,6,1,,,,,,,rgt,inf,,hq,"rgt HQ",,484,
+GE,"77 Inf Div",77,I/177,2,1,4,1,6,,,,,,bn,arty,,,"arty bn 105 8",,485,
+GE,"77 Inf Div",77,II/177,2,1,4,1,6,,,,,,bn,arty,,,"arty bn 105 8",,486,
+GE,"77 Inf Div",77,III/77,12,5,8,3,1,7,3,8,2,1,bn,at,mot,,"mot at bn 88 12",,487,2383
+GE,"77 Inf Div",77,,1,3,8,1,1,,,,,,bty,at,mot,,"mot at bty 50 6",,488,
+GE,"77 Inf Div",77,,2,5,8,2,1,1,3,8,1,1,bn,at,mot,,"mot at bn 75 12","size misprint: 2/2",489,2384
+GE,"77 Inf Div",77,177,1,2,4,3,,0,1,4,3,,bn,inf,,pio,"pio bn",,490,2385
+GE,"77 Inf Div",77,I/1049,4,4,4,3,,2,3,4,3,,bn,inf,,,"inf bn",,491,2386
+GE,"77 Inf Div",77,I/1050,4,4,4,3,,2,3,4,3,,bn,inf,,,"inf bn",,492,2387
+GE,"77 Inf Div",77,II/1049,4,4,4,3,,2,3,4,3,,bn,inf,,,"inf bn",,493,2388
+GE,"77 Inf Div",77,II/1050,4,4,4,3,,2,3,4,3,,bn,inf,,,"inf bn",,494,2389
+GE,"77 Inf Div",77,III/1049,4,4,4,3,,2,3,4,3,,bn,inf,,,"inf bn",,495,2390
+GE,"77 Inf Div",77,III/1050,4,4,4,3,,2,3,4,3,,bn,inf,,,"inf bn",,496,2391
+GE,"77 Inf Div",77,,,3,6,1,,,,,,,div,inf,,hq,"div HQ",,497,
+GE,"7 NW Bde",7,I/83,4,1,8,1,3,,,,,,bn,nw,mot,,"mot nw bn 150 18",,498,
+GE,"7 NW Bde",7,I/84,4,1,8,1,3,,,,,,bn,nw,mot,,"mot nw bn 150 18",,499,
+GE,"7 NW Bde",7,II/83,4,1,8,1,3,,,,,,bn,nw,mot,,"mot nw bn 150 18",,500,
+GE,"7 NW Bde",7,II/84,4,1,8,1,3,,,,,,bn,nw,mot,,"mot nw bn 150 18",,501,
+GE,"7 NW Bde",7,III/83,5,1,8,1,4,,,,,,bn,nw,mot,,"mot nw bn 210 18",,502,
+GE,"7 NW Bde",7,III/84,5,1,8,1,4,,,,,,bn,nw,mot,,"mot nw bn 210 18",,503,
+GE,"7 NW Bde","7 NW",,,1,8,1,,,,,,,bde,nw,mot,hq,"mot nw bde HQ",,504,
+GE,"84 Inf Div",84,I/84,2,1,4,1,6,,,,,,bn,arty,,,"arty bn 105 8",,505,
+GE,"84 Inf Div",84,II/84,3,2,4,1,6,,,,,,bn,arty,,,"arty bn 105 12",,506,
+GE,"84 Inf Div",84,III/84,2,1,8,1,6,,,,,,bn,arty,mot,,"mot arty bn 105 8",,507,
+GE,"84 Inf Div",84,184,2,5,4,2,1,1,3,4,1,1,bn,at,,,"at bn 75 12","size misprint: 2/2",508,2392
+GE,"84 Inf Div",84,IV/84,12,5,8,3,1,7,3,8,2,1,bn,at,mot,,"mot at bn 88 12",,509,2393
+GE,"84 Inf Div",84,184,2,3,4,3,,1,1,4,3,,bn,inf,,pio,"pio bn",,510,2394
+GE,"84 Inf Div",84,I/1051,3,4,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,511,2395
+GE,"84 Inf Div",84,I/1052,3,4,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,512,2396
+GE,"84 Inf Div",84,II/1051,3,4,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,513,2397
+GE,"84 Inf Div",84,II/1052,3,4,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,514,2398
+GE,"84 Inf Div",84,III/1051,3,4,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,515,2399
+GE,"84 Inf Div",84,III/1052,3,4,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,516,2400
+GE,"84 Inf Div",84,,0,1,4,3,,,,,,,bn,inf,,fe,"fe bn",,517,
+GE,"84 Inf Div",84,,3,3,4,3,,1,2,4,3,,bn,inf,,fus,"fus inf bn",,518,2401
+GE,"84 Inf Div",84,,,3,6,1,,,,,,,div,inf,,hq,"div HQ",,519,
+GE,"85 Inf Div",85,I/85,2,1,4,1,6,,,,,,bn,arty,,,"arty bn 105 8",,520,
+GE,"85 Inf Div",85,II/85,2,1,4,1,6,,,,,,bn,arty,,,"arty bn 105 8",,521,
+GE,"85 Inf Div",85,185,2,5,4,2,1,1,3,4,1,1,bn,at,,,"at bn 75 12","size misprint: 2/2",522,2402
+GE,"85 Inf Div",85,III/85,12,5,8,3,1,7,3,8,2,1,bn,at,mot,,"mot at bn 88 12",,523,2403
+GE,"85 Inf Div",85,185,1,2,4,3,,0,1,4,3,,bn,inf,,pio,"pio bn",,524,2404
+GE,"85 Inf Div",85,I/1053,3,4,6,3,,1,2,6,3,,bn,inf,bi,,"bi inf bn",,525,2405
+GE,"85 Inf Div",85,I/1054,3,4,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,526,2406
+GE,"85 Inf Div",85,II/1053,3,4,6,3,,1,2,6,3,,bn,inf,bi,,"bi inf bn",,527,2407
+GE,"85 Inf Div",85,II/1054,3,4,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,528,2408
+GE,"85 Inf Div",85,III/1053,3,4,6,3,,1,2,6,3,,bn,inf,bi,,"bi inf bn",,529,2409
+GE,"85 Inf Div",85,III/1054,3,4,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,530,2410
+GE,"85 Inf Div",85,,0,1,4,3,,,,,,,bn,inf,,fe,"fe bn",,531,
+GE,"85 Inf Div",85,,3,3,4,3,,1,2,4,3,,bn,inf,,fus,"fus bn",,532,2411
+GE,"85 Inf Div",85,,,3,6,1,,,,,,,div,inf,,hq,"div HQ",,533,
+GE,"89 Inf Div",89,I/189,3,2,4,1,6,,,,,,bn,arty,,,"arty bn 105 12",,534,
+GE,"89 Inf Div",89,II/189,3,2,4,1,6,,,,,,bn,arty,,,"arty bn 105 12",,535,
+GE,"89 Inf Div",89,III/189,3,2,4,1,10,,,,,,bn,arty,,,"arty bn 122 12 RU",,536,
+GE,"89 Inf Div",89,IV/189,12,5,8,3,1,7,3,8,2,1,bn,at,mot,,"mot at bn 88 12",,537,2412
+GE,"89 Inf Div",89,,2,5,4,2,1,1,3,4,1,1,bn,at,,,"at bn 75 12","size misprint: 2/2",538,2413
+GE,"89 Inf Div",89,189,2,3,4,3,,1,1,4,3,,bn,inf,,pio,"pio bn",,539,2414
+GE,"89 Inf Div",89,I/1055,3,4,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,540,2415
+GE,"89 Inf Div",89,I/1056,3,4,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,541,2416
+GE,"89 Inf Div",89,II/1055,3,4,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,542,2417
+GE,"89 Inf Div",89,II/1056,3,4,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,543,2418
+GE,"89 Inf Div",89,III/1055,3,4,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,544,2419
+GE,"89 Inf Div",89,III/1056,3,4,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,545,2420
+GE,"89 Inf Div",89,,3,3,4,3,,1,2,4,3,,bn,inf,,fus,"fus bn",,546,2421
+GE,"89 Inf Div",89,,,3,6,1,,,,,,,div,inf,,hq,"div HQ",,547,
+GE,"8 NW Bde",8,I/5,4,1,8,1,3,,,,,,bn,nw,mot,,"mot nw bn 150 18",,548,
+GE,"8 NW Bde",8,I/6,4,1,8,1,3,,,,,,bn,nw,mot,,"mot nw bn 150 18",,549,
+GE,"8 NW Bde",8,II/5,4,1,8,1,3,,,,,,bn,nw,mot,,"mot nw bn 150 18",,550,
+GE,"8 NW Bde",8,II/6,4,1,8,1,3,,,,,,bn,nw,mot,,"mot nw bn 150 18",,551,
+GE,"8 NW Bde",8,III/5,5,1,8,1,4,,,,,,bn,nw,mot,,"mot nw bn 210 18",,552,
+GE,"8 NW Bde",8,III/6,5,1,8,1,4,,,,,,bn,nw,mot,,"mot nw bn 210 18",,553,
+GE,"8 NW Bde","8 NW",,,1,8,1,,,,,,,bde,nw,mot,hq,"mot nw bde HQ",,554,
+GE,"91 Inf Div",91,I/191,2,2,4,1,6,,,,,,bn,arty,,,"arty bn 105 GbG 8",,555,
+GE,"91 Inf Div",91,II/191,2,2,4,1,6,,,,,,bn,arty,,,"arty bn 105 GbG 8",,556,
+GE,"91 Inf Div",91,III/191,2,2,4,1,6,,,,,,bn,arty,,,"arty bn 105 GbG 8",,557,
+GE,"91 Inf Div",91,,12,5,8,3,1,7,3,8,2,1,bn,at,mot,,"mot at bn 88 12",,558,2422
+LW,"91 Inf Div",91,"13/6 FS",2,1,8,1,3,,,,,,bty,gw,mot,,"mot gw bty 120M 6",,559,
+GE,"91 Inf Div",91,191,2,3,4,3,,1,1,4,3,,bn,inf,,pio,"pio bn",,560,2423
+GE,"91 Inf Div",91,I/1057,4,5,4,3,,2,3,4,3,,bn,inf,,,"inf bn",,561,2424
+GE,"91 Inf Div",91,I/1058,4,5,4,3,,2,3,4,3,,bn,inf,,,"inf bn",,562,2425
+LW,"91 Inf Div",91,"I/6 FS",6,6,4,3,,3,3,4,3,,bn,inf,,para,"para inf bn",,563,2426
+GE,"91 Inf Div",91,II/1057,4,5,4,3,,2,3,4,3,,bn,inf,,,"inf bn",,564,2427
+GE,"91 Inf Div",91,II/1058,4,5,4,3,,2,3,4,3,,bn,inf,,,"inf bn",,565,2428
+LW,"91 Inf Div",91,"II/6 FS",6,6,4,3,,3,3,4,3,,bn,inf,,para,"para inf bn",,566,2429
+GE,"91 Inf Div",91,III/1057,4,5,4,3,,2,3,4,3,,bn,inf,,,"inf bn",,567,2430
+GE,"91 Inf Div",91,III/1058,4,5,4,3,,2,3,4,3,,bn,inf,,,"inf bn",,568,2431
+LW,"91 Inf Div",91,"III/6 FS",6,6,4,3,,3,3,4,3,,bn,inf,,para,"para inf bn",,569,2432
+GE,"91 Inf Div",91,,1,1,4,3,,,,,,,bn,inf,,fe,"fe bn",,570,
+GE,"91 Inf Div",91,,4,5,6,3,,1,2,6,3,,bn,inf,bi,fus,"bi fus bn",,571,2433
+GE,"91 Inf Div",91,,,3,8,1,,,,,,,div,inf,smot,hq,"smot div HQ",,572,
+GE,"9 Pz Div",9,,4,4,8,3,,2,3,8,3,,bn,ac,ht,rcce,"ht rcce ac bn",,573,2434
+GE,"9 Pz Div",9,I/102,3,3,6,1,6,,,,,,bn,arty,sp,,"sp arty bn 105 12",,574,
+GE,"9 Pz Div",9,II/102,3,2,8,1,6,,,,,,bn,arty,,,"arty bn 105 12",,575,
+GE,"9 Pz Div",9,III/102,4,2,8,1,7,,,,,,bn,arty,mot,,"mot arty bn 150 12",,576,
+GE,"9 Pz Div",9,287,7,4,8,3,1,4,2,8,2,1,bn,flak,mot,,"mot flak bn 88 8",,577,2435
+GE,"9 Pz Div",9,86,4,5,6,3,,2,3,6,3,,bn,inf,ht,pio,"ht pio bn",,578,2436
+GE,"9 Pz Div",9,I/10,8,9,6,3,,5,6,6,3,,bn,inf,ht,,"ht inf bn",,579,2437
+GE,"9 Pz Div",9,I/11,8,9,6,3,,5,6,6,3,,bn,inf,ht,,"ht inf bn",,580,2438
+GE,"9 Pz Div",9,II/10,5,6,8,3,,3,4,8,3,,bn,inf,mot,,"mot inf bn",,581,2439
+GE,"9 Pz Div",9,II/11,5,6,8,3,,3,4,8,3,,bn,inf,mot,,"mot inf bn",,582,2440
+GE,"9 Pz Div",9,,0,2,8,3,,,,,,,bn,inf,mot,fe,"mot fe bn",,583,
+GE,"9 Pz Div",9,I/33,6,7,6,2,,3,3,6,2,,bn,pz,,,"pz bn IV 48",,584,2441
+GE,"9 Pz Div",9,II/33,9,9,6,2,,5,5,6,2,,bn,pz,,,"pz bn V 48",,585,2442
+GE,"9 Pz Div",9,,,3,6,1,,,,,,,div,pz,,hq,"pz div HQ",,586,
+GE,"9 NW Bde",9,1,4,1,8,1,3,,,,,,bn,nw,mot,,"mot nw bn 150 18",,587,
+GE,"9 NW Bde",9,7,4,1,8,1,3,,,,,,bn,nw,mot,,"mot nw bn 150 18",,588,
+GE,"9 NW Bde",9,I/14,4,1,8,1,3,,,,,,bn,nw,mot,,"mot nw bn 150 18",,589,
+GE,"9 NW Bde",9,I/54,4,1,8,1,3,,,,,,bn,nw,mot,,"mot nw bn 150 18",,590,
+GE,"9 NW Bde",9,II/14,4,1,8,1,3,,,,,,bn,nw,mot,,"mot nw bn 150 18",,591,
+GE,"9 NW Bde",9,II/54,4,1,8,1,3,,,,,,bn,nw,mot,,"mot nw bn 150 18",,592,
+GE,"9 NW Bde",9,III/14,5,1,8,1,4,,,,,,bn,nw,mot,,"mot nw bn 210 18",,593,
+GE,"9 NW Bde",9,III/54,5,1,8,1,4,,,,,,bn,nw,mot,,"mot nw bn 210 18",,594,
+GE,"9 NW Bde",9,"PzB 105",2,1,6,1,3,,,,,,bty,nw,ht,,"ht nw bty 150 8",,595,
+GE,"9 NW Bde","9 NW",,,1,8,1,,,,,,,bde,nw,mot,hq,"mot nw bde HQ",,596,
+GE,"9 SS Pz Div",9ss,,5,5,8,3,,2,3,8,3,,bn,ac,ht,rcce,"ht rcce ac bn",,597,2443
+GE,"9 SS Pz Div",9ss,I/9,3,2,6,1,6,,,,,,bn,arty,sp,,"sp arty bn 105 10",,598,
+GE,"9 SS Pz Div",9ss,II/9,3,2,8,1,6,,,,,,bn,arty,,,"arty bn 105 10",,599,
+GE,"9 SS Pz Div",9ss,III/9,3,2,8,1,7,,,,,,bn,arty,mot,,"mot arty bn 150 10",,600,
+GE,"9 SS Pz Div",9ss,IV/9,3,2,8,1,7,,,,,,bn,arty,mot,,"mot arty bn 150 10",,601,
+GE,"9 SS Pz Div",9ss,,2,5,8,2,1,1,3,8,1,1,bn,at,mot,,"mot at bty/mot at bn 75 12","size misprint: 1/2",602,2444
+GE,"9 SS Pz Div",9ss,,12,5,8,3,1,7,3,8,2,1,bn,flak,mot,,"mot flak bn 88 12",,603,2445
+GE,"9 SS Pz Div",9ss,13/9,1,1,8,1,10,,,,,,bty,gun,mot,,"mot gun bty 105G 4",,604,
+GE,"9 SS Pz Div",9ss,I/19,9,10,6,3,,5,6,6,3,,bn,inf,ht,,"ht inf bn",,605,2446
+GE,"9 SS Pz Div",9ss,I/20,9,10,6,3,,5,6,6,3,,bn,inf,ht,,"ht inf bn",,606,2447
+GE,"9 SS Pz Div",9ss,II/19,7,7,8,3,,4,5,8,3,,bn,inf,mot,,"mot inf bn",,607,2448
+GE,"9 SS Pz Div",9ss,II/20,7,7,8,3,,4,5,8,3,,bn,inf,mot,,"mot inf bn",,608,2449
+GE,"9 SS Pz Div",9ss,III/19,7,7,8,3,,4,5,8,3,,bn,inf,mot,,"mot inf bn",,609,2450
+GE,"9 SS Pz Div",9ss,III/20,7,7,8,3,,4,5,8,3,,bn,inf,mot,,"mot inf bn",,610,2451
+GE,"9 SS Pz Div",9ss,,0,2,8,3,,,,,,,bn,inf,mot,fe,"mot fe bn",,611,
+GE,"9 SS Pz Div",9ss,,5,5,6,3,,2,3,6,3,,bn,inf,ht,pio,"ht pio bn",,612,2452
+GE,"9 SS Pz Div",9ss,I/9,7,8,6,2,,4,5,6,2,,bn,pz,,,"pz bn IV 59",,613,2453
+GE,"9 SS Pz Div",9ss,II/9,11,12,6,2,,6,6,6,2,,bn,pz,,,"pz bn V 59",,614,2454
+GE,"9 SS Pz Div",9ss,PzJg,3,4,6,3,,1,2,6,3,,bn,pz,,ag,"pz ag bn SG3 22",,615,2455
+GE,"9 SS Pz Div",9ss,StuG,4,5,6,2,,2,3,6,2,,bn,pz,,ag,"pz ag bn SG3 31",,616,2456
+GE,"9 SS Pz Div",9ss,,,3,6,1,,,,,,,div,pz,,hq,"pz div HQ",,617,
+GE,"Coastal Arty",,10/1261,1,2,0,0,6,,,,,,bty,arty,cmt,,"cmt arty bty 105 6",,618,
+GE,"Coastal Arty",,10/1716,2,1,0,0,10,,,,,,bty,arty,fix,,"fixed arty bty 155 4 FR",,619,
+GE,"Coastal Arty",,1/1260,3,1,0,0,9,,,,,,bty,arty,fix,,"fixed arty bty 155 6",,620,
+GE,"Coastal Arty",,1/1261,1,3,0,0,5,,,,,,bty,arty,cmt,,"cmt arty bty 105 4 FR",,621,
+GE,"Coastal Arty",,1/1262,2,1,0,0,9,,,,,,bty,arty,fix,,"fixed arty bty 155 4 FR",,622,
+GE,"Coastal Arty",,1/1716,1,1,0,0,5,,,,,,bty,arty,fix,,"fixed arty bty 100 4 CZ",,623,
+GE,"Coastal Arty",,2/1255,1,2,0,0,5,,,,,,bty,arty,cmt,,"cmt arty bty 75 4",,624,
+GE,"Coastal Arty",,2/1260,3,1,0,0,9,,,,,,bty,arty,fix,,"fixed arty bty 155 6",,625,
+GE,"Coastal Arty",,2/1261,1,3,0,0,5,,,,,,bty,arty,cmt,,"cmt arty bty 105 4 FR",,626,
+GE,"Coastal Arty",,2/1262,1,2,0,0,5,,,,,,bty,arty,cmt,,"cmt arty bty 75 4",,627,
+GE,"Coastal Arty",,2/1716,1,1,0,0,5,,,,,,bty,arty,fix,,"fixed arty bty 100 4 CZ",,628,
+GE,"Coastal Arty",,3/1255,3,1,0,0,9,,,,,,bty,arty,fix,,"fixed arty bty 155 6",,629,
+GE,"Coastal Arty",,3/1260,1,2,0,0,9,,,,,,bty,arty,cmt,,"cmt arty bty 122 4 RU",,630,
+GE,"Coastal Arty",,3/1261,1,3,0,0,5,,,,,,bty,arty,cmt,,"cmt arty bty 105 4 FR",,631,
+GE,"Coastal Arty",,3/1262,1,3,0,0,14,,,,,,bty,arty,cmt,,"cmt arty bty 170 4",,632,
+GE,"Coastal Arty",,3/1716,1,1,0,0,5,,,,,,bty,arty,fix,,"fixed arty bty 100 4 CZ",,633,
+GE,"Coastal Arty",,4/1255,2,1,0,0,9,,,,,,bty,arty,fix,,"fixed arty bty 155 4 FR",,634,
+GE,"Coastal Arty",,4/1261,2,1,0,0,9,,,,,,bty,arty,fix,,"fixed arty bty 155 4 FR",,635,
+GE,"Coastal Arty",,4/1262,1,2,0,0,9,,,,,,bty,arty,cmt,,"cmt arty bty 122 4 RU",,636,
+GE,"Coastal Arty",,4/1716,2,1,0,0,9,,,,,,bty,arty,fix,,"fixed arty bty 155 4 FR",,637,
+GE,"Coastal Arty",,5/1261,2,1,0,0,7,,,,,,bty,arty,cmt,,"cmt arty bty 155 4 FR",,638,
+GE,"Coastal Arty",,5/1716,1,1,0,0,5,,,,,,bty,arty,fix,,"fixed arty bty 100 4 CZ",,639,
+GE,"Coastal Arty",,6/1261,3,1,0,0,9,,,,,,bty,arty,fix,,"fixed arty bty 155 6 FR",,640,
+GE,"Coastal Arty",,6/1716,1,1,0,0,5,,,,,,bty,arty,fix,,"fixed arty bty 100 4 CZ",,641,
+GE,"Coastal Arty",,7/1261,3,4,0,0,9,,,,,,bty,arty,cmt,,"cmt arty bty 155 6 FR",,642,
+GE,"Coastal Arty",,7/1716,1,1,0,0,5,,,,,,bty,arty,fix,,"fixed arty bty 100 4 CZ",,643,
+GE,"Coastal Arty",,8/1261,1,2,0,0,6,,,,,,bty,arty,cmt,,"cmt arty bty 105 6",,644,
+GE,"Coastal Arty",,8/1716,1,1,0,0,5,,,,,,bty,arty,fix,,"fixed arty bty 100 4 CZ",,645,
+GE,"Coastal Arty",,9/1261,1,1,0,0,14,,,,,,bty,arty,fix,,"fixed arty bty 170 4",,646,
+GE,"Coastal Arty",,9/1716,2,1,0,0,9,,,,,,bty,arty,fix,,"fixed arty bty 155 4 FR",,647,
+GE,Corps,"II^ss Panzer",,,1,8,1,,,,,,,cp,inf,,hq,"corps HQ","remove space in name",648,
+GE,Corps,"Iss Panzer",,,1,8,1,,,,,,,cp,inf,,hq,"corps HQ",,649,
+GE,Corps,"LVIII Panzer",,,1,8,1,,,,,,,cp,inf,,hq,"corps HQ",,650,
+GE,Corps,LXXIV,,,1,8,1,,,,,,,cp,inf,,hq,"corps HQ",,651,
+GE,Corps,LXXXIV,,,1,8,1,,,,,,,cp,inf,,hq,"corps HQ",,652,
+GE,Corps,LXXXVI,,,1,8,1,,,,,,,cp,inf,,hq,"corps HQ",,653,
+GE,Corps,"XLVII Panzer",,,1,8,1,,,,,,,cp,inf,,hq,"corps HQ",,654,
+GE,"Ind Arm",,100,1,2,4,2,,,,,,,bn,pz,,,"pz bn R35 27",,655,
+GE,"Ind Arm",,1/101,3,3,4,1,,2,2,4,1,,co,pz,,,"pz co VI 14",,656,2457
+GE,"Ind Arm",,1/102,3,3,4,1,,2,2,4,1,,co,pz,,,"pz co VI 14",,657,2458
+GE,"Ind Arm",,1/503,3,3,4,1,,2,2,4,1,,co,pz,,,"pz co VI 14",,658,2459
+GE,"Ind Arm",,1/654,4,5,6,1,,2,4,6,1,,co,pz,,ag,"pz ag co V 22",,659,2460
+GE,"Ind Arm",,1/668,4,5,6,1,,2,4,6,1,,co,pz,,ag,"pz ag co V 22",,660,2461
+GE,"Ind Arm",,205,2,3,5,2,,,,,,,bn,pz,,,"pz bn H39 46",,661,
+GE,"Ind Arm",,206,2,3,5,2,,,,,,,bn,pz,,,"pz bn H39 46",,662,
+GE,"Ind Arm",,2/101,3,3,4,1,,2,2,4,1,,co,pz,,,"pz co VI 14",,663,2462
+GE,"Ind Arm",,2/102,3,3,4,1,,2,2,4,1,,co,pz,,,"pz co VI 14",,664,2463
+GE,"Ind Arm",,213,4,4,4,2,,2,3,4,2,,bn,pz,,,"pz bn CHB 40",,665,2464
+GE,"Ind Arm",,2/503,3,3,4,1,,2,2,4,1,,co,pz,,,"pz co VI 14",,666,2465
+GE,"Ind Arm",,2/654,4,5,6,1,,2,4,6,1,,co,pz,,ag,"pz ag co V 22",,667,2466
+GE,"Ind Arm",,2/668,4,5,6,1,,2,4,6,1,,co,pz,,ag,"pz ag co V 22",,668,2467
+GE,"Ind Arm",,3/101,3,3,4,1,,2,2,4,1,,co,pz,,,"pz co VI 14",,669,2468
+GE,"Ind Arm",,3/102,3,3,4,1,,2,2,4,1,,co,pz,,,"pz co VI 14",,670,2469
+GE,"Ind Arm",,3/503,3,3,4,1,,2,2,4,1,,co,pz,,,"pz co VI 14",,671,2470
+GE,"Ind Arm",,3/654,4,5,6,1,,2,4,6,1,,co,pz,,ag,"pz ag co V 22",,672,2471
+GE,"Ind Arm",,3/668,4,5,6,1,,2,4,6,1,,co,pz,,,"pz co V 22",,673,2472
+GE,"Ind Arm",,394,5,6,6,3,,3,3,6,3,,bn,pz,,ag,"pz ag bn SG3 37",,674,2473
+GE,"Ind Arm",,902,5,6,6,3,,3,3,6,3,,bn,pz,,ag,"pz ag bn SG3 37",,675,2474
+GE,"Ind Arty",,1151,2,1,4,1,7,,,,,,bn,arty,,,"arty bn 149 8 CZ",,676,
+GE,"Ind Arty",,1192,3,1,4,1,7,,,,,,bn,arty,,,"arty bn 149 12 CZ",,677,
+GE,"Ind Arty",,1193,3,1,4,1,7,,,,,,bn,arty,,,"arty bn 149 12 CZ",,678,
+GE,"Ind Arty",,1194,3,1,4,1,7,,,,,,bn,arty,,,"arty bn 149 12 CZ",,679,
+GE,"Ind Arty",,1198,3,1,4,1,7,,,,,,bn,arty,,,"arty bn 149 12 CZ",,680,
+GE,"Ind Arty",,1/Iss,1,1,8,1,15,,,,,,bty,arty,mot,,"mot arty bty 170 6",,681,
+GE,"Ind Arty",,217,3,3,6,1,6,,,,,,bn,arty,sp,,"sp arty bn 105 12",,682,
+GE,"Ind Arty",,2/Iss,1,1,8,1,15,,,,,,bty,arty,mot,,"mot arty bty 170 6",,683,
+GE,"Ind Arty",,456,3,2,8,1,7,,,,,,bn,arty,mot,,"mot arty bn 152 122 8 4 RU",,684,
+GE,"Ind Arty",,458,3,2,8,1,7,,,,,,bn,arty,,,"arty bn 152 122 8 4 RU",,685,
+GE,"Ind Arty",,460,3,2,8,1,9,,,,,,bn,arty,,,"arty bn 170 152 4 8 RU",,686,
+GE,"Ind Arty",,467,3,2,8,1,10,,,,,,bn,arty,,,"arty bn 122 12 RU",,687,
+GE,"Ind Arty",,555,3,2,8,1,10,,,,,,bn,arty,,,"arty bn 122 12 RU",,688,
+GE,"Ind Arty",,625,1,1,8,1,15,,,,,,bty,arty,mot,,"mot arty bty 170 6",,689,
+GE,"Ind Arty",,628,2,1,8,1,17,,,,,,bn,arty,mot,,"mot arty bn 210 9",,690,
+GE,"Ind Arty",,722,1,1,[30],0,7-18,,,,,,bty,arty,rr,,"rr arty bty 203 2",,691,
+GE,"Ind Arty",,725,1,2,[30],1,7-15,,,,,,bty,arty,rr,,"rr arty bty 280 4",,692,
+GE,"Ind Arty",,763,1,2,8,1,15,,,,,,bn,arty,mot,,"mot arty bn 170 8",,693,
+GE,"Ind Arty",,861,2,2,8,1,5,,,,,,bn,arty,mot,,"mot arty bn 75 12 FR",,694,
+GE,"Ind Arty",,934,2,2,8,1,5,,,,,,bn,arty,mot,,"mot arty bn 75 12 FR",,695,
+GE,"Ind Arty",,937,3,2,8,1,7,,,,,,bn,arty,,,"arty bn 152 12 RU",,696,
+GE,"Ind Arty",,989,3,2,4,1,10,,,,,,bn,arty,,,"arty bn 122 12 RU",,697,
+GE,"Ind Arty",,992,3,2,8,1,7,,,,,,bn,arty,,,"arty bn 152 12 RU",,698,
+GE,"Ind Arty",,AUTON,4,2,8,1,7,,,,,,bn,arty,mot,,"mot arty bn 150 12",,699,
+GE,"Ind Arty",,SUIPPE,4,2,8,1,7,,,,,,bn,arty,mot,,"mot arty bn 150 12",,700,
+GE,"Ind Arty",,657,12,5,8,3,1,7,3,8,2,1,bn,at,mot,,"mot at bn 88 12",,701,2475
+GE,"Ind Arty",,"KG 895",2,3,8,1,1,,,,,,bty,flak,mot,,"mot flak bty","no gun size or count",702,
+GE,"Ind Arty",,151,3,1,4,1,6,,,,,,bn,gun,,,"gun bn 105G 12 FR",,703,
+GE,"Ind Arty",,3/Iss,1,1,8,1,8,,,,,,bty,mor,mot,,"mot morser bty 210GM 4",,704,
+GE,"Ind Arty",,II^ss,4,1,8,1,3,,,,,,bn,nw,mot,,"mot nw bn 150 18","remove carat in name",705,
+GE,"Ind Arty",,Iss,4,1,8,1,3,,,,,,bn,nw,mot,,"mot nw bn 150 18",,706,
+GE,"Ind Inf",,1/17,1,3,4,1,,,,,,,co,inf,,mg,"mg inf co",,707,
+GE,"Ind Inf",,1/2,0,0,[30],1,,,,,,,co,inf,rr,pio,"rr pio co",,708,
+GE,"Ind Inf",,1/3,0,0,[30],1,,,,,,,co,inf,rr,pio,"rr pio co",,710,
+GE,"Ind Inf",,1/84K,0,2,3,1,,,,,,,co,inf,,kom,"kom co",,711,
+GE,"Ind Inf",,2/17,1,3,4,1,,,,,,,co,inf,,mg,"mg inf co",,712,
+GE,"Ind Inf",,264,0,2,2,1,,,,,,,bn,inf,,mp,"mp bn",,713,
+GE,"Ind Inf",,281,1,2,4,3,,,,,,,bn,inf,,ost,"ost bn",,714,
+GE,"Ind Inf",,2/84K,0,2,3,1,,,,,,,co,inf,,kom,"kom co",,715,
+GE,"Ind Inf",,285,2,2,6,3,,,,,,,bn,inf,bi,ost,"bi ost bn",,716,
+GE,"Ind Inf",,3/17,1,3,4,1,,,,,,,co,inf,,mg,"mg inf co",,717,
+GE,"Ind Inf",,3/84K,0,2,3,1,,,,,,,co,inf,,kom,"kom co",,718,
+GE,"Ind Inf",,4/193,0,2,2,1,,,,,,,co,inf,,mp,"mp co",,719,
+GE,"Ind Inf",,435,1,2,4,3,,,,,,,bn,inf,,ost,"ost bn",,720,
+GE,"Ind Inf",,439,2,2,4,3,,,,,,,bn,inf,,ost,"ost bn",,721,
+GE,"Ind Inf",,441,0,2,4,3,,,,,,,bn,inf,,ost,"ost bn",,722,
+GE,"Ind Inf",,4/84K,0,2,3,1,,,,,,,co,inf,,kom,"kom co",,723,
+GE,"Ind Inf",,505,3,4,6,3,,1,2,6,3,,bn,inf,bi,,"bi inf bn",,724,2476
+GE,"Ind Inf",,506,3,4,6,3,,1,2,6,3,,bn,inf,bi,,"bi inf bn",,725,2477
+GE,"Ind Inf",,507,3,4,6,3,,1,2,6,3,,bn,inf,bi,,"bi inf bn",,726,2478
+GE,"Ind Inf",,515,0,2,2,1,,,,,,,co,inf,,mp,"mp co",,727,
+GE,"Ind Inf",,561,1,2,4,3,,,,,,,bn,inf,,ost,"ost bn",,728,
+GE,"Ind Inf",,583,0,2,2,1,,,,,,,co,inf,,mp,"mp co",,729,
+GE,"Ind Inf",,600,3,4,8,3,,2,3,8,3,,bn,inf,mot,pio,"mot pio bn",,730,2479
+GE,"Ind Inf",,602,1,2,4,3,,,,,,,bn,inf,,ost,"ost bn",,731,
+GE,"Ind Inf",,6/193,0,2,2,1,,,,,,,co,inf,,mp,"mp co",,732,
+GE,"Ind Inf",,627,0,1,4,3,,,,,,,bn,inf,,ost,"ost bn",,733,
+GE,"Ind Inf",,629,1,2,4,3,,,,,,,bn,inf,,ost,"ost bn",,734,
+GE,"Ind Inf",,633,1,3,4,3,,,,,,,bn,inf,,ost,"ost bn",,735,
+GE,"Ind Inf",,634,2,2,4,3,,,,,,,bn,inf,,ost,"ost bn",,736,
+GE,"Ind Inf",,636,2,2,4,3,,,,,,,bn,inf,,ost,"ost bn",,737,
+GE,"Ind Inf",,642,2,2,4,3,,,,,,,bn,inf,,ost,"ost bn",,738,
+GE,"Ind Inf",,643,3,4,4,3,,1,2,4,3,,bn,inf,,ost,"ost bn",,739,2480
+GE,"Ind Inf",,649,1,3,4,3,,,,,,,bn,inf,,ost,"ost bn",,740,
+GE,"Ind Inf",,722,0,2,2,1,,,,,,,co,inf,,mp,"mp co",,741,
+GE,"Ind Inf",,723,0,2,2,1,,,,,,,co,inf,,mp,"mp co",,742,
+GE,"Ind Inf",,741,0,2,2,1,,,,,,,bn,inf,,mp,"mp bn",,743,
+GE,"Ind Inf",,765,0,2,2,1,,,,,,,co,inf,,mp,"mp co",,744,
+GE,"Ind Inf",,775,0,2,2,1,,,,,,,co,inf,,mp,"mp co",,745,
+GE,"Ind Inf",,785,0,2,2,1,,,,,,,co,inf,,mp,"mp co",,746,
+GE,"Ind Inf",,795,2,3,4,3,,0,1,4,3,,bn,inf,,ost,"ost bn",,747,2481
+GE,"Ind Inf",,797,2,3,4,3,,0,1,4,3,,bn,inf,,ost,"ost bn",,748,2482
+GE,"Ind Inf",,798,1,2,4,3,,,,,,,bn,inf,,ost,"ost bn",,749,
+GE,"Ind Inf",,800,2,3,4,3,,0,1,4,3,,bn,inf,,ost,"ost bn",,750,2483
+GE,"Ind Inf",,823,2,3,4,3,,0,1,4,3,,bn,inf,,ost,"ost bn",,751,2484
+GE,"Ind Inf",,856,0,2,2,1,,,,,,,co,inf,,mp,"mp co",,752,
+GE,"Ind Inf",,861,0,2,2,1,,,,,,,co,inf,,mp,"mp co",,753,
+GE,"Ind Inf",,ANGER,2,3,4,3,,1,2,4,3,,bn,inf,,pio,"pio bn",,754,2485
+GE,"Ind Inf",,"AOK 7",7,8,8,3,,4,5,8,3,,bn,inf,mot,,"mot inf bn",,755,2486
+GE,"Ind Inf",,Huber,1,2,4,3,,,,,,,bn,inf,,ost,"ost bn",,756,
+GE,"Ind Inf",,HW/193,1,3,8,1,,,,,,,co,inf,mot,hw,"mot hw inf co",,757,
+GE,"Ind Inf",,I/11,0,0,[30],1,,,,,,,co,inf,rr,pio,"rr pio co",,758,
+GE,"Ind Inf",,I/6,0,0,[30],1,,,,,,,co,inf,rr,pio,"rr pio co",,759,
+GE,"Ind Inf",,II/193,1,3,4,3,,,,,,,bn,inf,,mp,"mp bn",,760,
+GE,"Ind Inf",,II/521,1,2,4,3,,,,,,,bn,inf,,mp,"mp bn",,762,
+GE,"Ind Inf",,III/195,1,3,4,3,,,,,,,bn,inf,,mp,"mp bn",,763,
+GE,"Ind Inf",,II/Mitte,2,2,4,3,,,,,,,bn,inf,,ost,"ost bn",,764,
+GE,"Rem & Repl",1,,0,2,6,2,,,,,,,bn,inf,bi,rem,,,765,
+GE,"Rem & Repl",2,,0,2,6,2,,,,,,,bn,inf,bi,rem,,,766,
+GE,"Rem & Repl",3,,0,2,6,2,,,,,,,bn,inf,bi,rem,,,767,
+GE,"Rem & Repl",4,,0,2,6,2,,,,,,,bn,inf,bi,rem,,,768,
+GE,"Rem & Repl",1,,0,2,6,2,,,,,,,bn,inf,ht,rem,,,769,
+GE,"Rem & Repl",2,,0,2,6,2,,,,,,,bn,inf,ht,rem,,,770,
+GE,"Rem & Repl",3,,0,2,6,2,,,,,,,bn,inf,ht,rem,,,771,
+GE,"Rem & Repl",4,,0,2,6,2,,,,,,,bn,inf,ht,rem,,,772,
+GE,"Rem & Repl",5,,0,2,6,2,,,,,,,bn,inf,ht,rem,,,773,
+GE,"Rem & Repl",6,,0,2,6,2,,,,,,,bn,inf,ht,rem,,,774,
+GE,"Rem & Repl",7,,0,2,6,2,,,,,,,bn,inf,ht,rem,,,775,
+GE,"Rem & Repl",8,,0,2,6,2,,,,,,,bn,inf,ht,rem,,,776,
+GE,"Rem & Repl",9,,0,2,8,2,,,,,,,bn,inf,ht,"rem rcce",,,777,
+GE,"Rem & Repl",10,,0,2,8,2,,,,,,,bn,inf,ht,"rem rcce",,,778,
+GE,"Rem & Repl",11,,0,2,8,2,,,,,,,bn,inf,ht,"rem rcce",,,779,
+GE,"Rem & Repl",12,,0,2,8,2,,,,,,,bn,inf,ht,"rem rcce",,,780,
+GE,"Rem & Repl",1,,0,2,8,2,,,,,,,bn,inf,mot,rem,,,781,
+GE,"Rem & Repl",2,,0,2,8,2,,,,,,,bn,inf,mot,rem,,,782,
+GE,"Rem & Repl",3,,0,2,8,2,,,,,,,bn,inf,mot,rem,,,783,
+GE,"Rem & Repl",4,,0,2,8,2,,,,,,,bn,inf,mot,rem,,,784,
+GE,"Rem & Repl",5,,0,2,8,2,,,,,,,bn,inf,mot,rem,,,785,
+GE,"Rem & Repl",6,,0,2,8,2,,,,,,,bn,inf,mot,rem,,,786,
+GE,"Rem & Repl",7,,0,2,8,2,,,,,,,bn,inf,mot,rem,,,787,
+GE,"Rem & Repl",8,,0,2,8,2,,,,,,,bn,inf,mot,rem,,,788,
+GE,"Rem & Repl",9,,0,2,8,2,,,,,,,bn,inf,mot,rem,,,789,
+GE,"Rem & Repl",10,,0,2,8,2,,,,,,,bn,inf,mot,rem,,,790,
+GE,"Rem & Repl",11,,0,2,8,2,,,,,,,bn,inf,mot,rem,,,791,
+GE,"Rem & Repl",12,,0,2,8,2,,,,,,,bn,inf,mot,rem,,,792,
+GE,"Rem & Repl",1,,0,2,4,2,,,,,,,bn,inf,,rem,,,793,
+GE,"Rem & Repl",2,,0,2,4,2,,,,,,,bn,inf,,rem,,,794,
+GE,"Rem & Repl",3,,0,2,4,2,,,,,,,bn,inf,,rem,,,795,
+GE,"Rem & Repl",4,,0,2,4,2,,,,,,,bn,inf,,rem,,,796,
+GE,"Rem & Repl",5,,0,2,4,2,,,,,,,bn,inf,,rem,,,797,
+GE,"Rem & Repl",6,,0,2,4,2,,,,,,,bn,inf,,rem,,,798,
+GE,"Rem & Repl",7,,0,2,4,2,,,,,,,bn,inf,,rem,,,799,
+GE,"Rem & Repl",8,,0,2,4,2,,,,,,,bn,inf,,rem,,,800,
+GE,"Rem & Repl",9,,0,2,4,2,,,,,,,bn,inf,,rem,,,801,
+GE,"Rem & Repl",10,,0,2,4,2,,,,,,,bn,inf,,rem,,,802,
+GE,"Rem & Repl",11,,0,2,4,2,,,,,,,bn,inf,,rem,,,803,
+GE,"Rem & Repl",12,,0,2,4,2,,,,,,,bn,inf,,rem,,,804,
+GE,"Rem & Repl",13,,0,2,4,2,,,,,,,bn,inf,,rem,,,805,
+GE,"Rem & Repl",14,,0,2,4,2,,,,,,,bn,inf,,rem,,,806,
+GE,"Rem & Repl",15,,0,2,4,2,,,,,,,bn,inf,,rem,,,807,
+GE,"Rem & Repl",16,,0,2,4,2,,,,,,,bn,inf,,rem,,,808,
+GE,"Rem & Repl",17,,0,2,4,2,,,,,,,bn,inf,,rem,,,809,
+GE,"Rem & Repl",18,,0,2,4,2,,,,,,,bn,inf,,rem,,,810,
+GE,"Rem & Repl",19,,0,2,4,2,,,,,,,bn,inf,,rem,,,811,
+GE,"Rem & Repl",20,,0,2,4,2,,,,,,,bn,inf,,rem,,,812,
+GE,"Rem & Repl",1,,0,2,6,1,,,,,,,bn,pz,,rem,,,813,
+GE,"Rem & Repl",2,,0,2,6,1,,,,,,,bn,pz,,rem,,,814,
+GE,"Rem & Repl",3,,0,2,6,1,,,,,,,bn,pz,,rem,,,815,
+GE,"Rem & Repl",4,,0,2,6,1,,,,,,,bn,pz,,rem,,,816,
+GE,"Rem & Repl",5,,0,2,6,1,,,,,,,bn,pz,,rem,,,817,
+GE,"Rem & Repl",6,,0,2,6,1,,,,,,,bn,pz,,rem,,,818,
+GE,"Rem & Repl",7,,0,2,6,1,,,,,,,bn,pz,,rem,,,819,
+GE,"Rem & Repl",8,,0,2,6,1,,,,,,,bn,pz,,rem,,,820,
+GE,"Rem & Repl",9,,0,2,6,1,,,,,,,bn,pz,,rem,,,821,
+GE,"Rem & Repl",10,,0,2,6,1,,,,,,,bn,pz,,rem,,,822,
+GE,"Rem & Repl",11,,0,2,6,1,,,,,,,bn,pz,,rem,,,823,
+GE,"Rem & Repl",12,,0,2,6,1,,,,,,,bn,pz,,rem,,,824,
+GE,"Rem & Repl",13,,0,2,6,1,,,,,,,bn,pz,,rem,,,825,
+GE,"Rem & Repl",14,,0,2,6,1,,,,,,,bn,pz,,rem,,,826,
+GE,"Rem & Repl",15,,0,2,6,1,,,,,,,bn,pz,,rem,,,827,
+GE,"Rem & Repl",16,,0,2,6,1,,,,,,,bn,pz,,rem,,,828,
+GE,"Rem & Repl",17,,0,2,6,1,,,,,,,bn,pz,,rem,,,829,
+GE,"Rem & Repl",18,,0,2,6,1,,,,,,,bn,pz,,rem,,,830,
+GE,"Rem & Repl",19,,0,2,6,1,,,,,,,bn,pz,,rem,,,831,
+GE,"Rem & Repl",,,0,0,4,0,,,,,,,rpl,inf,,rpl,,,832,
+GE,"Rem & Repl",,,0,0,8,0,,,,,,,rpl,pz,,rpl,,,833,
+GE,Supply,,,,0,8,1,,,,,,,,sup,,,supply,,834,
+GE,Supply,,,,0,8,1,,,,,,,,hsup,,,"half supply",,3070,
+KM,"Coastal Arty",,"MBK MOLE",1,3,0,0,6,,,,,,bty,arty,cmt,,"cmt arty bty 94 2",,835,
+KM,"Coastal Arty",,"MKB BLANK",2,1,0,0,6,,,,,,bty,arty,fix,,"fixed arty bty 94 4",,836,
+KM,"Coastal Arty",,"MKB BROM",2,4,0,0,11,,,,,,bty,arty,cmt,,"cmt arty bty 150 4",,837,
+KM,"Coastal Arty",,"MKB CHER",1,3,0,0,6,,,,,,bty,arty,cmt,,"cmt arty bty 105 4",,838,
+KM,"Coastal Arty",,"MKB HAMB",5,7,0,0,12,,,,,,bty,arty,cmt,,"cmt arty bty 240 4",,839,
+KM,"Coastal Arty",,"MKB LAND",2,3,0,0,11,,,,,,bty,arty,cmt,,"cmt arty bty 150 4",,840,
+KM,"Coastal Arty",,"MKB LONG",2,4,0,0,11,,,,,,bty,arty,cmt,,"cmt arty bty 150 4",,841,
+KM,"Coastal Arty",,"MKB MARC",1,7,0,0,13,,,,,,bty,arty,cmt,,"cmt arty bty 210 3 CZ",,842,
+KM,"Coastal Arty",,"MKB NICH",1,1,0,0,8,,,,,,bty,arty,fix,,"fixed arty bty 120 4 BE",,843,
+KM,"Coastal Arty",,"MKB PAIR",1,2,0,0,5,,,,,,bty,arty,cmt,,"cmt arty bty 75 4",,844,
+KM,"Coastal Arty",,"MKB ROUL",1,3,0,0,6,,,,,,bty,arty,cmt,,"cmt arty bty 105 4",,845,
+KM,"Coastal Arty",,"MKB YORK",3,4,0,0,9,,,,,,bty,arty,cmt,,"cmt arty bty 170 4",,846,
+KM,"Ind Inf",,MAR,1,2,4,1,,,,,,,bn,inf,,pio,"pio bn",,847,
+LW,"16 LW Div","16 L",I/16,3,2,4,1,6,,,,,,bn,arty,,,"arty bn 105 12",,848,
+LW,"16 LW Div","16 L",II/16,3,2,4,1,6,,,,,,bn,arty,,,"arty bn 105 12","no div as printed",849,
+LW,"16 LW Div","16 L",III/16,4,2,4,1,7,,,,,,bn,arty,,,"arty bn 150 12",,850,
+LW,"16 LW Div","16 L",,2,5,4,2,1,1,3,4,1,1,bn,at,,,"at bn 75 12","size misprint: 2/2",851,2487
+LW,"16 LW Div","16 L",,12,7,8,2,1,7,5,8,2,1,bn,flak,mot,,"mot flak bn 88 12",,852,2488
+LW,"16 LW Div","16 L",I/31,2,3,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,853,2489
+LW,"16 LW Div","16 L",I/32,2,3,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,854,2490
+LW,"16 LW Div","16 L",I/45,2,3,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,855,2491
+LW,"16 LW Div","16 L",II/31,2,3,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,856,2492
+LW,"16 LW Div","16 L",II/32,2,3,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,857,2493
+LW,"16 LW Div","16 L",II/45,2,3,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,858,2494
+LW,"16 LW Div","16 L",,0,1,4,3,,,,,,,bn,inf,,fe,"fe bn",,859,
+LW,"16 LW Div","16 L",,2,3,4,3,,1,2,4,3,,bn,inf,,fus,"fus bn",,860,2495
+LW,"16 LW Div","16 LW",,,3,6,1,,,,,,,div,inf,,hq,"div HQ",,861,
+LW,"17 LW Div","17 L",I/17,3,2,4,1,6,,,,,,bn,arty,,,"arty bn 105 12",,862,
+LW,"17 LW Div","17 L",II/17,3,2,4,1,6,,,,,,bn,arty,,,"arty bn 105 12",,863,
+LW,"17 LW Div","17 L",,2,5,4,2,1,1,3,4,1,1,bn,at,,,"at bn 75 12","size misprint: 2/2",864,2496
+LW,"17 LW Div","17 L",PzJg,1,2,6,1,1,,,,,,co,gun,sp,ag,"sp ag co 75 8 M2",,865,
+LW,"17 LW Div","17 L",I/34,3,3,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,866,2497
+LW,"17 LW Div","17 L",I/47,3,3,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,867,2498
+LW,"17 LW Div","17 L",II/34,3,3,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,868,2499
+LW,"17 LW Div","17 L",II/47,3,3,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,869,2500
+LW,"17 LW Div","17 L",,0,1,4,3,,,,,,,bn,inf,,fe,"fe bn",,870,
+LW,"17 LW Div","17 L",,3,3,6,3,,1,2,6,3,,bn,inf,bi,fus,"bi fus bn",,871,2501
+LW,"17 LW Div","17 LW",,,3,6,1,,,,,,,div,inf,,hq,"div HQ",,872,
+LW,"18 LW Div","18 L",I/18,3,2,4,1,6,,,,,,bn,arty,,,"arty bn 105 12",,873,
+LW,"18 LW Div","18 L",II/18,3,2,4,1,6,,,,,,bn,arty,,,"arty bn 105 12",,874,
+LW,"18 LW Div","18 L",III/18,4,2,4,1,7,,,,,,bn,arty,,,"arty bn 150 12",,875,
+LW,"18 LW Div","18 L",,2,5,4,2,1,1,3,4,1,1,bn,at,,,"at bn 75 12","size misprint: 2/2",876,2502
+LW,"18 LW Div","18 L",560,1,3,4,3,,,,,,,bn,inf,,ost,"ost bn",,877,
+LW,"18 LW Div","18 L",I/35,3,3,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,878,2503
+LW,"18 LW Div","18 L",I/36,3,3,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,879,2504
+LW,"18 LW Div","18 L",I/47,3,3,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,880,2505
+LW,"18 LW Div","18 L",II/35,3,3,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,881,2506
+LW,"18 LW Div","18 L",II/36,3,4,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,882,2507
+LW,"18 LW Div","18 L",II/47,3,3,4,3,,1,2,4,3,,bn,inf,,,"inf bn",,883,2508
+LW,"18 LW Div","18 L",,0,1,4,3,,,,,,,bn,inf,,fe,"fe bn",,884,
+LW,"18 LW Div","18 L",,2,3,4,3,,1,1,4,3,,bn,inf,,pio,"pio bn",,885,2509
+LW,"18 LW Div","18 L",,3,3,4,3,,1,2,4,3,,bn,inf,,fus,"fus bn",,886,2510
+LW,"18 LW Div","18 L",,5,2,6,1,2,,,,,,bty,nw,ht,,"ht nw bty 280",,887,
+LW,"18 LW Div","18 LW",,,3,6,1,,,,,,,div,inf,,hq,"div HQ",,888,
+LW,"1 FlaK Rgt",1,I/1,4,2,8,1,1,,,,,,bty,flak,mot,hvy,"mot flak bty 88 4",,889,
+LW,"1 FlaK Rgt",1,I/2,4,2,8,1,1,,,,,,bty,flak,mot,hvy,"mot flak bty 88 4",,890,
+LW,"1 FlaK Rgt",1,I/3,4,2,8,1,1,,,,,,bty,flak,mot,hvy,"mot flak bty 88 4",,891,
+LW,"1 FlaK Rgt",1,I/4,1,3,8,1,1,,,,,,bty,flak,mot,,"mot flak bty 20 12",,892,
+LW,"1 FlaK Rgt",1,I/5,2,3,8,1,1,,,,,,bty,flak,mot,,"mot flak bty 37 12",,893,
+LW,"1 FlaK Rgt",1,II/1,4,2,8,1,1,,,,,,bty,flak,mot,hvy,"mot flak bty 88 4",,894,
+LW,"1 FlaK Rgt",1,II/2,4,2,8,1,1,,,,,,bty,flak,mot,hvy,"mot flak bty 88 4",,895,
+LW,"1 FlaK Rgt",1,II/3,4,2,8,1,1,,,,,,bty,flak,mot,hvy,"mot flak bty 88 4",,896,
+LW,"1 FlaK Rgt",1,II/4,1,3,8,1,1,,,,,,bty,flak,mot,,"mot flak bty 20 12",,897,
+LW,"1 FlaK Rgt",1,II/5,2,3,8,1,1,,,,,,bty,flak,mot,,"mot flak bty 37 12",,898,
+LW,"1 FlaK Rgt",1,III/1,4,2,8,1,1,,,,,,bty,flak,mot,hvy,"mot flak bty 88 4",,899,
+LW,"1 FlaK Rgt",1,III/2,4,2,8,1,1,,,,,,bty,flak,mot,hvy,"mot flak bty 88 4",,900,
+LW,"1 FlaK Rgt",1,III/3,4,2,8,1,1,,,,,,bty,flak,mot,hvy,"mot flak bty 88 4",,901,
+LW,"1 FlaK Rgt",1,III/4,1,3,8,1,1,,,,,,bty,flak,mot,,"mot flak bty 20 12",,902,
+LW,"1 FlaK Rgt",1,III/5,2,3,8,1,1,,,,,,bty,flak,mot,,"mot flak bty 37 12",,903,
+LW,"1 FlaK Rgt",1,,,2,8,1,,,,,,,rgt,flak,mot,hq,"mot flak rgt HQ",,904,
+LW,"2 FlaK Rgt",2,I/1,4,2,8,1,1,,,,,,bty,flak,mot,hvy,"mot flak bty 88 4",,905,
+LW,"2 FlaK Rgt",2,I/2,4,2,8,1,1,,,,,,bty,flak,mot,hvy,"mot flak bty 88 4",,906,
+LW,"2 FlaK Rgt",2,I/3,4,2,8,1,1,,,,,,bty,flak,mot,hvy,"mot flak bty 88 4",,907,
+LW,"2 FlaK Rgt",2,I/4,1,3,8,1,1,,,,,,bty,flak,mot,,"mot flak bty 20 12",,908,
+LW,"2 FlaK Rgt",2,I/5,2,3,8,1,1,,,,,,bty,flak,mot,,"mot flak bty 37 12",,909,
+LW,"2 FlaK Rgt",2,II/1,4,2,8,1,1,,,,,,bty,flak,mot,hvy,"mot flak bty 88 4",,910,
+LW,"2 FlaK Rgt",2,II/2,4,2,8,1,1,,,,,,bty,flak,mot,hvy,"mot flak bty 88 4",,911,
+LW,"2 FlaK Rgt",2,II/3,4,2,8,1,1,,,,,,bty,flak,mot,hvy,"mot flak bty 88 4",,912,
+LW,"2 FlaK Rgt",2,II/4,1,3,8,1,1,,,,,,bty,flak,mot,,"mot flak bty 20 12",,913,
+LW,"2 FlaK Rgt",2,II/5,2,3,8,1,1,,,,,,bty,flak,mot,,"mot flak bty 37 12",,914,
+LW,"2 FlaK Rgt",2,III/1,4,2,8,1,1,,,,,,bty,flak,mot,hvy,"mot flak bty 88 4",,915,
+LW,"2 FlaK Rgt",2,III/2,4,2,8,1,1,,,,,,bty,flak,mot,hvy,"mot flak bty 88 4",,916,
+LW,"2 FlaK Rgt",2,III/3,4,2,8,1,1,,,,,,bty,flak,mot,hvy,"mot flak bty 88 4",,917,
+LW,"2 FlaK Rgt",2,III/4,1,3,8,1,1,,,,,,bty,flak,mot,,"mot flak bty 20 12",,918,
+LW,"2 FlaK Rgt",2,III/5,2,3,8,1,1,,,,,,bty,flak,mot,,"mot flak bty 37 12",,919,
+LW,"2 FlaK Rgt",2,,,2,8,1,,,,,,,rgt,flak,mot,hq,"mot flak rgt HQ",,920,
+LW,"2 FS Div","2 FS",,3,2,8,1,6,,,,,,bn,arty,mot,para,"mot para arty bn 105 12",,921,
+LW,"2 FS Div","2 FS",,2,5,8,2,1,1,3,8,1,1,bn,at,mot,,"mot at bn 75 12","size misprint: 2/2",922,2511
+LW,"2 FS Div","2 FS",,12,5,8,3,1,7,3,8,2,1,bn,flak,mot,,"mot flak bn 88 12",,923,2512
+LW,"2 FS Div","2 FS",I/2,3,4,8,3,,0,2,8,2,,bn,inf,mot,para,"mot para inf bn",,924,2513
+LW,"2 FS Div","2 FS",I/7,3,4,8,3,,0,2,8,2,,bn,inf,mot,para,"mot para inf bn",,925,2514
+LW,"2 FS Div","2 FS",II/2,3,4,8,3,,0,2,8,2,,bn,inf,mot,para,"mot para inf bn",,926,2515
+LW,"2 FS Div","2 FS",II/7,3,4,8,3,,0,2,8,2,,bn,inf,mot,para,"mot para inf bn",,927,2516
+LW,"2 FS Div","2 FS",III/2,3,4,8,3,,0,2,8,2,,bn,inf,mot,para,"mot para inf bn",,928,2517
+LW,"2 FS Div","2 FS",,2,3,8,3,,,,,,,bn,inf,mot,"pio para","mot para pio bn",,929,
+LW,"2 FS Div","2 FS",,,2,8,1,,,,,,,div,inf,mot,"hq para","mot para div HQ",,930,
+LW,"30 Flak Rgt",30,I/1,4,2,8,1,1,,,,,,bty,flak,mot,hvy,"mot flak bty 88 4",,931,
+LW,"30 Flak Rgt",30,I/2,4,2,8,1,1,,,,,,bty,flak,mot,hvy,"mot flak bty 88 4",,932,
+LW,"30 Flak Rgt",30,I/3,4,2,8,1,1,,,,,,bty,flak,mot,hvy,"mot flak bty 88 4",,933,
+LW,"30 Flak Rgt",30,I/4,1,3,8,1,1,,,,,,bty,flak,mot,,"mot flak bty 20 12",,934,
+LW,"30 Flak Rgt",30,I/5,2,3,8,1,1,,,,,,bty,flak,mot,,"mot flak bty 37 12",,935,
+LW,"30 Flak Rgt",30,II/1,4,2,8,1,1,,,,,,bty,flak,mot,hvy,"mot flak bty 88 4",,936,
+LW,"30 Flak Rgt",30,II/2,4,2,8,1,1,,,,,,bty,flak,mot,hvy,"mot flak bty 88 4",,937,
+LW,"30 Flak Rgt",30,II/3,4,2,8,1,1,,,,,,bty,flak,mot,hvy,"mot flak bty 88 4",,938,
+LW,"30 Flak Rgt",30,II/4,1,3,8,1,1,,,,,,bty,flak,mot,,"mot flak bty 20 12",,939,
+LW,"30 Flak Rgt",30,II/5,2,3,8,1,1,,,,,,bty,flak,mot,,"mot flak bty 37 12",,940,
+LW,"30 Flak Rgt",30,,,2,8,1,,,,,,,rgt,flak,mot,hq,"mot flak rgt HQ",,941,
+LW,"32 FlaK Bn",32,32/1,4,2,8,1,1,,,,,,bty,flak,mot,hvy,"mot flak bty 88 4",,942,
+LW,"32 FlaK Bn",32,32/2,4,2,8,1,1,,,,,,bty,flak,mot,hvy,"mot flak bty 88 4",,943,
+LW,"32 FlaK Bn",32,32/3,4,2,8,1,1,,,,,,bty,flak,mot,hvy,"mot flak bty 88 4",,944,
+LW,"32 FlaK Bn",32,32/4,1,3,8,1,1,,,,,,bty,flak,mot,,"mot flak bty 20 12",,945,
+LW,"32 FlaK Bn",32,32/5,2,3,8,1,1,,,,,,bty,flak,mot,,"mot flak bty 37 12",,946,
+LW,"32 FlaK Bn",32,,,2,8,1,,,,,,,bn,flak,mot,hq,"mot flak bn HQ",,947,
+LW,"3 FlaK Rgt",3,I/1,4,2,8,1,1,,,,,,bty,flak,mot,hvy,"mot flak bty 88 4",,948,
+LW,"3 FlaK Rgt",3,I/2,4,2,8,1,1,,,,,,bty,flak,mot,hvy,"mot flak bty 88 4",,949,
+LW,"3 FlaK Rgt",3,I/3,4,2,8,1,1,,,,,,bty,flak,mot,hvy,"mot flak bty 88 4",,950,
+LW,"3 FlaK Rgt",3,I/4,1,3,8,1,1,,,,,,bty,flak,mot,,"mot flak bty 20 12",,951,
+LW,"3 FlaK Rgt",3,I/5,2,3,8,1,1,,,,,,bty,flak,mot,,"mot flak bty 37 12",,952,
+LW,"3 FlaK Rgt",3,II/1,4,2,8,1,1,,,,,,bty,flak,mot,hvy,"mot flak bty 88 4",,953,
+LW,"3 FlaK Rgt",3,II/2,4,2,8,1,1,,,,,,bty,flak,mot,hvy,"mot flak bty 88 4",,954,
+LW,"3 FlaK Rgt",3,II/3,4,2,8,1,1,,,,,,bty,flak,mot,hvy,"mot flak bty 88 4",,955,
+LW,"3 FlaK Rgt",3,II/4,1,3,8,1,1,,,,,,bty,flak,mot,,"mot flak bty 20 12",,956,
+LW,"3 FlaK Rgt",3,II/5,2,3,8,1,1,,,,,,bty,flak,mot,,"mot flak bty 37 12",,957,
+LW,"3 FlaK Rgt",3,III/1,4,2,8,1,1,,,,,,bty,flak,mot,hvy,"mot flak bty 88 4",,958,
+LW,"3 FlaK Rgt",3,III/2,4,2,8,1,1,,,,,,bty,flak,mot,hvy,"mot flak bty 88 4",,959,
+LW,"3 FlaK Rgt",3,III/3,4,2,8,1,1,,,,,,bty,flak,mot,hvy,"mot flak bty 88 4",,960,
+LW,"3 FlaK Rgt",3,III/4,1,3,8,1,1,,,,,,bty,flak,mot,,"mot flak bty 20 12",,961,
+LW,"3 FlaK Rgt",3,III/5,2,3,8,1,1,,,,,,bty,flak,mot,,"mot flak bty 37 12",,962,
+LW,"3 FlaK Rgt",3,,,2,8,1,,,,,,,rgt,flak,mot,hq,"mot flak rgt HQ",,963,
+LW,"3 FS Div","3 FS",,3,3,8,1,6,,,,,,bn,arty,mot,para,"mot para arty bn 105 12+",,964,
+LW,"3 FS Div","3 FS",,2,5,8,2,1,1,3,8,1,1,bn,at,mot,,"mot at bn 75 12","size misprint: 2/2",965,2518
+LW,"3 FS Div","3 FS",,12,5,8,3,1,7,3,8,2,1,bn,flak,mot,,"mot flak bn 88 12",,966,2519
+LW,"3 FS Div","3 FS",I/5,6,6,8,3,,3,4,8,3,,bn,inf,mot,para,"mot para inf bn",,967,2520
+LW,"3 FS Div","3 FS",I/8,6,6,8,3,,3,4,8,3,,bn,inf,mot,para,"mot para inf bn",,968,2521
+LW,"3 FS Div","3 FS",I/9,6,6,8,3,,3,4,8,3,,bn,inf,mot,para,"mot para inf bn",,969,2522
+LW,"3 FS Div","3 FS",II/5,6,6,8,3,,3,4,8,3,,bn,inf,mot,para,"mot para inf bn",,970,2523
+LW,"3 FS Div","3 FS",II/8,6,6,8,3,,3,4,8,3,,bn,inf,mot,para,"mot para inf bn",,971,2524
+LW,"3 FS Div","3 FS",II/9,6,6,8,3,,3,4,8,3,,bn,inf,mot,para,"mot para inf bn",,972,2525
+LW,"3 FS Div","3 FS",III/5,6,6,8,3,,3,4,8,3,,bn,inf,mot,para,"mot para inf bn",,973,2526
+LW,"3 FS Div","3 FS",III/8,6,6,8,3,,3,4,8,3,,bn,inf,mot,para,"mot para inf bn",,974,2527
+LW,"3 FS Div","3 FS",III/9,6,6,8,3,,3,4,8,3,,bn,inf,mot,para,"mot para inf bn",,975,2528
+LW,"3 FS Div","3 FS",RECON,1,1,8,1,,,,,,,co,inf,mot,"rcce para","mot para rcce inf co",,976,
+LW,"3 FS Div","3 FS",,4,5,8,3,,2,3,8,3,,bn,inf,mot,"pio para","mot para pio bn",,977,2529
+LW,"3 FS Div","3 FS",,,2,8,1,,,,,,,div,inf,mot,"hq para","mot para div HQ",,978,
+LW,"4 FlaK Rgt",4,I/1,4,2,8,1,1,,,,,,bty,flak,mot,hvy,"mot flak bty 88 4",,979,
+LW,"4 FlaK Rgt",4,I/2,4,2,8,1,1,,,,,,bty,flak,mot,hvy,"mot flak bty 88 4",,980,
+LW,"4 FlaK Rgt",4,I/3,4,2,8,1,1,,,,,,bty,flak,mot,hvy,"mot flak bty 88 4",,981,
+LW,"4 FlaK Rgt",4,I/4,1,3,8,1,1,,,,,,bty,flak,mot,,"mot flak bty 20 12",,982,
+LW,"4 FlaK Rgt",4,I/5,2,3,8,1,1,,,,,,bty,flak,mot,,"mot flak bty 37 12",,983,
+LW,"4 FlaK Rgt",4,II/1,4,2,8,1,1,,,,,,bty,flak,mot,hvy,"mot flak bty 88 4",,984,
+LW,"4 FlaK Rgt",4,II/2,4,2,8,1,1,,,,,,bty,flak,mot,hvy,"mot flak bty 88 4",,985,
+LW,"4 FlaK Rgt",4,II/3,4,2,8,1,1,,,,,,bty,flak,mot,hvy,"mot flak bty 88 4",,986,
+LW,"4 FlaK Rgt",4,II/4,1,3,8,1,1,,,,,,bty,flak,mot,,"mot flak bty 20 12",,987,
+LW,"4 FlaK Rgt",4,II/5,2,3,8,1,1,,,,,,bty,flak,mot,,"mot flak bty 37 12",,988,
+LW,"4 FlaK Rgt",4,III/1,4,2,8,1,1,,,,,,bty,flak,mot,hvy,"mot flak bty 88 4",,989,
+LW,"4 FlaK Rgt",4,III/2,4,2,8,1,1,,,,,,bty,flak,mot,hvy,"mot flak bty 88 4",,990,
+LW,"4 FlaK Rgt",4,III/3,4,2,8,1,1,,,,,,bty,flak,mot,hvy,"mot flak bty 88 4",,991,
+LW,"4 FlaK Rgt",4,III/4,1,3,8,1,1,,,,,,bty,flak,mot,,"mot flak bty 20 12",,992,
+LW,"4 FlaK Rgt",4,III/5,2,3,8,1,1,,,,,,bty,flak,mot,,"mot flak bty 37 12",,993,
+LW,"4 FlaK Rgt",4,,,2,8,1,,,,,,,rgt,flak,mot,hq,"mot flak rgt HQ",,994,
+LW,"5 FS Div","5 FS",,3,2,8,1,6,,,,,,bn,arty,mot,para,"mot para arty bn 105 12",,995,
+LW,"5 FS Div","5 FS",,2,5,8,2,1,1,3,8,1,1,bn,at,mot,,"mot at bn 75 12","size misprint: 2/2",996,2530
+LW,"5 FS Div","5 FS",,12,5,8,3,1,7,3,8,2,1,bn,flak,mot,,"mot flak bn 88 12",,997,2531
+LW,"5 FS Div","5 FS",I/13,6,7,8,3,,3,4,8,3,,bn,inf,mot,para,"mot para inf bn",,998,2532
+LW,"5 FS Div","5 FS",I/14,6,7,8,3,,3,4,8,3,,bn,inf,mot,para,"mot para inf bn",,999,2533
+LW,"5 FS Div","5 FS",I/15,6,7,8,3,,3,4,8,3,,bn,inf,mot,para,"mot para inf bn",,1000,2534
+LW,"5 FS Div","5 FS",II/13,6,7,8,3,,3,4,8,3,,bn,inf,mot,para,"mot para inf bn",,1001,2535
+LW,"5 FS Div","5 FS",II/14,6,7,8,3,,3,4,8,3,,bn,inf,mot,para,"mot para inf bn",,1002,2536
+LW,"5 FS Div","5 FS",II/15,6,7,8,3,,3,4,8,3,,bn,inf,mot,para,"mot para inf bn",,1003,2537
+LW,"5 FS Div","5 FS",III/13,6,7,8,3,,3,4,8,3,,bn,inf,mot,para,"mot para inf bn",,1004,2538
+LW,"5 FS Div","5 FS",III/14,6,7,8,3,,3,4,8,3,,bn,inf,mot,para,"mot para inf bn",,1005,2539
+LW,"5 FS Div","5 FS",III/15,6,7,8,3,,3,4,8,3,,bn,inf,mot,para,"mot para inf bn",,1006,2540
+LW,"5 FS Div","5 FS",RECON,1,1,8,1,,,,,,,co,inf,mot,"rcce para","mot para rcce inf co",,1007,
+LW,"5 FS Div","5 FS",,4,5,8,3,,2,3,8,3,,bn,inf,mot,"pio para","mot para pio bn",,1008,2541
+LW,"5 FS Div","5 FS",,,2,8,1,,,,,,,div,inf,mot,"hq para","mot para div HQ",,1009,
+LW,"6 FS Div","6 FS",,12,5,8,3,1,7,3,8,2,1,bn,flak,mot,,"mot flak bn 88 12",,1010,2542
+LW,"6 FS Div","6 FS",I/16,6,6,8,3,,3,4,8,3,,bn,inf,mot,para,"mot para inf bn ",,1011,2543
+LW,"6 FS Div","6 FS",I/17,6,6,8,3,,3,4,8,3,,bn,inf,mot,para,"mot para inf bn",,1012,2544
+LW,"6 FS Div","6 FS",I/18,6,6,8,3,,3,4,8,3,,bn,inf,mot,para,"mot para inf bn",,1013,2545
+LW,"6 FS Div","6 FS",II/16,6,6,8,3,,3,4,8,3,,bn,inf,mot,para,"mot para inf bn",,1014,2546
+LW,"6 FS Div","6 FS",II/17,6,6,8,3,,3,4,8,3,,bn,inf,mot,para,"mot para inf bn",,1015,2547
+LW,"6 FS Div","6 FS",II/18,6,6,8,3,,3,4,8,3,,bn,inf,mot,para,"mot para inf bn",,1016,2548
+LW,"6 FS Div","6 FS",III/16,6,6,8,3,,3,4,8,3,,bn,inf,mot,para,"mot para inf bn",,1017,2549
+LW,"6 FS Div","6 FS",III/17,6,6,8,3,,3,4,8,3,,bn,inf,mot,para,"mot para inf bn",,1018,2550
+LW,"6 FS Div","6 FS",III/18,6,6,8,3,,3,4,8,3,,bn,inf,mot,para,"mot para inf bn",,1019,2551
+LW,"6 FS Div","6 FS",,,2,8,1,,,,,,,div,inf,mot,"hq para","mot para div HQ",,1020,
+LW,"932 FlaK Bn",932,932/1,4,2,8,1,1,,,,,,bty,flak,mot,hvy,"mot flak bty 88 4",,1021,
+LW,"932 FlaK Bn",932,932/2,4,2,8,1,1,,,,,,bty,flak,mot,hvy,"mot flak bty 88 4",,1022,
+LW,"932 FlaK Bn",932,932/3,4,2,8,1,1,,,,,,bty,flak,mot,hvy,"mot flak bty 88 4",,1023,
+LW,"932 FlaK Bn",932,932/4,1,3,8,1,1,,,,,,bty,flak,mot,,"mot flak bty 20 12",,1024,
+LW,"932 FlaK Bn",932,932/5,2,3,8,1,1,,,,,,bty,flak,mot,,"mot flak bty 37 12",,1025,
+LW,"932 FlaK Bn",932,,,2,8,1,,,,,,,bn,flak,mot,hq,"mot flak bn HQ",,1026,
+LW,Corps,"II FS",,,2,8,1,,,,,,,cp,inf,,"hq para","para corps HQ",,1027,
+LW,Corps,"III Flak",,,1,8,1,,,,,,,cp,flak,,hq,"flak corps HQ",,1028,
+LW,"Ind Arm",,12,4,4,6,2,,2,2,6,2,,bn,pz,,"ag para","pz para ag bn SG3 31",,1029,2552
+LW,"Ind Arty",,12/I,4,2,8,1,7,,,,,,bn,arty,mot,,"mot arty bn 150 12",,1030,
+LW,"Ind Arty",,12/II,4,2,8,1,7,,,,,,bn,arty,mot,,"mot arty bn 150 12",,1031,
+LW,"Ind Arty",,12/I,12,7,8,2,1,7,5,8,2,1,bn,flak,mot,,"mot flak bn 88 12",,1032,2553
+LW,"Ind Arty",,12/II,12,7,8,2,1,7,5,8,2,1,bn,flak,mot,,"mot flak bn 88 12",,1033,2554
+LW,"Ind Arty",,12/III,12,7,8,2,1,7,5,8,2,1,bn,flak,mot,,"mot flak bn 88 12",,1034,2555
+LW,"Ind Arty",,"KG 300",2,3,8,1,1,,,,,,bty,flak,mot,,"mot flak bty","no gun size or count",1035,
+LW,"Ind Arty",,"KG 955",2,3,8,1,1,,,,,,bty,flak,mot,,"mot flak bty","no gun size or count",1036,
+LW,"Ind Inf",,1/12,2,2,8,1,,,,,,,co,inf,mot,"mg para","mot para mg inf co",,1037,
+LW,"Ind Inf",,2/12,2,2,8,1,,,,,,,co,inf,mot,"mg para","mot para mg inf co",,1040,
+LW,"Ind Inf",,3/12,2,2,8,1,,,,,,,co,inf,mot,"mg para","mot para mg inf co",,1042,
+LW,"Ind Inf",,"I/2 FS",0,2,8,2,,,,,,,bn,inf,mot,para,"mot para inf bn",,709,
+LW,"Ind Inf",,"II/2 FS",0,2,8,2,,,,,,,bn,inf,mot,para,"mot para inf bn",,761,
+LW,"Ind Inf",,"III/2 FS",0,2,8,2,,,,,,,bn,inf,mot,para,"mot para inf bn",,1044,
+LW,"Ind Rcce",,12,4,5,8,3,,2,3,8,3,,bn,inf,mot,"rcce para","mot para rcce inf bn",,1038,2556
+LW,"Ind Rcce",,"1/II FS",1,1,8,1,,,,,,,co,inf,mot,"rcce para","mot para rcce inf co",,1039,
+LW,"Ind Rcce",,"2/II FS",1,1,8,1,,,,,,,co,inf,mot,"rcce para","mot para rcce inf co",,1041,
+LW,"Ind Rcce",,"3/II FS",1,1,8,1,,,,,,,co,inf,mot,"rcce para","mot para rcce inf co",,1043,
+LW,"Ind Rcce",,"4/II FS",1,1,8,1,,,,,,,co,inf,mot,"rcce para","mot para rcce inf co",,1045,
+LW,"Ind Rcce",,"5/II FS",1,1,8,1,,,,,,,co,inf,mot,"rcce para","mot para rcce inf co",,1046,
+LW,"Ind Rcce",,"6/II FS",1,1,8,1,,,,,,,co,inf,mot,"rcce para","mot para rcce inf co",,1047,
+UK,"11 Arm Div",11,13,5,4,6,1,6,,,,,,bn,arty,sp,,"sp arty bn 25# 24 SEX",,1048,
+UK,"11 Arm Div",11,151,5,3,8,1,6,,,,,,bn,arty,mot,,"mot arty bn 25# 24",,1049,
+UK,"11 Arm Div",11,"1 HD",5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1050,2557
+UK,"11 Arm Div",11,"4 KSLI",5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1051,2558
+UK,"11 Arm Div",11,"2 IND",2,2,8,1,,,,,,,co,inf,mot,mg,"mot mg inf co",,1052,
+UK,"11 Arm Div",11,"3 MN",5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1053,2559
+UK,"11 Arm Div",11,"8 RB",5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1054,2560
+UK,"11 Arm Div",11,"23 H",6,6,6,2,,3,3,6,2,,bn,pz,,,"pz bn SHM 55",,1055,2561
+UK,"11 Arm Div",11,"2 NY",5,6,7,2,,3,3,7,2,,bn,pz,,,"pz bn CRM 55",,1056,2562
+UK,"11 Arm Div",11,"3 RTR",6,6,6,2,,3,3,6,2,,bn,pz,,,"pz bn SHM 55",,1057,2563
+UK,"11 Arm Div",11,FFY,6,6,6,2,,3,3,6,2,,bn,pz,,,"pz bn SHM 55",,1058,2564
+UK,"11 Arm Div",11,,,3,6,1,,,,,,,div,pz,,hq,"pz div HQ",,1059,
+UK,"15 Inf Div",15,,3,4,8,3,,1,2,8,3,,bn,ac,mot,rcce,"mot rcce ac bn",,1060,2565
+UK,"15 Inf Div",15,131,5,3,8,1,6,,,,,,bn,arty,mot,,"mot arty bn 25# 24",,1061,
+UK,"15 Inf Div",15,181,5,3,8,1,6,,,,,,bn,arty,mot,,"mot arty bn 25# 24",,1062,
+UK,"15 Inf Div",15,190,5,3,8,1,6,,,,,,bn,arty,mot,,"mot arty bn 25# 24",,1063,
+UK,"15 Inf Div",15,"10 HLI",5,5,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1064,2566
+UK,"15 Inf Div",15,"2 ASH",5,5,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1065,2567
+UK,"15 Inf Div",15,"2 GH",5,5,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn","2 GB in CB gamebox",1066,2568
+UK,"15 Inf Div",15,"2 GH",5,5,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1067,2569
+UK,"15 Inf Div",15,"6 RSF",5,5,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1068,2570
+UK,"15 Inf Div",15,"7 KOSB",5,5,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1069,2571
+UK,"15 Inf Div",15,"7 SH",5,5,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1070,2572
+UK,"15 Inf Div",15,"8 RSF",5,5,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1071,2573
+UK,"15 Inf Div",15,"9 C",5,5,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1072,2574
+UK,"15 Inf Div",15,,,2,8,1,,,,,,,div,inf,mot,hq,"mot div HQ",,1073,
+UK,"1 Pol Arm Div","1 P","1 P",5,4,6,1,6,,,,,,bn,arty,sp,,"sp arty bn 25# 24",,1074,
+UK,"1 Pol Arm Div","1 P","2 P",5,3,8,1,6,,,,,,bn,arty,mot,,"mot arty bn 25# 24",,1075,
+UK,"1 Pol Arm Div","1 P","10 P",5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1076,2575
+UK,"1 Pol Arm Div","1 P","1 P",5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1077,2576
+UK,"1 Pol Arm Div","1 P","8 P",5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1078,2577
+UK,"1 Pol Arm Div","1 P","9 P",5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1079,2578
+UK,"1 Pol Arm Div","1 P",,2,2,8,1,,,,,,,co,inf,mot,mg,"mot mg inf co",,1080,
+UK,"1 Pol Arm Div","1 P","10 PMR",5,6,7,2,,3,3,7,2,,bn,pz,,,"pz bn CRM 55",,1081,2579
+UK,"1 Pol Arm Div","1 P","1 P",6,6,6,2,,3,3,6,2,,bn,pz,,,"pz bn SHM 55",,1082,2580
+UK,"1 Pol Arm Div","1 P","24 P",6,6,6,2,,3,3,6,2,,bn,pz,,,"pz bn SHM 55",,1083,2581
+UK,"1 Pol Arm Div","1 P","2 P",6,6,6,2,,3,3,6,2,,bn,pz,,,"pz bn SHM 55",,1084,2582
+UK,"1 Pol Arm Div","1 POL",,,3,6,1,,,,,,,div,pz,,hq,"pz div HQ",,1085,
+UK,"2 Can Inf Div","2 C",8,3,4,8,3,,1,2,8,3,,bn,ac,mot,rcce,"mot rcce ac bn",,1086,2583
+UK,"2 Can Inf Div","2 C",4,5,3,8,1,6,,,,,,bn,arty,mot,,"mot arty bn 25# 24",,1087,
+UK,"2 Can Inf Div","2 C",5,5,3,8,1,6,,,,,,bn,arty,mot,,"mot arty bn 25# 24",,1088,
+UK,"2 Can Inf Div","2 C",6,5,3,8,1,6,,,,,,bn,arty,mot,,"mot arty bn 25# 24",,1089,
+UK,"2 Can Inf Div","2 C",BW,5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1090,2584
+UK,"2 Can Inf Div","2 C",ESR,5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1091,2585
+UK,"2 Can Inf Div","2 C",LFMR,5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1092,2586
+UK,"2 Can Inf Div","2 C",LRM,5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1093,2587
+UK,"2 Can Inf Div","2 C",QOCH,5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1094,2588
+UK,"2 Can Inf Div","2 C",RHLI,5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1095,2589
+UK,"2 Can Inf Div","2 C",RRC,5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1096,2590
+UK,"2 Can Inf Div","2 C",SSR,5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1097,2591
+UK,"2 Can Inf Div","2 C",TCH,5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1098,2592
+UK,"2 Can Inf Div","2 CAN",,,2,8,1,,,,,,,div,inf,mot,hq,"mot div HQ",,1099,
+UK,"3 Can Inf Div","3 C",7,3,4,8,3,,1,2,8,3,,bn,ac,mot,rcce,"mot rcce ac bn",,1100,2593
+UK,"3 Can Inf Div","3 C",12,5,3,8,1,6,,,,,,bn,arty,mot,,"mot arty bn 25# 24",,1101,
+UK,"3 Can Inf Div","3 C",13,5,3,8,1,6,,,,,,bn,arty,mot,,"mot arty bn 25# 24",,1102,
+UK,"3 Can Inf Div","3 C",14,5,3,8,1,6,,,,,,bn,arty,mot,,"mot arty bn 25# 24",,1103,
+UK,"3 Can Inf Div","3 C",CSR,5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1104,2594
+UK,"3 Can Inf Div","3 C",HLIC,5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1105,2595
+UK,"3 Can Inf Div","3 C",LRC,5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1106,2596
+UK,"3 Can Inf Div","3 C",NNSH,5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1107,2597
+UK,"3 Can Inf Div","3 C",NSR,5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1108,2598
+UK,"3 Can Inf Div","3 C",QORC,5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1109,2599
+UK,"3 Can Inf Div","3 C",RRR,5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1110,2600
+UK,"3 Can Inf Div","3 C",RWR,5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1111,2601
+UK,"3 Can Inf Div","3 C",SDGH,5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1112,2602
+UK,"3 Can Inf Div","3 CAN",,,2,8,1,,,,,,,div,inf,mot,hq,"mot div HQ",,1113,
+UK,"3 Inf Div",3,,3,4,8,3,,1,2,8,3,,bn,ac,mot,rcce,"mot rcce ac bn",,1114,2603
+UK,"3 Inf Div",3,33,5,3,8,1,6,,,,,,bn,arty,mot,,"mot arty bn 25# 24",,1115,
+UK,"3 Inf Div",3,7,5,3,8,1,6,,,,,,bn,arty,mot,,"mot arty bn 25# 24",,1116,
+UK,"3 Inf Div",3,76,5,3,8,1,6,,,,,,bn,arty,mot,,"mot arty bn 25# 24",,1117,
+UK,"3 Inf Div",3,"1 KOSB",5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1118,2604
+UK,"3 Inf Div",3,"1 RNR",5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1119,2605
+UK,"3 Inf Div",3,"1 SLR",5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1120,2606
+UK,"3 Inf Div",3,"1 SR",5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1121,2607
+UK,"3 Inf Div",3,"2 EYR",5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1122,2608
+UK,"3 Inf Div",3,"2 KSLI",5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,2070,2609
+UK,"3 Inf Div",3,"2 LR",5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1123,2610
+UK,"3 Inf Div",3,"2 RWR",5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1124,2611
+UK,"3 Inf Div",3,"2 RUR",5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1125,2612
+UK,"3 Inf Div",3,,,2,8,1,,,,,,,div,inf,mot,hq,"mot div HQ",,1126,
+UK,"43 Inf Div",43,,3,4,8,3,,1,2,8,3,,bn,ac,mot,rcce,"mot rcce ac bn",,1127,2613
+UK,"43 Inf Div",43,112,5,3,8,1,6,,,,,,bn,arty,mot,,"mot arty bn 25# 24",,1128,
+UK,"43 Inf Div",43,179,5,3,8,1,6,,,,,,bn,arty,mot,,"mot arty bn 25# 24",,1129,
+UK,"43 Inf Div",43,94,5,3,8,1,6,,,,,,bn,arty,mot,,"mot arty bn 25# 24",,1130,
+UK,"43 Inf Div",43,"1 WR",5,5,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1131,2614
+UK,"43 Inf Div",43,"4 DR",5,5,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1132,2615
+UK,"43 Inf Div",43,"4 SLI",5,5,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1133,2616
+UK,"43 Inf Div",43,"4 WR",5,5,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1134,2617
+UK,"43 Inf Div",43,"5 DCLI",5,5,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1135,2618
+UK,"43 Inf Div",43,"5 DR",5,5,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1136,2619
+UK,"43 Inf Div",43,"5 WR",5,5,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1137,2620
+UK,"43 Inf Div",43,"7 HR",5,5,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1138,2621
+UK,"43 Inf Div",43,"7 SLI",5,5,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1139,2622
+UK,"43 Inf Div",43,,,2,8,1,,,,,,,div,inf,mot,hq,"mot div HQ",,1140,
+UK,"49 Inf Div",49,,3,4,8,3,,1,2,8,3,,bn,ac,mot,rcce,"mot rcce ac bn",,1141,2623
+UK,"49 Inf Div",49,143,5,3,8,1,6,,,,,,bn,arty,mot,,"mot arty bn 25# 24",,1142,
+UK,"49 Inf Div",49,185,5,3,8,1,6,,,,,,bn,arty,mot,,"mot arty bn 25# 24",,1143,
+UK,"49 Inf Div",49,69,5,3,8,1,6,,,,,,bn,arty,mot,,"mot arty bn 25# 24",,1144,
+UK,"49 Inf Div",49,"10 DLI",5,5,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1145,2624
+UK,"49 Inf Div",49,"11 DLI",5,5,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1146,2625
+UK,"49 Inf Div",49,"11 RSF",5,5,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1147,2626
+UK,"49 Inf Div",49,"1/4 KO",5,5,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1148,2627
+UK,"49 Inf Div",49,"1 TS",5,5,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1149,2628
+UK,"49 Inf Div",49,"4 LR",5,5,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1150,2629
+UK,"49 Inf Div",49,"6 DWR",5,5,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1151,2630
+UK,"49 Inf Div",49,"7 DWR",5,5,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1152,2631
+UK,"49 Inf Div",49,HYLR,5,5,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1153,2632
+UK,"49 Inf Div",49,,5,5,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1154,2633
+UK,"49 Inf Div",49,,,2,8,1,,,,,,,div,inf,mot,hq,"mot div HQ",,1155,
+UK,"4 Can Arm Div","4 C",15,5,4,6,1,6,,,,,,bn,arty,sp,,"sp arty bn 25# 24 SEX",,1156,
+UK,"4 Can Arm Div","4 C",23,5,3,8,1,6,,,,,,bn,arty,mot,,"mot arty bn 25# 24",,1157,
+UK,"4 Can Arm Div","4 C",AR,5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1158,2634
+UK,"4 Can Arm Div","4 C",ASHC,5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1159,2635
+UK,"4 Can Arm Div","4 C",LSR,5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1160,2636
+UK,"4 Can Arm Div","4 C",LWR,5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1161,2637
+UK,"4 Can Arm Div","4 C",,2,2,8,1,,,,,,,co,inf,mot,mg,"mot mg inf co",,1162,
+UK,"4 Can Arm Div","4 C",21,6,6,6,2,,3,3,6,2,,bn,pz,,,"pz bn SHM 55",,1163,2638
+UK,"4 Can Arm Div","4 C",22,6,6,6,2,,3,3,6,2,,bn,pz,,,"pz bn SHM 55",,1164,2639
+UK,"4 Can Arm Div","4 C",28,6,6,6,2,,3,3,6,2,,bn,pz,,,"pz bn SHM 55",,1165,2640
+UK,"4 Can Arm Div","4 C",29,5,6,7,2,,3,3,7,2,,bn,pz,,,"pz bn CRM 55",,1166,2641
+UK,"4 Can Arm Div","4 CAN",,,3,6,1,,,,,,,div,pz,,hq,"pz div HQ",,1167,
+UK,"50 Inf Div",50,61,3,4,8,3,,1,2,8,3,,bn,ac,mot,rcce,"mot rcce ac bn",,1168,2642
+UK,"50 Inf Div",50,124,5,3,8,1,6,,,,,,bn,arty,mot,,"mot arty bn 25# 24",,1169,
+UK,"50 Inf Div",50,74,5,3,8,1,6,,,,,,bn,arty,mot,,"mot arty bn 25# 24",,1170,
+UK,"50 Inf Div",50,90,5,3,8,1,6,,,,,,bn,arty,mot,,"mot arty bn 25# 24",,1171,
+UK,"50 Inf Div",50,"1 DR",5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1172,2643
+UK,"50 Inf Div",50,"1 HR",5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1173,2644
+UK,"50 Inf Div",50,"2 DR",5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1174,2645
+UK,"50 Inf Div",50,"5 EYR",5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1175,2646
+UK,"50 Inf Div",50,"6 DLI",5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1176,2647
+UK,"50 Inf Div",50,"6 GH",5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1177,2648
+UK,"50 Inf Div",50,"7 GH",5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1178,2649
+UK,"50 Inf Div",50,"8 DLI",5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1179,2650
+UK,"50 Inf Div",50,"9 DLI",5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1180,2651
+UK,"50 Inf Div",50,,,2,8,1,,,,,,,div,inf,mot,hq,"mot div HQ",,1181,
+UK,"51 Inf Div",51,"2 DY",3,4,8,3,,1,2,8,3,,bn,ac,mot,rcce,"mot rcce ac bn",,1182,2652
+UK,"51 Inf Div",51,126,5,3,8,1,6,,,,,,bn,arty,mot,,"mot arty bn 25# 24",,1183,
+UK,"51 Inf Div",51,127,5,3,8,1,6,,,,,,bn,arty,mot,,"mot arty bn 25# 24",,1184,
+UK,"51 Inf Div",51,128,5,3,8,1,6,,,,,,bn,arty,mot,,"mot arty bn 25# 24",,1185,
+UK,"51 Inf Div",51,"1 BW",5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1186,2653
+UK,"51 Inf Div",51,"1 GH",5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1187,2654
+UK,"51 Inf Div",51,"2 SH",5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1188,2655
+UK,"51 Inf Div",51,"5/7 GH",5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1189,2656
+UK,"51 Inf Div",51,"5 BW",5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1190,2657
+UK,"51 Inf Div",51,"5 QOCH",5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1191,2658
+UK,"51 Inf Div",51,"5 SH",5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1192,2659
+UK,"51 Inf Div",51,"7 ASH",5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1193,2660
+UK,"51 Inf Div",51,"7 BW",5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1194,2661
+UK,"51 Inf Div",51,,,2,8,1,,,,,,,div,inf,mot,hq,"mot div HQ",,1195,
+UK,"53 Inf Div",53,,3,4,8,3,,1,2,8,3,,bn,ac,mot,rcce,"mot rcce ac bn",,1196,2662
+UK,"53 Inf Div",53,133,5,3,8,1,6,,,,,,bn,arty,mot,,"mot arty bn 25# 24",,1197,
+UK,"53 Inf Div",53,81,5,3,8,1,6,,,,,,bn,arty,mot,,"mot arty bn 25# 24",,1198,
+UK,"53 Inf Div",53,83,5,3,8,1,6,,,,,,bn,arty,mot,,"mot arty bn 25# 24",,1199,
+UK,"53 Inf Div",53,"1/5 WR",5,5,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1200,2663
+UK,"53 Inf Div",53,"1 ELR",5,5,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1201,2664
+UK,"53 Inf Div",53,"1 HLI",5,5,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1202,2665
+UK,"53 Inf Div",53,"1 OBLI",5,5,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1203,2666
+UK,"53 Inf Div",53,"2 MR",5,5,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1204,2667
+UK,"53 Inf Div",53,"4 RWF",5,5,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1205,2668
+UK,"53 Inf Div",53,"4 WR",5,5,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1206,2669
+UK,"53 Inf Div",53,"6 RWF",5,5,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1207,2670
+UK,"53 Inf Div",53,"7 RWF",5,5,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1208,2671
+UK,"53 Inf Div",53,,,2,8,1,,,,,,,div,inf,mot,hq,"mot div HQ",,1209,
+UK,"59 Inf Div",59,,3,4,8,3,,1,2,8,3,,bn,ac,mot,rcce,"mot rcce ac bn",,1210,2672
+UK,"59 Inf Div",59,110,5,3,8,1,6,,,,,,bn,arty,mot,,"mot arty bn 25# 24",,1211,
+UK,"59 Inf Div",59,116,5,3,8,1,6,,,,,,bn,arty,mot,,"mot arty bn 25# 24",,1212,
+UK,"59 Inf Div",59,61,5,3,8,1,6,,,,,,bn,arty,mot,,"mot arty bn 25# 24",,1213,
+UK,"59 Inf Div",59,"1/6 SS",5,5,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1214,2673
+UK,"59 Inf Div",59,"1/7 RW",5,5,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1215,2674
+UK,"59 Inf Div",59,"2/5 LF",5,5,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1216,2675
+UK,"59 Inf Div",59,"2/6 SS",5,5,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1217,2676
+UK,"59 Inf Div",59,"5 ELR",5,5,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1218,2677
+UK,"59 Inf Div",59,"5 SSR",5,5,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1219,2678
+UK,"59 Inf Div",59,"7 NSR",5,5,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1220,2679
+UK,"59 Inf Div",59,"7 RNR",5,5,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1221,2680
+UK,"59 Inf Div",59,"7 SSR",5,5,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1222,2681
+UK,"59 Inf Div",59,,,2,8,1,,,,,,,div,inf,mot,hq,"mot div HQ",,1223,
+UK,"6 Abn Div",6,,2,3,8,3,,1,2,8,3,,co,ac,mot,"rcce gl","gl mot rcce ac co",,1224,2682
+UK,"6 Abn Div",6,210,1,1,8,1,4,,,,,,bty,at,mot,"gl hvy","gl mot at bty 75p","no count",1225,
+UK,"6 Abn Div",6,211,1,1,8,1,4,,,,,,bty,at,mot,"gl hvy","gl mot at bty 75p","no count",1226,
+UK,"6 Abn Div",6,212,1,1,8,1,4,,,,,,bty,at,mot,"gl hvy","gl mot at bty 75p","no count",1227,
+UK,"6 Abn Div",6,3,1,1,8,1,1,,,,,,bty,at,mot,gl,"gl mot at bty 6# 12",,1228,
+UK,"6 Abn Div",6,4,1,1,8,1,1,,,,,,bty,at,mot,gl,"mot gl at bty 6# 12",,1229,
+UK,"6 Abn Div",6,2,3,2,8,1,1,,,,,,bty,flak,mot,gl,"gl mot flak bty 20 6# 12 8",,1230,
+UK,"6 Abn Div",6,12,3,5,4,2,,1,3,4,2,,bn,inf,,para,"para inf bn",,1231,2683
+UK,"6 Abn Div",6,"12 D",3,5,4,2,,1,3,4,2,,bn,inf,,gl,"gl inf bn",,1232,2684
+UK,"6 Abn Div",6,13,3,5,4,2,,1,3,4,2,,bn,inf,,para,"para inf bn",,1233,2685
+UK,"6 Abn Div",6,"1 CAN",3,5,4,2,,1,3,4,2,,bn,inf,,para,"para inf bn",,1234,2686
+UK,"6 Abn Div",6,"1 RUR",3,5,4,2,,1,3,4,2,,bn,inf,,gl,"gl inf bn",,1235,2687
+UK,"6 Abn Div",6,"249 FD",1,2,4,1,,,,,,,co,inf,,"pio gl","gl pio co",,1236,
+UK,"6 Abn Div",6,"2 OB",3,5,4,2,,1,3,4,2,,bn,inf,,gl,"gl inf bn",,1237,2688
+UK,"6 Abn Div",6,7,3,5,4,2,,1,3,4,2,,bn,inf,,para,"para inf bn",,1238,2689
+UK,"6 Abn Div",6,8,3,5,4,2,,1,3,4,2,,bn,inf,,para,"para inf bn",,1239,2690
+UK,"6 Abn Div",6,9,3,5,4,2,,1,3,4,2,,bn,inf,,para,"para inf bn",,1240,2691
+UK,"6 Abn Div",6,B&D/2,2,3,4,1,,0,1,4,1,,co,inf,,gl,"gl inf co",,1241,2692
+UK,"6 Abn Div",6,,,1,4,1,,,,,,,div,inf,,"hq para","para div HQ",,1242,
+UK,"7 Arm Div",7,"3 RHA",5,4,6,1,6,,,,,,bn,arty,sp,,"sp arty bn 25# 24",,1243,
+UK,"7 Arm Div",7,"5 RHA",5,4,6,1,6,,,,,,bn,arty,sp,,"sp arty bn 25# 24",,1244,
+UK,"7 Arm Div",7,"1/5 Q",5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1245,2693
+UK,"7 Arm Div",7,"1/6 Q",5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1246,2694
+UK,"7 Arm Div",7,"1/7 Q",5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1247,2695
+UK,"7 Arm Div",7,"3 IND",2,2,8,1,,,,,,,co,inf,mot,mg,"mot mg co",,1248,
+UK,"7 Arm Div",7,RB,5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1249,2696
+UK,"7 Arm Div",7,"1 RID",5,6,7,2,,3,3,7,2,,bn,pz,,,"pz bn CRM 55",,1250,2697
+UK,"7 Arm Div",7,"4 CLY",5,6,7,2,,3,3,7,2,,bn,pz,,,"pz bn CRM 55",,1251,2698
+UK,"7 Arm Div",7,"5 RTR",5,6,7,2,,3,3,7,2,,bn,pz,,,"pz bn CRM 55",,1252,2699
+UK,"7 Arm Div",7,8H/KR,5,6,7,2,,3,3,7,2,,bn,pz,,,"pz bn CRM 55",,1253,2700
+UK,"7 Arm Div",7,,,3,6,1,,,,,,,div,pz,,hq,"pz div HQ",,1254,
+UK,Air,FB,121,,,,,,,,,,,,air,,typh,TYPH,,1255,
+UK,Air,FB,122,,,,,,,,,,,,air,,p51,P51,,1256,
+UK,Air,FB,123,,,,,,,,,,,,air,,typh,TYPH,,1257,
+UK,Air,FB,124,,,,,,,,,,,,air,,typh,TYPH,,1258,
+UK,Air,FB,"126 CA",,,,,,,,,,,,air,,spit,SPIT,,1259,
+UK,Air,FB,"127 CA",,,,,,,,,,,,air,,spit,SPIT,,1260,
+UK,Air,FB,"131 PO",,,,,,,,,,,,air,,spit,SPIT,,1261,
+UK,Air,FB,"132 NW",,,,,,,,,,,,air,,spit,SPIT,,1262,
+UK,Air,FB,"133 PO",,,,,,,,,,,,air,,p51,P51,,1263,
+UK,Air,FB,"134 CZ",,,,,,,,,,,,air,,spit,SPIT,,1264,
+UK,Air,FB,"135 BE",,,,,,,,,,,,air,,spit,SPIT,,1265,
+UK,Air,FB,136,,,,,,,,,,,,air,,typh,TYPH,,1266,
+UK,Air,FB,"141 NE",,,,,,,,,,,,air,,spit,SPIT,,1267,
+UK,Air,FB,"143 CA",,,,,,,,,,,,air,,typh,TYPH,,1268,
+UK,Air,FB,"144 CA",,,,,,,,,,,,air,,spit,SPIT,,1269,
+UK,Air,FB,"145 FR",,,,,,,,,,,,air,,spit,SPIT,,1270,
+UK,Air,FB,146,,,,,,,,,,,,air,,typh,TYPH,,1271,
+UK,Air,LB-1,138,,,,,,,,,,,,air,,mosq,MOSQ,,1272,
+UK,Air,LB-1,141,,,,,,,,,,,,air,,mosq,MOSQ,,1273,
+UK,Air,MB-3,137,,,,,,,,,,,,air,,b25,B25,,1274,
+UK,Air,MB-3,139,,,,,,,,,,,,air,,b25,B25,,1275,
+UK,Air,,"INTERDICT 1",,,,,,,,,,,,int,,,,,1276,
+UK,Air,,"INTERDICT 2",,,,,,,,,,,,int,,,,,1277,
+UK,Air,,"INTERDICT 3",,,,,,,,,,,,int,,,,,1278,
+UK,Air,,"INTERDICT 4",,,,,,,,,,,,int,,,,,1279,
+UK,Air,,"INTERDICT 5",,,,,,,,,,,,int,,,,,1280,
+UK,Air,,"INTERDICT 6",,,,,,,,,,,,int,,,,,1281,
+UK,Air,,"INTERDICT 7",,,,,,,,,,,,int,,,,,1282,
+UK,Air,,"INTERDICT 8",,,,,,,,,,,,int,,,,,1283,
+UK,Corps,1,,,1,8,1,,,,,,,cp,inf,,hq,"corps HQ",,1284,
+UK,Corps,12,,,1,8,1,,,,,,,cp,inf,,hq,"corps HQ",,1285,
+UK,Corps,"2 CAN",,,1,8,1,,,,,,,cp,inf,,hq,"corps HQ",,1286,
+UK,Corps,30,,,1,8,1,,,,,,,cp,inf,,hq,"corps HQ",,1287,
+UK,Corps,8,,,1,8,1,,,,,,,cp,inf,,hq,"corps HQ",,1288,
+UK,"Gd Arm Div",GD,153,5,3,8,1,6,,,,,,bn,arty,mot,,"mot arty bn 25# 24",,1289,
+UK,"Gd Arm Div",GD,55,5,3,8,1,6,,,,,,bn,arty,mot,,"mot arty bn 25# 24",,1290,
+UK,"Gd Arm Div",GD,"1 IND",2,2,8,1,,,,,,,co,inf,mot,mg,"mot mg inf co",,1291,
+UK,"Gd Arm Div",GD,"1 MGG",5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1292,2701
+UK,"Gd Arm Div",GD,"3 IG",5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1293,2702
+UK,"Gd Arm Div",GD,"5 CG",5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1294,2703
+UK,"Gd Arm Div",GD,"5 GG",5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1295,2704
+UK,"Gd Arm Div",GD,"1 CG",6,6,6,2,,3,3,6,2,,bn,pz,,,"pz bn SHM 55",,1296,2705
+UK,"Gd Arm Div",GD,"2 GG",6,6,6,2,,3,3,6,2,,bn,pz,,,"pz bn SHM 55",,1297,2706
+UK,"Gd Arm Div",GD,"2 IG",6,6,6,2,,3,3,6,2,,bn,pz,,,"pz bn SHM 55",,1298,2707
+UK,"Gd Arm Div",GD,"2 WG",5,6,7,2,,3,3,7,2,,bn,pz,,,"pz bn CRM 55",,1299,2708
+UK,"Gd Arm Div",GD,,,3,6,1,,,,,,,div,pz,,hq,"pz div HQ",,1300,
+UK,"Ind Arm",,10/2C,6,6,6,2,,3,3,6,2,,bn,pz,,dd,"pz bn DD SHM 55","not dd as printed",1301,2709
+UK,"Ind Arm",,107/34,5,6,4,2,,2,3,4,2,,bn,pz,,,"pz bn CHC 52",,1302,2710
+UK,"Ind Arm",,13/18/27,6,6,6,2,,3,3,6,2,,bn,pz,,dd,"pz bn DD 55",,1303,2711
+UK,"Ind Arm",,144/33,6,6,6,2,,3,3,6,2,,bn,pz,,,"pz bn SHM 55",,1304,2712
+UK,"Ind Arm",,147/34,5,6,4,2,,2,3,4,2,,bn,pz,,,"pz bn CHC 52",,1305,2713
+UK,"Ind Arm",,148/33,6,6,6,2,,3,3,6,2,,bn,pz,,,"pz bn SHM 55",,1306,2714
+UK,"Ind Arm",,153/34,5,6,4,2,,2,3,4,2,,bn,pz,,,"pz bn CHC 52",,1307,2715
+UK,"Ind Arm",,"1 L/30",6,6,6,2,,3,3,6,2,,bn,pz,,crab,"pz crab bn",,1308,2716
+UK,"Ind Arm",,"1 N/33",6,6,6,2,,3,3,6,2,,bn,pz,,,"pz bn SHM 55",,1309,2717
+UK,"Ind Arm",,22/30,6,6,6,2,,3,3,6,2,,bn,pz,,crab,"pz crab bn",,1310,2718
+UK,"Ind Arm",,"24 L/8",6,6,6,2,,3,3,6,2,,bn,pz,,,"pz bn SHM 55",,1311,2719
+UK,"Ind Arm",,26,4,2,4,1,,2,1,4,1,,co,pz,,avre,"pz gw co AVRE 15",,1312,2720
+UK,"Ind Arm",,27/2C,6,6,6,2,,3,3,6,2,,bn,pz,,,"pz bn SHM 55",,1313,2721
+UK,"Ind Arm",,"3 C/4",6,6,6,2,,3,3,6,2,,bn,pz,,,"pz bn SHM 55",,1314,2722
+UK,"Ind Arm",,"3 SG/6",5,6,4,2,,2,3,4,2,,bn,pz,,,"pz bn CHC 52",,1315,2723
+UK,"Ind Arm",,"44 R/4",6,6,6,2,,3,3,6,2,,bn,pz,,,"pz bn SHM 55",,1316,2724
+UK,"Ind Arm",,4/7/8,6,6,6,2,,3,3,6,2,,bn,pz,,dd,"pz bn DD 55",,1317,2725
+UK,"Ind Arm",,"4 CG/6",5,6,4,2,,2,3,4,2,,bn,pz,,,"pz bn CHC 52",,1318,2726
+UK,"Ind Arm",,"4 GG/6",5,6,4,2,,2,3,4,2,,bn,pz,,,"pz bn CHC 52",,1319,2727
+UK,"Ind Arm",,6/2C,6,6,6,2,,3,3,6,2,,bn,pz,,dd,"pz bn DD SHM 55","not dd as printed",1320,2728
+UK,"Ind Arm",,77,4,2,4,1,,2,1,4,1,,co,pz,,avre,"pz gw co AVRE 15",,1321,2729
+UK,"Ind Arm",,79,4,2,4,1,,2,1,4,1,,co,pz,,avre,"pz gw co AVRE 15",,1322,2730
+UK,"Ind Arm",,"7 RTR",5,6,4,2,,2,3,4,2,,bn,pz,,,"pz bn CHC 52",,1323,2731
+UK,"Ind Arm",,80,4,2,4,1,,2,1,4,1,,co,pz,,avre,"pz gw co AVRE 15",,1324,2732
+UK,"Ind Arm",,81,4,2,4,1,,2,1,4,1,,co,pz,,avre,"pz gw co AVRE 15",,1325,2733
+UK,"Ind Arm",,82,4,2,4,1,,2,1,4,1,,co,pz,,avre,"pz gw co AVRE 15",,1326,2734
+UK,"Ind Arm",,"9 RTR",5,6,4,2,,2,3,4,2,,bn,pz,,,"pz bn CHC 52",,1327,2735
+UK,"Ind Arm",,A/141,2,2,4,1,,1,1,4,1,,co,pz,,croc,"pz croc co CROC 15",,1328,2736
+UK,"Ind Arm",,B/141,2,2,4,1,,1,1,4,1,,co,pz,,croc,"pz croc co CROC 15",,1329,2737
+UK,"Ind Arm",,C/141,2,2,4,1,,1,1,4,1,,co,pz,,croc,"pz croc co CROC 15",,1330,2738
+UK,"Ind Arm",,EY/27,6,6,6,2,,3,3,6,2,,bn,pz,,dd,"pz bn DD 55",,1331,2739
+UK,"Ind Arm",,G/4,6,6,6,2,,3,3,6,2,,bn,pz,,,"pz bn SHM 55",,1332,2740
+UK,"Ind Arm",,N/8,6,6,6,2,,3,3,6,2,,bn,pz,,dd,"pz bn DD 55",,1333,2741
+UK,"Ind Arm",,WD/30,6,6,6,2,,3,3,6,2,,bn,pz,,crab,"pz crab bn",,1334,2742
+UK,"Ind Arm",,Y/27,6,6,6,2,,3,3,6,2,,bn,pz,,,"pz bn SHM 55",,1335,2743
+UK,"Ind Arty",,10,5,1,8,1,7,,,,,,bn,arty,mot,,"mot arty bn 5.5"" 16",,1336,
+UK,"Ind Arty",,107,5,1,8,1,7,,,,,,bn,arty,mot,,"mot arty bn 5.5"" 16",,1337,
+UK,"Ind Arty",,11,5,1,8,1,7,,,,,,bn,arty,mot,,"mot arty bn 5.5"" 16",,1338,
+UK,"Ind Arty",,121,5,1,8,1,7,,,,,,bn,arty,mot,,"mot arty bn 5.5"" 16",,1339,
+UK,"Ind Arty",,13,5,1,8,1,7,,,,,,bn,arty,mot,,"mot arty bn 5.5"" 16",,1340,
+UK,"Ind Arty",,146,5,1,8,1,7,,,,,,bn,arty,mot,,"mot arty bn 5.5"" 16",,1341,
+UK,"Ind Arty",,15,5,1,8,1,7,,,,,,bn,arty,mot,,"mot arty bn 5.5"" 16",,1342,
+UK,"Ind Arty",,"3 CAN",5,1,8,1,7,,,,,,bn,arty,mot,,"mot arty bn 5.5"" 16",,1343,
+UK,"Ind Arty",,"4 CAN",5,1,8,1,7,,,,,,bn,arty,mot,,"mot arty bn 5.5"" 16",,1344,
+UK,"Ind Arty",,53,5,1,8,1,7,,,,,,bn,arty,mot,,"mot arty bn 5.5"" 16",,1345,
+UK,"Ind Arty",,59,5,1,8,1,7,,,,,,bn,arty,mot,,"mot arty bn 5.5"" 16",,1346,
+UK,"Ind Arty",,61,5,1,8,1,7,,,,,,bn,arty,mot,,"mot arty bn 5.5"" 16",,1347,
+UK,"Ind Arty",,63,5,1,8,1,7,,,,,,bn,arty,mot,,"mot arty bn 5.5"" 16",,1348,
+UK,"Ind Arty",,64,5,1,8,1,7,,,,,,bn,arty,mot,,"mot arty bn 5.5"" 16",,1349,
+UK,"Ind Arty",,65,5,1,8,1,7,,,,,,bn,arty,mot,,"mot arty bn 5.5"" 16",,1350,
+UK,"Ind Arty",,67,5,1,8,1,7,,,,,,bn,arty,mot,,"mot arty bn 5.5"" 16",,1351,
+UK,"Ind Arty",,68,5,1,8,1,7,,,,,,bn,arty,mot,,"mot arty bn 5.5"" 16",,1352,
+UK,"Ind Arty",,7,5,1,8,1,7,,,,,,bn,arty,mot,,"mot arty bn 5.5"" 16",,1353,
+UK,"Ind Arty",,72,5,1,8,1,7,,,,,,bn,arty,mot,,"mot arty bn 5.5"" 16",,1354,
+UK,"Ind Arty",,77,5,1,8,1,7,,,,,,bn,arty,mot,,"mot arty bn 5.5"" 16",,1355,
+UK,"Ind Arty",,79,5,1,8,1,7,,,,,,bn,arty,mot,,"mot arty bn 5.5"" 16",,1356,
+UK,"Ind Arty",,"7 CAN",5,1,8,1,7,,,,,,bn,arty,mot,,"mot arty bn 5.5"" 16",,1357,
+UK,"Ind Arty",,84,5,1,8,1,7,,,,,,bn,arty,mot,,"mot arty bn 5.5"" 16",,1358,
+UK,"Ind Arty",,9,5,1,8,1,7,,,,,,bn,arty,mot,,"mot arty bn 5.5"" 16",,1359,
+UK,"Ind Arty",,147,5,3,8,1,6,,,,,,bn,arty,mot,,"mot arty bn 25# 24",,1360,
+UK,"Ind Arty",,150,5,3,8,1,6,,,,,,bn,arty,mot,,"mot arty bn 25# 24",,1361,
+UK,"Ind Arty",,191,5,3,8,1,6,,,,,,bn,arty,mot,,"mot arty bn 25# 24",,1362,
+UK,"Ind Arty",,25,5,3,8,1,6,,,,,,bn,arty,mot,,"mot arty bn 25# 24",,1363,
+UK,"Ind Arty",,6,5,3,8,1,6,,,,,,bn,arty,mot,,"mot arty bn 25# 24",,1364,
+UK,"Ind Arty",,86,5,3,8,1,6,,,,,,bn,arty,mot,,"mot arty bn 25# 24",,1365,
+UK,"Ind Arty",,"19 C",5,4,6,1,6,,,,,,bn,arty,sp,,"sp arty bn 25# 24",,1366,
+UK,"Ind Arty",,"4 RH",5,4,6,1,6,,,,,,bn,arty,sp,,"sp arty bn 25# 24",,1367,
+UK,"Ind Arty",,1,7,1,8,1,9,,,,,,bn,arty,mot,,"mot at bn 7.2"" 16",,1368,
+UK,"Ind Arty",,51,7,1,8,1,9,,,,,,bn,arty,mot,,"mot at bn 7.2"" 16",,1369,
+UK,"Ind Arty",,52,7,1,8,1,9,,,,,,bn,arty,mot,,"mot at bn 7.2"" 16",,1370,
+UK,"Ind Arty",,53,7,1,8,1,9,,,,,,bn,arty,mot,,"mot at bn 7.2"" 16",,1371,
+UK,"Ind Arty",,59,7,1,8,1,9,,,,,,bn,arty,mot,,"mot at bn 7.2"" 16",,1372,
+UK,"Ind Arty",,6,12,8,8,3,1,7,4,8,3,1,bn,at,mot,,"mot at bn 17# 48",,1373,2744
+UK,"Ind Arty",,62,12,8,8,3,1,7,4,8,3,1,bn,at,mot,,"mot at bn 17# 48",,1374,2745
+UK,"Ind Arty",,73,12,8,8,3,1,7,4,8,3,1,bn,at,mot,,"mot at bn 17# 48",,1375,2746
+UK,"Ind Arty",,86,12,8,8,3,1,7,4,8,3,1,bn,at,mot,,"mot at bn 17# 48",,1376,2747
+UK,"Ind Arty",,91,12,8,8,3,1,7,4,8,3,1,bn,at,mot,,"mot at bn 17# 48",,1377,2748
+UK,"Ind Inf",,"12 K/8",5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1378,2749
+UK,"Ind Inf",,"2 E/56",5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1379,2750
+UK,"Ind Inf",,"2 G/56",5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1380,2751
+UK,"Ind Inf",,"2 KR/4",5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1381,2752
+UK,"Ind Inf",,"2 S/56",5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1382,2753
+UK,"Ind Inf",,3,4,3,6,2,,2,2,6,2,,bn,inf,,cdo,"cdo bn",,1383,2754
+UK,"Ind Inf",,4,4,3,6,2,,2,2,6,2,,bn,inf,,cdo,"cdo bn",,1384,2755
+UK,"Ind Inf",,"41 RM",4,3,6,2,,2,2,6,2,,bn,inf,,cdo,"cdo bn",,1385,2756
+UK,"Ind Inf",,"45 RM",4,3,6,2,,2,2,6,2,,bn,inf,,cdo,"cdo bn",,1386,2757
+UK,"Ind Inf",,"46 RM",4,3,6,2,,2,2,6,2,,bn,inf,,cdo,"cdo bn",,1387,2758
+UK,"Ind Inf",,"47 RM",4,3,6,2,,2,2,6,2,,bn,inf,,cdo,"cdo bn",,1388,2759
+UK,"Ind Inf",,"48 RM",4,3,6,2,,2,2,6,2,,bn,inf,,cdo,"cdo bn",,1389,2760
+UK,"Ind Inf",,6,4,3,6,2,,2,2,6,2,,bn,inf,,cdo,"cdo bn",,1390,2761
+UK,"Ind Inf",,DTCH,2,3,8,3,,0,1,8,3,,bde,inf,mot,,"mot inf bde",,1391,2762
+UK,"Ind Inf",,I/BEL,3,4,8,3,,1,2,8,3,,bn,inf,mot,,"mot inf bn",,1392,2763
+UK,"Ind Inf",,II/BEL,3,4,8,3,,1,2,8,3,,bn,inf,mot,,"mot inf bn",,1393,2764
+UK,"Ind Inf",,III/BEL,3,4,8,3,,1,2,8,3,,bn,inf,mot,,"mot inf bn",,1394,2765
+UK,"Ind Rcce",,"11 H",3,4,8,3,,1,2,8,3,,bn,ac,mot,rcce,"mot rcce ac bn",,1395,2766
+UK,"Ind Rcce",,"18 AC",3,4,8,3,,1,2,8,3,,bn,ac,mot,rcce,"mot rcce ac bn",,1396,2767
+UK,"Ind Rcce",,1/BEL,1,2,8,1,,,,,,,co,ac,mot,rcce,"mot rcce ac co",,1397,
+UK,"Ind Rcce",,"1 C",3,4,8,3,,1,2,8,3,,bn,ac,mot,rcce,"mot rcce ac bn",,1398,2768
+UK,"Ind Rcce",,"1 RD",3,4,8,3,,1,2,8,3,,bn,ac,mot,rcce,"mot rcce ac bn",,1399,2769
+UK,"Ind Rcce",,"2 HC",3,4,8,3,,1,2,8,3,,bn,ac,mot,rcce,"mot rcce ac bn",,1400,2770
+UK,Naval,,BB,,,,,,,,,,,,diag,,lg,,,1401,
+UK,Naval,,CA,,,,,,,,,,,,diag,,lg,,,1402,
+UK,Naval,,DD,,,,,,,,,,,,diag,,lg,,,1403,
+UK,Naval,,ROCKET,,,,,,,,,,,,diag,,sm,,,1404,
+UK,"Rem & Repl",1,,0,2,8,2,,,,,,,bn,inf,mot,rem,,,1405,
+UK,"Rem & Repl",2,,0,2,8,2,,,,,,,bn,inf,mot,rem,,,1406,
+UK,"Rem & Repl",3,,0,2,8,2,,,,,,,bn,inf,mot,rem,,,1407,
+UK,"Rem & Repl",4,,0,2,8,2,,,,,,,bn,inf,mot,rem,,,1408,
+UK,"Rem & Repl",5,,0,2,8,2,,,,,,,bn,inf,mot,rem,,,1409,
+UK,"Rem & Repl",6,,0,2,8,2,,,,,,,bn,inf,mot,rem,,,1410,
+UK,"Rem & Repl",7,,0,2,8,2,,,,,,,bn,inf,mot,rem,,,1411,
+UK,"Rem & Repl",8,,0,2,8,2,,,,,,,bn,inf,mot,rem,,,1412,
+UK,"Rem & Repl",9,,0,2,8,2,,,,,,,bn,inf,mot,rem,,,1413,
+UK,"Rem & Repl",10,,0,2,8,2,,,,,,,bn,inf,mot,rem,,,1414,
+UK,"Rem & Repl",11,,0,2,8,2,,,,,,,bn,inf,mot,rem,,,1415,
+UK,"Rem & Repl",12,,0,2,8,2,,,,,,,bn,inf,mot,rem,,,1416,
+UK,"Rem & Repl",13,,0,2,8,2,,,,,,,bn,inf,mot,rem,,,1417,
+UK,"Rem & Repl",14,,0,2,8,2,,,,,,,bn,inf,mot,rem,,,1418,
+UK,"Rem & Repl",15,,0,2,8,2,,,,,,,bn,inf,mot,rem,,,1419,
+UK,"Rem & Repl",16,,0,2,8,2,,,,,,,bn,inf,mot,rem,,,1420,
+UK,"Rem & Repl",17,,0,2,8,2,,,,,,,bn,inf,mot,rem,,,1421,
+UK,"Rem & Repl",18,,0,2,8,2,,,,,,,bn,inf,mot,rem,,,1422,
+UK,"Rem & Repl",19,,0,2,8,2,,,,,,,bn,inf,mot,rem,,,1423,
+UK,"Rem & Repl",20,,0,2,8,2,,,,,,,bn,inf,mot,rem,,,1424,
+UK,"Rem & Repl",21,,0,2,8,2,,,,,,,bn,inf,mot,rem,,,1425,
+UK,"Rem & Repl",22,,0,2,8,2,,,,,,,bn,inf,mot,rem,,,1426,
+UK,"Rem & Repl",23,,0,2,8,2,,,,,,,bn,inf,mot,rem,,,1427,
+UK,"Rem & Repl",24,,0,2,8,2,,,,,,,bn,inf,mot,rem,,,1428,
+UK,"Rem & Repl",25,,0,2,8,2,,,,,,,bn,inf,mot,rem,,,1429,
+UK,"Rem & Repl",26,,0,2,8,2,,,,,,,bn,inf,mot,rem,,,1430,
+UK,"Rem & Repl",27,,0,2,8,2,,,,,,,bn,inf,mot,rem,,,1431,
+UK,"Rem & Repl",28,,0,2,8,2,,,,,,,bn,inf,mot,rem,,,1432,
+UK,"Rem & Repl",29,,0,2,8,2,,,,,,,bn,inf,mot,rem,,,1433,
+UK,"Rem & Repl",30,,0,2,8,2,,,,,,,bn,inf,mot,rem,,,1434,
+UK,"Rem & Repl",31,,0,2,8,2,,,,,,,bn,inf,mot,rem,,,1435,
+UK,"Rem & Repl",1,,0,2,4,2,,,,,,,bn,inf,,"rem para",,,1436,
+UK,"Rem & Repl",2,,0,2,4,2,,,,,,,bn,inf,,"rem para",,,1437,
+UK,"Rem & Repl",3,,0,2,4,2,,,,,,,bn,inf,,"rem para",,,1438,
+UK,"Rem & Repl",4,,0,2,4,2,,,,,,,bn,inf,,"rem para",,,1439,
+UK,"Rem & Repl",5,,0,2,4,2,,,,,,,bn,inf,,"rem para",,,1440,
+UK,"Rem & Repl",1,,0,2,4,1,,,,,,,bn,pz,,rem,,,1441,
+UK,"Rem & Repl",2,,0,2,4,1,,,,,,,bn,pz,,rem,,,1442,
+UK,"Rem & Repl",3,,0,2,4,1,,,,,,,bn,pz,,rem,,,1443,
+UK,"Rem & Repl",4,,0,2,4,1,,,,,,,bn,pz,,rem,,,1444,
+UK,"Rem & Repl",1,,0,2,6,2,,,,,,,bn,pz,,rem,,,1445,
+UK,"Rem & Repl",2,,0,2,6,2,,,,,,,bn,pz,,rem,,,1446,
+UK,"Rem & Repl",3,,0,2,6,2,,,,,,,bn,pz,,rem,,,1447,
+UK,"Rem & Repl",4,,0,2,6,2,,,,,,,bn,pz,,rem,,,1448,
+UK,"Rem & Repl",5,,0,2,6,2,,,,,,,bn,pz,,rem,,,1449,
+UK,"Rem & Repl",6,,0,2,6,2,,,,,,,bn,pz,,rem,,,1450,
+UK,"Rem & Repl",7,,0,2,6,2,,,,,,,bn,pz,,rem,,,1451,
+UK,"Rem & Repl",8,,0,2,6,2,,,,,,,bn,pz,,rem,,,1452,
+UK,"Rem & Repl",9,,0,2,6,2,,,,,,,bn,pz,,rem,,,1453,
+UK,"Rem & Repl",10,,0,2,6,2,,,,,,,bn,pz,,rem,,,1454,
+UK,"Rem & Repl",1,,0,2,7,1,,,,,,,bn,pz,,rem,,,1455,
+UK,"Rem & Repl",2,,0,2,7,1,,,,,,,bn,pz,,rem,,,1456,
+UK,"Rem & Repl",3,,0,2,7,1,,,,,,,bn,pz,,rem,,,1457,
+UK,"Rem & Repl",4,,0,2,7,1,,,,,,,bn,pz,,rem,,,1458,
+UK,"Rem & Repl",,,0,0,8,0,,,,,,,rpl,inf,,rpl,,,1459,
+UK,"Rem & Repl",,,0,0,8,0,,,,,,,rpl,pz,,rpl,,,1460,
+UK,RMSR,1,A&B,*,1,1,0,,,,,,,co,pz,,"ag rmsr","pz ag co CEN 10",,1461,
+UK,RMSR,1,C&D,*,1,1,0,,,,,,,co,pz,,"ag rmsr","pz ag co CEN 10",,1462,
+UK,RMSR,1,E&F,*,1,1,0,,,,,,,co,pz,,"ag rmsr","pz ag co CEN 10",,1463,
+UK,RMSR,1,G&H,*,1,1,0,,,,,,,co,pz,,"ag rmsr","pz ag co CEN 10",,1464,
+UK,RMSR,2,P&Q,*,1,1,0,,,,,,,co,pz,,"ag rmsr","pz ag co CEN 10",,1465,
+UK,RMSR,2,S&T,*,1,1,0,,,,,,,co,pz,,"ag rmsr","pz ag co CEN 10",,1466,
+UK,RMSR,2,W&X,*,1,1,0,,,,,,,co,pz,,"ag rmsr","pz ag co CEN 10",,1467,
+UK,RMSR,5,S&T,*,1,1,0,,,,,,,co,pz,,"ag rmsr","pz ag co CEN 10",,1468,
+UK,RMSR,5,V&W,*,1,1,0,,,,,,,co,pz,,"ag rmsr","pz ag co CEN 10",,1469,
+UK,RMSR,5,Y&Z,*,1,1,0,,,,,,,co,pz,,"ag rmsr","pz ag co CEN 10",,1470,
+UK,Supply,,,,0,6,1,,,,,,,,hsup,,para,"para supply",,1471,
+US,"101 Abn Div",101,377,2,1,8,1,4,,,,,,bn,arty,,gl,"gl arty bn 75p 12",,1472,
+US,"101 Abn Div",101,A/81,1,1,8,1,1,,,,,,bty,at,mot,gl,"gl mot at bty 57 12",,1473,
+US,"101 Abn Div",101,B/81,1,1,8,1,1,,,,,,bty,at,mot,gl,"gl mot at bty 57 12",,1474,
+US,"101 Abn Div",101,C/81,1,1,8,1,1,,,,,,bty,at,mot,gl,"mot gl at bty 57 12",,1475,
+US,"101 Abn Div",101,1/327,3,5,4,2,,1,3,4,2,,bn,inf,,gl,"gl inf bn",,1476,2771
+US,"101 Abn Div",101,1/501,3,5,4,2,,1,3,4,2,,bn,inf,,para,"para inf bn",,1477,2772
+US,"101 Abn Div",101,1/502,3,5,4,2,,1,3,4,2,,bn,inf,,para,"para inf bn",,1478,2773
+US,"101 Abn Div",101,1/506,3,5,4,2,,1,3,4,2,,bn,inf,,para,"para inf bn",,1479,2774
+US,"101 Abn Div",101,2/327,3,5,4,2,,1,3,4,2,,bn,inf,,gl,"gl inf bn",,1480,2775
+US,"101 Abn Div",101,2/501,3,5,4,2,,1,3,4,2,,bn,inf,,para,"para inf bn",,1481,2776
+US,"101 Abn Div",101,2/502,3,5,4,2,,1,3,4,2,,bn,inf,,para,"para inf bn",,1482,2777
+US,"101 Abn Div",101,2/506,3,5,4,2,,1,3,4,2,,bn,inf,,para,"para inf bn",,1483,2778
+US,"101 Abn Div",101,3/327,3,5,4,2,,1,3,4,2,,bn,inf,,gl,"gl inf bn",,1484,2779
+US,"101 Abn Div",101,3/501,3,5,4,2,,1,3,4,2,,bn,inf,,para,"para inf bn",,1485,2780
+US,"101 Abn Div",101,3/502,3,5,4,2,,1,3,4,2,,bn,inf,,para,"para inf bn",,1486,2781
+US,"101 Abn Div",101,3/506,3,5,4,2,,1,3,4,2,,bn,inf,,para,"para inf bn",,1487,2782
+US,"101 Abn Div",101,,,1,4,1,,,,,,,div,inf,,"hq para","para div HQ",,1488,
+US,"1 Inf Div",1,5,4,1,8,1,7,,,,,,bn,arty,mot,,"mot arty bn 155 12",,1489,
+US,"1 Inf Div",1,,9,3,8,3,6,,,,,,bde,arty,mot,,"mot arty bde 105 36",,1490,
+US,"1 Inf Div",1,1/16,5,6,8,3,,3,3,8,3,,bn,inf,mot,,"mot inf bn",,1491,2783
+US,"1 Inf Div",1,1/18,5,6,8,3,,3,3,8,3,,bn,inf,mot,,"mot inf bn","no div as printed",1492,2784
+US,"1 Inf Div",1,1/26,5,6,8,3,,3,3,8,3,,bn,inf,mot,,"mot inf bn",,1493,2785
+US,"1 Inf Div",1,2/16,5,6,8,3,,3,3,8,3,,bn,inf,mot,,"mot inf bn",,1494,2786
+US,"1 Inf Div",1,2/18,5,6,8,3,,3,3,8,3,,bn,inf,mot,,"mot inf bn",,1495,2787
+US,"1 Inf Div",1,2/26,5,6,8,3,,3,3,8,3,,bn,inf,mot,,"mot inf bn",,1496,2788
+US,"1 Inf Div",1,3/16,5,6,8,3,,3,3,8,3,,bn,inf,mot,,"mot inf bn",,1497,2789
+US,"1 Inf Div",1,3/18,5,6,8,3,,3,3,8,3,,bn,inf,mot,,"mot inf bn",,1498,2790
+US,"1 Inf Div",1,3/26,5,6,8,3,,3,3,8,3,,bn,inf,mot,,"mot inf bn",,1499,2791
+US,"1 Inf Div",1,,0,1,8,1,,,,,,,co,inf,mot,rcce,"mot rcce inf co","no div as printed",1500,
+US,"1 Inf Div",1,,,2,8,1,,,,,,,div,inf,mot,hq,"mot div HQ",,1501,
+US,"28 Inf Div",28,229,4,1,8,1,7,,,,,,bn,arty,mot,,"mot arty bn 155 12",,1502,
+US,"28 Inf Div",28,,9,3,8,3,6,,,,,,bde,arty,mot,,"mot arty bde 105 36",,1503,
+US,"28 Inf Div",28,1/109,5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1504,2792
+US,"28 Inf Div",28,1/110,5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1505,2793
+US,"28 Inf Div",28,1/112,5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1506,2794
+US,"28 Inf Div",28,2/109,5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1507,2795
+US,"28 Inf Div",28,2/110,5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1508,2796
+US,"28 Inf Div",28,2/112,5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1509,2797
+US,"28 Inf Div",28,3/109,5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1510,2798
+US,"28 Inf Div",28,3/110,5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1511,2799
+US,"28 Inf Div",28,3/112,5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1512,2800
+US,"28 Inf Div",28,,0,1,8,1,,,,,,,co,inf,mot,rcce,"mot rcce inf co",,1513,
+US,"28 Inf Div",28,,,2,8,1,,,,,,,div,inf,mot,hq,"mot div HQ",,1514,
+US,"29 Inf Div",29,227,4,1,8,1,7,,,,,,bn,arty,mot,,"mot arty bn 155 12",,1515,
+US,"29 Inf Div",29,,9,3,8,3,6,,,,,,bde,arty,mot,,"mot arty bde 105 36",,1516,
+US,"29 Inf Div",29,1/115,5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1517,2801
+US,"29 Inf Div",29,1/116,5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1518,2802
+US,"29 Inf Div",29,1/175,5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1519,2803
+US,"29 Inf Div",29,2/115,5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1520,2804
+US,"29 Inf Div",29,2/116,5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1521,2805
+US,"29 Inf Div",29,2/175,5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1522,2806
+US,"29 Inf Div",29,3/115,5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1523,2807
+US,"29 Inf Div",29,3/116,5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1524,2808
+US,"29 Inf Div",29,3/175,5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1525,2809
+US,"29 Inf Div",29,,0,1,8,1,,,,,,,co,inf,mot,rcce,"mot rcce inf co",,1526,
+US,"29 Inf Div",29,,,2,8,1,,,,,,,div,inf,mot,hq,"mot div HQ",,1527,
+US,"2 Arm Div",2,82,3,4,8,3,,1,2,8,3,,bn,ac,mot,rcce,"mot rcce ac bn",,1528,2810
+US,"2 Arm Div",2,14,3,2,6,1,6,,,,,,bn,arty,sp,,"sp arty bn 105 12 M7",,1529,
+US,"2 Arm Div",2,78,3,2,6,1,6,,,,,,bn,arty,sp,,"sp arty bn 105 12 M7",,1530,
+US,"2 Arm Div",2,92,3,2,6,1,6,,,,,,bn,arty,sp,,"sp arty bn 105 12 M7",,1531,
+US,"2 Arm Div",2,1/41,8,8,6,3,,4,4,6,3,,bn,inf,ht,,"ht inf bn",,1532,2811
+US,"2 Arm Div",2,2/41,8,8,6,3,,4,4,6,3,,bn,inf,ht,,"ht inf bn",,1533,2812
+US,"2 Arm Div",2,3/41,8,8,6,3,,4,4,6,3,,bn,inf,ht,,"ht inf bn",,1534,2813
+US,"2 Arm Div",2,1/66,6,7,6,2,,3,4,6,2,,bn,pz,,,"pz bn M4 53",,1535,2814
+US,"2 Arm Div",2,1/67,6,7,6,2,,3,4,6,2,,bn,pz,,,"pz bn M4 53",,1536,2815
+US,"2 Arm Div",2,2/66,6,7,6,2,,3,4,6,2,,bn,pz,,,"pz bn M4 53",,1537,2816
+US,"2 Arm Div",2,2/67,6,7,6,2,,3,4,6,2,,bn,pz,,,"pz bn M4 53",,1538,2817
+US,"2 Arm Div",2,3/66,6,7,6,2,,3,4,6,2,,bn,pz,,,"pz bn M4 53",,1539,2818
+US,"2 Arm Div",2,3/67,6,7,6,2,,3,4,6,2,,bn,pz,,,"pz bn M4 53",,1540,2819
+US,"2 Arm Div",2,,,3,6,1,,,,,,,div,pz,,hq,"pz div HQ",,1541,
+US,"2 Fr Arm Div","2 F",,3,4,8,3,,1,2,8,3,,bn,ac,mot,rcce,"mot rcce ac bn",,1542,2820
+US,"2 Fr Arm Div","2 F",I,3,2,6,1,6,,,,,,bn,arty,sp,,"sp arty bn 105 12 M7",,1543,
+US,"2 Fr Arm Div","2 F",II,3,2,6,1,6,,,,,,bn,arty,sp,,"sp arty bn 105 12 M7",,1544,
+US,"2 Fr Arm Div","2 F",III,3,2,6,1,6,,,,,,bn,arty,sp,,"sp arty bn 105 12 M7",,1545,
+US,"2 Fr Arm Div","2 F",I,8,8,6,3,,4,4,6,3,,bn,inf,ht,,"ht inf bn",,1546,2821
+US,"2 Fr Arm Div","2 F",II,8,8,6,3,,4,4,6,3,,bn,inf,ht,,"ht inf bn",,1547,2822
+US,"2 Fr Arm Div","2 F",III,8,8,6,3,,4,4,6,3,,bn,inf,ht,,"ht inf bn",,1548,2823
+US,"2 Fr Arm Div","2 F",I,6,7,6,2,,3,4,6,2,,bn,pz,,,"pz bn M4 53",,1549,2824
+US,"2 Fr Arm Div","2 F",II,6,7,6,2,,3,4,6,2,,bn,pz,,,"pz bn M4 53",,1550,2825
+US,"2 Fr Arm Div","2 F",III,6,7,6,2,,3,4,6,2,,bn,pz,,,"pz bn M4 53",,1551,2826
+US,"2 Fr Arm Div","2 FR",,,3,6,1,,,,,,,div,pz,,hq,"pz div HQ",,1552,
+US,"2 Inf Div",2,12,4,1,8,1,7,,,,,,bn,arty,mot,,"mot arty bn 155 12",,1553,
+US,"2 Inf Div",2,,9,3,8,3,6,,,,,,bde,arty,mot,,"mot arty bde 105 36",,1554,
+US,"2 Inf Div",2,1/23,5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1555,2827
+US,"2 Inf Div",2,1/38,5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1556,2828
+US,"2 Inf Div",2,1/9,5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1557,2829
+US,"2 Inf Div",2,2/23,5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1558,2830
+US,"2 Inf Div",2,2/38,5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1559,2831
+US,"2 Inf Div",2,2/9,5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1560,2832
+US,"2 Inf Div",2,3/23,5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1561,2833
+US,"2 Inf Div",2,3/38,5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1562,2834
+US,"2 Inf Div",2,3/9,5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1563,2835
+US,"2 Inf Div",2,,0,1,8,1,,,,,,,co,inf,mot,rcce,"mot rcce inf co",,1564,
+US,"2 Inf Div",2,,,2,8,1,,,,,,,div,inf,mot,hq,"mot div HQ",,1565,
+US,"30 Inf Div",30,113,4,1,8,1,7,,,,,,bn,arty,mot,,"mot arty bn 155 12",,1566,
+US,"30 Inf Div",30,,9,3,8,3,6,,,,,,bde,arty,mot,,"mot arty bde 105 36",,1567,
+US,"30 Inf Div",30,1/117,5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1568,2836
+US,"30 Inf Div",30,1/119,5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1569,2837
+US,"30 Inf Div",30,1/120,5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1570,2838
+US,"30 Inf Div",30,2/117,5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1571,2839
+US,"30 Inf Div",30,2/119,5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1572,2840
+US,"30 Inf Div",30,2/120,5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1573,2841
+US,"30 Inf Div",30,3/117,5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1574,2842
+US,"30 Inf Div",30,3/119,5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1575,2843
+US,"30 Inf Div",30,3/120,5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1576,2844
+US,"30 Inf Div",30,,0,1,8,1,,,,,,,co,inf,mot,rcce,"mot rcce inf co",,1577,
+US,"30 Inf Div",30,,,2,8,1,,,,,,,div,inf,mot,hq,"mot div HQ",,1578,
+US,"35 Inf Div",35,161,4,1,8,1,7,,,,,,bn,arty,mot,,"mot arty bn 155 12",,1579,
+US,"35 Inf Div",35,,9,3,8,3,6,,,,,,bde,arty,mot,,"mot arty bde 105 36",,1580,
+US,"35 Inf Div",35,1/134,5,5,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1581,2845
+US,"35 Inf Div",35,1/137,5,5,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1582,2846
+US,"35 Inf Div",35,1/320,5,5,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1583,2847
+US,"35 Inf Div",35,2/134,5,5,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1584,2848
+US,"35 Inf Div",35,2/137,5,5,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1585,2849
+US,"35 Inf Div",35,2/320,5,5,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1586,2850
+US,"35 Inf Div",35,3/134,5,5,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1587,2851
+US,"35 Inf Div",35,3/137,5,5,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1588,2852
+US,"35 Inf Div",35,3/320,5,5,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1589,2853
+US,"35 Inf Div",35,,0,1,8,1,,,,,,,co,inf,mot,rcce,"mot rcce inf co",,1590,
+US,"35 Inf Div",35,,,2,8,1,,,,,,,div,inf,mot,hq,"mot div HQ",,1591,
+US,"3 Arm Div",3,83,3,4,8,3,,1,2,8,3,,bn,ac,mot,rcce,"mot rcce ac bn",,1592,2854
+US,"3 Arm Div",3,391,3,2,6,1,6,,,,,,bn,arty,sp,,"sp arty bn 105 12 M7",,1593,
+US,"3 Arm Div",3,54,3,2,6,1,6,,,,,,bn,arty,sp,,"sp arty bn 105 12 M7",,1594,
+US,"3 Arm Div",3,67,3,2,6,1,6,,,,,,bn,arty,sp,,"sp arty bn 105 12 M7",,1595,
+US,"3 Arm Div",3,1/36,8,8,6,3,,4,4,6,3,,bn,inf,ht,,"ht inf bn",,1596,2855
+US,"3 Arm Div",3,2/36,8,8,6,3,,4,4,6,3,,bn,inf,ht,,"ht inf bn",,1597,2856
+US,"3 Arm Div",3,3/36,8,8,6,3,,4,4,6,3,,bn,inf,ht,,"ht inf bn","no div as printed",1599,2857
+US,"3 Arm Div",3,1/32,6,7,6,2,,3,4,6,2,,bn,pz,,,"pz bn M4 53",,1600,2858
+US,"3 Arm Div",3,1/33,6,7,6,2,,3,4,6,2,,bn,pz,,,"pz bn M4 53",,1601,2859
+US,"3 Arm Div",3,2/32,6,7,6,2,,3,4,6,2,,bn,pz,,,"pz bn M4 53",,1602,2860
+US,"3 Arm Div",3,2/33,6,7,6,2,,3,4,6,2,,bn,pz,,,"pz bn M4 53",,1603,2861
+US,"3 Arm Div",3,3/32,6,7,6,2,,3,4,6,2,,bn,pz,,,"pz bn M4 53",,1604,2862
+US,"3 Arm Div",3,3/33,6,7,6,2,,3,4,6,2,,bn,pz,,,"pz bn M4 53",,1605,2863
+US,"3 Arm Div",3,,,3,6,1,,,,,,,div,pz,,hq,"pz div HQ",,1606,
+US,"45 Inf Div",45,160,4,1,8,1,7,,,,,,bn,arty,mot,,"mot arty bn 155 12",,1607,
+US,"45 Inf Div",45,,9,3,8,3,6,,,,,,bde,arty,mot,,"mot arty bde 105 36",,1608,
+US,"45 Inf Div",45,1/157,5,6,8,3,,3,3,8,3,,bn,inf,mot,,"mot inf bn",,1609,2864
+US,"45 Inf Div",45,1/179,5,6,8,3,,3,3,8,3,,bn,inf,mot,,"mot inf bn",,1610,2865
+US,"45 Inf Div",45,1/180,5,6,8,3,,3,3,8,3,,bn,inf,mot,,"mot inf bn",,1611,2866
+US,"45 Inf Div",45,2/157,5,6,8,3,,3,3,8,3,,bn,inf,mot,,"mot inf bn",,1612,2867
+US,"45 Inf Div",45,2/179,5,6,8,3,,3,3,8,3,,bn,inf,mot,,"mot inf bn",,1613,2868
+US,"45 Inf Div",45,2/180,5,6,8,3,,3,3,8,3,,bn,inf,mot,,"mot inf bn",,1614,2869
+US,"45 Inf Div",45,3/157,5,6,8,3,,3,3,8,3,,bn,inf,mot,,"mot inf bn",,1615,2870
+US,"45 Inf Div",45,3/179,5,6,8,3,,3,3,8,3,,bn,inf,mot,,"mot inf bn",,1616,2871
+US,"45 Inf Div",45,3/180,5,6,8,3,,3,3,8,3,,bn,inf,mot,,"mot inf bn",,1617,2872
+US,"45 Inf Div",45,,0,1,8,1,,,,,,,co,inf,mot,rcce,"mot rcce inf co",,1618,
+US,"45 Inf Div",45,,,2,8,1,,,,,,,div,inf,mot,hq,"mot div HQ",,1619,
+US,"4 Arm Div",4,25,3,4,8,3,,1,2,8,3,,bn,ac,mot,rcce,"mot rcce ac bn",,1620,2873
+US,"4 Arm Div",4,22,3,2,6,1,6,,,,,,bn,arty,sp,,"sp arty bn 105 12 M7",,1621,
+US,"4 Arm Div",4,60,3,2,6,1,6,,,,,,bn,arty,sp,,"sp arty bn 105 12 M7",,1622,
+US,"4 Arm Div",4,94,3,2,6,1,6,,,,,,bn,arty,sp,,"sp arty bn 105 12 M7",,1623,
+US,"4 Arm Div",4,10,8,8,6,3,,4,4,6,3,,bn,inf,ht,,"ht inf bn",,1624,2874
+US,"4 Arm Div",4,51,8,8,6,3,,4,4,6,3,,bn,inf,ht,,"ht inf bn",,1625,2875
+US,"4 Arm Div",4,53,8,8,6,3,,4,4,6,3,,bn,inf,ht,,"ht inf bn",,1626,2876
+US,"4 Arm Div",4,35,6,7,6,2,,3,4,6,2,,bn,pz,,,"pz bn M4 53",,1627,2877
+US,"4 Arm Div",4,37,6,7,6,2,,3,4,6,2,,bn,pz,,,"pz bn M4 53",,1628,2878
+US,"4 Arm Div",4,8,6,7,6,2,,3,4,6,2,,bn,pz,,,"pz bn M4 53",,1629,2879
+US,"4 Arm Div",4,,,3,6,1,,,,,,,div,pz,,hq,"pz div HQ",,1630,
+US,"4 Inf Div",4,20,4,1,8,1,7,,,,,,bn,arty,mot,,"mot arty bn 155 12",,1631,
+US,"4 Inf Div",4,,9,3,8,3,6,,,,,,bde,arty,mot,,"mot arty bde 105 36",,1632,
+US,"4 Inf Div",4,1/12,5,5,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1633,2880
+US,"4 Inf Div",4,1/22,5,5,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1634,2881
+US,"4 Inf Div",4,1/8,5,5,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1635,2882
+US,"4 Inf Div",4,2/12,5,5,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1636,2883
+US,"4 Inf Div",4,2/22,5,5,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1637,2884
+US,"4 Inf Div",4,2/8,5,5,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1638,2885
+US,"4 Inf Div",4,3/12,5,5,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1639,2886
+US,"4 Inf Div",4,3/22,5,5,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1640,2887
+US,"4 Inf Div",4,3/8,5,5,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1641,2888
+US,"4 Inf Div",4,,0,1,8,1,,,,,,,co,inf,mot,rcce,"mot rcce inf co",,1642,
+US,"4 Inf Div",4,,,2,8,1,,,,,,,div,inf,mot,hq,"mot div HQ",,1643,
+US,"5 Arm Div",5,85,3,4,8,3,,1,2,8,3,,bn,ac,mot,rcce,"mot rcce ac bn",,1644,2889
+US,"5 Arm Div",5,47,3,2,6,1,6,,,,,,bn,arty,sp,,"sp arty bn 105 12 M7",,1645,
+US,"5 Arm Div",5,71,3,2,6,1,6,,,,,,bn,arty,sp,,"sp arty bn 105 12 M7",,1646,
+US,"5 Arm Div",5,95,3,2,6,1,6,,,,,,bn,arty,sp,,"sp arty bn 105 12 M7",,1647,
+US,"5 Arm Div",5,15,8,8,6,3,,4,4,6,3,,bn,inf,ht,,"ht inf bn",,1648,2890
+US,"5 Arm Div",5,46,8,8,6,3,,4,4,6,3,,bn,inf,ht,,"ht inf bn",,1649,2891
+US,"5 Arm Div",5,47,8,8,6,3,,4,4,6,3,,bn,inf,ht,,"ht inf bn",,1650,2892
+US,"5 Arm Div",5,10,6,7,6,2,,3,4,6,2,,bn,pz,,,"pz bn M4 53",,1651,2893
+US,"5 Arm Div",5,34,6,7,6,2,,3,4,6,2,,bn,pz,,,"pz bn M4 53",,1652,2894
+US,"5 Arm Div",5,81,6,7,6,2,,3,4,6,2,,bn,pz,,,"pz bn M4 53",,1653,2895
+US,"5 Arm Div",5,,,3,6,1,,,,,,,div,pz,,hq,"pz div HQ",,1654,
+US,"5 Inf Div",5,19,4,1,8,1,7,,,,,,bn,arty,mot,,"mot arty bn 155 12",,1655,
+US,"5 Inf Div",5,,9,3,8,3,6,,,,,,bde,arty,mot,,"mot arty bde 105 36",,1656,
+US,"5 Inf Div",5,1/10,5,5,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1657,2896
+US,"5 Inf Div",5,1/11,5,5,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1658,2897
+US,"5 Inf Div",5,1/2,5,5,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1659,2898
+US,"5 Inf Div",5,2/10,5,5,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1660,2899
+US,"5 Inf Div",5,2/11,5,5,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1661,2900
+US,"5 Inf Div",5,2/2,5,5,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1662,2901
+US,"5 Inf Div",5,3/10,5,5,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1663,2902
+US,"5 Inf Div",5,3/11,5,5,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1664,2903
+US,"5 Inf Div",5,3/2,5,5,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1665,2904
+US,"5 Inf Div",5,,0,1,8,1,,,,,,,co,inf,mot,rcce,"mot rcce inf co",,1666,
+US,"5 Inf Div",5,,,2,8,1,,,,,,,div,inf,mot,hq,"mot div HQ",,1667,
+US,"6 Arm Div",6,86,3,4,8,3,,1,2,8,3,,bn,ac,mot,rcce,"mot rcce ac bn",,1668,2905
+US,"6 Arm Div",6,128,3,2,6,1,6,,,,,,bn,arty,sp,,"sp arty bn 105 12 M7",,1669,
+US,"6 Arm Div",6,212,3,2,6,1,6,,,,,,bn,arty,sp,,"sp arty bn 105 12 M7",,1670,
+US,"6 Arm Div",6,231,3,2,6,1,6,,,,,,bn,arty,sp,,"sp arty bn 105 12 M7",,1671,
+US,"6 Arm Div",6,44,8,8,6,3,,4,4,6,3,,bn,inf,ht,,"ht inf bn",,1672,2906
+US,"6 Arm Div",6,50,8,8,6,3,,4,4,6,3,,bn,inf,ht,,"ht inf bn",,1673,2907
+US,"6 Arm Div",6,9,8,8,6,3,,4,4,6,3,,bn,inf,ht,,"ht inf bn",,1674,2908
+US,"6 Arm Div",6,15,6,7,6,2,,3,4,6,2,,bn,pz,,,"pz bn M4 53",,1675,2909
+US,"6 Arm Div",6,68,6,7,6,2,,3,4,6,2,,bn,pz,,,"pz bn M4 53",,1676,2910
+US,"6 Arm Div",6,69,6,7,6,2,,3,4,6,2,,bn,pz,,,"pz bn M4 53",,1677,2911
+US,"6 Arm Div",6,,,3,6,1,,,,,,,div,pz,,hq,"pz div HQ",,1678,
+US,"79 Inf Div",79,310,4,1,8,1,7,,,,,,bn,arty,mot,,"mot arty bn 155 12",,1679,
+US,"79 Inf Div",79,,9,3,8,3,6,,,,,,bde,arty,mot,,"mot arty bde 105 36",,1680,
+US,"79 Inf Div",79,1/313,5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1681,2912
+US,"79 Inf Div",79,1/314,5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1682,2913
+US,"79 Inf Div",79,1/315,5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1683,2914
+US,"79 Inf Div",79,2/313,5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1684,2915
+US,"79 Inf Div",79,2/314,5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1685,2916
+US,"79 Inf Div",79,2/315,5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1686,2917
+US,"79 Inf Div",79,3/313,5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1687,2918
+US,"79 Inf Div",79,3/314,5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1688,2919
+US,"79 Inf Div",79,3/315,5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1689,2920
+US,"79 Inf Div",79,,0,1,8,1,,,,,,,co,inf,mot,rcce,"mot rcce inf co",,1690,
+US,"79 Inf Div",79,,,2,8,1,,,,,,,div,inf,mot,hq,"mot div HQ",,1691,
+US,"7 Arm Div",7,87,3,4,8,3,,1,2,8,3,,bn,ac,mot,rcce,"mot rcce ac bn",,1692,2921
+US,"7 Arm Div",7,434,3,2,6,1,6,,,,,,bn,arty,sp,,"sp arty bn 105 12 M7",,1693,
+US,"7 Arm Div",7,440,3,2,6,1,6,,,,,,bn,arty,sp,,"sp arty bn 105 12 M7",,1694,
+US,"7 Arm Div",7,489,3,2,6,1,6,,,,,,bn,arty,sp,,"sp arty bn 105 12 M7",,1695,
+US,"7 Arm Div",7,23,8,8,6,3,,4,4,6,3,,bn,inf,ht,,"ht inf bn",,1696,2922
+US,"7 Arm Div",7,38,8,8,6,3,,4,4,6,3,,bn,inf,ht,,"ht inf bn",,1697,2923
+US,"7 Arm Div",7,48,8,8,6,3,,4,4,6,3,,bn,inf,ht,,"ht inf bn",,1698,2924
+US,"7 Arm Div",7,17,6,7,6,2,,3,4,6,2,,bn,pz,,,"pz bn M4 53",,1699,2925
+US,"7 Arm Div",7,31,6,7,6,2,,3,4,6,2,,bn,pz,,,"pz bn M4 53",,1700,2926
+US,"7 Arm Div",7,40,6,7,6,2,,3,4,6,2,,bn,pz,,,"pz bn M4 53",,1701,2927
+US,"7 Arm Div",7,,,3,6,1,,,,,,,div,pz,,hq,"pz div HQ",,1702,
+US,"80 Inf Div",80,905,4,1,8,1,7,,,,,,bn,arty,mot,,"mot arty bn 155 12",,1703,
+US,"80 Inf Div",80,,9,3,8,3,6,,,,,,bde,arty,mot,,"mot arty bde 105 36",,1704,
+US,"80 Inf Div",80,1/317,5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1705,2928
+US,"80 Inf Div",80,1/318,5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1706,2929
+US,"80 Inf Div",80,1/319,5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1707,2930
+US,"80 Inf Div",80,2/317,5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1708,2931
+US,"80 Inf Div",80,2/318,5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1709,2932
+US,"80 Inf Div",80,2/319,5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1710,2933
+US,"80 Inf Div",80,3/317,5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1711,2934
+US,"80 Inf Div",80,3/318,5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1712,2935
+US,"80 Inf Div",80,3/319,5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1713,2936
+US,"80 Inf Div",80,,0,1,8,1,,,,,,,co,inf,mot,rcce,"mot rcce inf co",,1714,
+US,"80 Inf Div",80,,,2,8,1,,,,,,,div,inf,mot,hq,"mot div HQ",,1715,
+US,"82 Abn Div",82,319,3,1,8,1,6,,,,,,bn,arty,,gl,"gl arty bn 105 12",,1716,
+US,"82 Abn Div",82,320,3,1,8,1,6,,,,,,bn,arty,,gl,"gl arty bn 105 12",,1717,
+US,"82 Abn Div",82,456,2,1,8,1,4,,,,,,bn,arty,,gl,"gl arty bn 75p 12",,1718,
+US,"82 Abn Div",82,A/80,1,1,8,1,1,,,,,,bty,at,mot,gl,"gl mot at bty 57 12",,1719,
+US,"82 Abn Div",82,B/80,1,1,8,1,1,,,,,,bty,at,mot,gl,"gl mot at bty 57 12",,1720,
+US,"82 Abn Div",82,C/80,1,1,8,1,1,,,,,,bty,at,mot,gl,"gl mot at bty 57 12",,1721,
+US,"82 Abn Div",82,1/325,3,5,4,2,,1,3,4,2,,bn,inf,,gl,"gl inf bn",,1722,2937
+US,"82 Abn Div",82,1/505,3,5,4,2,,1,3,4,2,,bn,inf,,para,"para inf bn",,1723,2938
+US,"82 Abn Div",82,1/507,3,5,4,2,,1,3,4,2,,bn,inf,,para,"para inf bn",,1724,2939
+US,"82 Abn Div",82,1/508,3,5,4,2,,1,3,4,2,,bn,inf,,para,"para inf bn",,1725,2940
+US,"82 Abn Div",82,2/325,3,5,4,2,,1,3,4,2,,bn,inf,,gl,"gl inf bn",,1726,2941
+US,"82 Abn Div",82,2/505,3,5,4,2,,1,3,4,2,,bn,inf,,para,"para inf bn",,1727,2942
+US,"82 Abn Div",82,2/507,3,5,4,2,,1,3,4,2,,bn,inf,,para,"para inf bn",,1728,2943
+US,"82 Abn Div",82,2/508,3,5,4,2,,1,3,4,2,,bn,inf,,para,"para inf bn",,1729,2944
+US,"82 Abn Div",82,3/325,3,5,4,2,,1,3,4,2,,bn,inf,,gl,"gl inf bn",,1730,2945
+US,"82 Abn Div",82,3/505,3,5,4,2,,1,3,4,2,,bn,inf,,para,"para inf bn",,1731,2946
+US,"82 Abn Div",82,3/507,3,5,4,2,,1,3,4,2,,bn,inf,,para,"para inf bn",,1732,2947
+US,"82 Abn Div",82,3/508,3,5,4,2,,1,3,4,2,,bn,inf,,para,"para inf bn",,1733,2948
+US,"82 Abn Div",82,,,1,4,1,,,,,,,div,inf,,"hq para","para div HQ",,1734,
+US,"83 Inf Div",83,322,4,1,8,1,7,,,,,,bn,arty,mot,,"mot arty bn 155 12",,1735,
+US,"83 Inf Div",83,,9,3,8,3,6,,,,,,bde,arty,mot,,"mot arty bde 105 36",,1736,
+US,"83 Inf Div",83,1/329,5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1737,2949
+US,"83 Inf Div",83,1/330,5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1738,2950
+US,"83 Inf Div",83,1/331,5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1739,2951
+US,"83 Inf Div",83,2/329,5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1740,2952
+US,"83 Inf Div",83,2/330,5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1741,2953
+US,"83 Inf Div",83,2/331,5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1742,2954
+US,"83 Inf Div",83,3/329,5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1743,2955
+US,"83 Inf Div",83,3/330,5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1744,2956
+US,"83 Inf Div",83,3/331,5,6,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1745,2957
+US,"83 Inf Div",83,,0,1,8,1,,,,,,,co,inf,mot,rcce,"mot rcce inf co",,1746,
+US,"83 Inf Div",83,,,2,8,1,,,,,,,div,inf,mot,hq,"mot div HQ",,1747,
+US,"8 Inf Div",8,28,4,1,8,1,7,,,,,,bn,arty,mot,,"mot arty bn 155 12",,1748,
+US,"8 Inf Div",8,,9,3,8,3,6,,,,,,bde,arty,mot,,"mot arty bde 105 36",,1749,
+US,"8 Inf Div",8,1/121,5,5,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1750,2958
+US,"8 Inf Div",8,1/13,5,5,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1751,2959
+US,"8 Inf Div",8,1/28,5,5,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1752,2960
+US,"8 Inf Div",8,2/121,5,5,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1753,2961
+US,"8 Inf Div",8,2/13,5,5,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1754,2962
+US,"8 Inf Div",8,2/28,5,5,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1755,2963
+US,"8 Inf Div",8,3/121,5,5,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1756,2964
+US,"8 Inf Div",8,3/13,5,5,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1757,2965
+US,"8 Inf Div",8,3/28,5,5,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1758,2966
+US,"8 Inf Div",8,,0,1,8,1,,,,,,,co,inf,mot,rcce,"mot rcce inf co",,1759,
+US,"8 Inf Div",8,,,2,8,1,,,,,,,div,inf,mot,hq,"mot div HQ",,1760,
+US,"90 Inf Div",90,345,4,1,8,1,7,,,,,,bn,arty,mot,,"mot arty bn 155 12",,1761,
+US,"90 Inf Div",90,,9,3,8,3,6,,,,,,bde,arty,mot,,"mot arty bde 105 36",,1762,
+US,"90 Inf Div",90,1/357,4,5,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1763,2967
+US,"90 Inf Div",90,1/358,4,5,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1764,2968
+US,"90 Inf Div",90,1/359,4,5,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1765,2969
+US,"90 Inf Div",90,2/357,4,5,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1766,2970
+US,"90 Inf Div",90,2/358,4,5,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1767,2971
+US,"90 Inf Div",90,2/359,4,5,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1768,2972
+US,"90 Inf Div",90,3/357,4,5,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1769,2973
+US,"90 Inf Div",90,3/358,4,5,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1770,2974
+US,"90 Inf Div",90,3/359,4,5,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1771,2975
+US,"90 Inf Div",90,,0,1,8,1,,,,,,,co,inf,mot,rcce,"mot rcce inf co",,1772,
+US,"90 Inf Div",90,,,2,8,1,,,,,,,div,inf,mot,hq,"mot div HQ",,1773,
+US,"9 Inf Div",9,26,4,1,8,1,7,,,,,,bn,arty,mot,,"mot arty bn 155 12",,1774,
+US,"9 Inf Div",9,,9,3,8,3,6,,,,,,bde,arty,mot,,"mot arty bde 105 36",,1775,
+US,"9 Inf Div",9,1/39,5,6,8,3,,3,3,8,3,,bn,inf,mot,,"mot inf bn",,1776,2976
+US,"9 Inf Div",9,1/47,5,6,8,3,,3,3,8,3,,bn,inf,mot,,"mot inf bn",,1777,2977
+US,"9 Inf Div",9,1/60,5,6,8,3,,3,3,8,3,,bn,inf,mot,,"mot inf bn",,1778,2978
+US,"9 Inf Div",9,2/39,5,6,8,3,,3,3,8,3,,bn,inf,mot,,"mot inf bn",,1779,2979
+US,"9 Inf Div",9,2/47,5,6,8,3,,3,3,8,3,,bn,inf,mot,,"mot inf bn",,1780,2980
+US,"9 Inf Div",9,2/60,5,6,8,3,,3,3,8,3,,bn,inf,mot,,"mot inf bn",,1781,2981
+US,"9 Inf Div",9,3/39,5,6,8,3,,3,3,8,3,,bn,inf,mot,,"mot inf bn",,1782,2982
+US,"9 Inf Div",9,3/47,5,6,8,3,,3,3,8,3,,bn,inf,mot,,"mot inf bn",,1783,2983
+US,"9 Inf Div",9,3/60,5,6,8,3,,3,3,8,3,,bn,inf,mot,,"mot inf bn",,1784,2984
+US,"9 Inf Div",9,,0,1,8,1,,,,,,,co,inf,mot,rcce,"mot rcce inf co",,1785,
+US,"9 Inf Div",9,,,2,8,1,,,,,,,div,inf,mot,hq,"mot div HQ",,1786,
+US,Air,FB,354,,,,,,,,,,,,air,,p51,P51,,1787,
+US,Air,FB,358,,,,,,,,,,,,air,,p51,P51,,1788,
+US,Air,FB,36,,,,,,,,,,,,air,,p47,P47,,1789,
+US,Air,FB,362,,,,,,,,,,,,air,,p47,P47,,1790,
+US,Air,FB,363,,,,,,,,,,,,air,,p51,P51,,1791,
+US,Air,FB,365,,,,,,,,,,,,air,,p47,P47,,1792,
+US,Air,FB,366,,,,,,,,,,,,air,,p47,P47,,1793,
+US,Air,FB,367,,,,,,,,,,,,air,,p38,P38,,1794,
+US,Air,FB,368,,,,,,,,,,,,air,,p38,P38,,1795,
+US,Air,FB,370,,,,,,,,,,,,air,,p38,P38,,1796,
+US,Air,FB,371,,,,,,,,,,,,air,,p47,P47,,1797,
+US,Air,FB,373,,,,,,,,,,,,air,,p47,P47,,1798,
+US,Air,FB,404,,,,,,,,,,,,air,,p47,P47,,1799,
+US,Air,FB,405,,,,,,,,,,,,air,,p47,P47,,1800,
+US,Air,FB,406,,,,,,,,,,,,air,,p47,P47,,1801,
+US,Air,FB,474,,,,,,,,,,,,air,,p38,P38,,1802,
+US,Air,FB,48,,,,,,,,,,,,air,,p47,P47,,1803,
+US,Air,FB,50,,,,,,,,,,,,air,,p47,P47,,1804,
+US,Air,HB,HB-1,,,,,,,,,,,,air,,b17,B17,,1805,
+US,Air,HB,HB-2,,,,,,,,,,,,air,,b17,B17,,1806,
+US,Air,HB,HB-3,,,,,,,,,,,,air,,b17,B17,,1807,
+US,Air,HB,HB-4,,,,,,,,,,,,air,,b17,B17,,1808,
+US,Air,HB,HB-5,,,,,,,,,,,,air,,b24,B24,,1809,
+US,Air,HB,HB-6,,,,,,,,,,,,air,,b24,B24,,1810,
+US,Air,,,,,,,,,,,,,,2mp,,,,,1811,
+US,Air,LB-1,409,,,,,,,,,,,,air,,a20,A20,,1812,
+US,Air,LB-1,410,,,,,,,,,,,,air,,a20,A20,,1813,
+US,Air,LB-1,416,,,,,,,,,,,,air,,a20,A20,,1814,
+US,Air,MB-2,322,,,,,,,,,,,,air,,b26,B26,,1815,
+US,Air,MB-2,323,,,,,,,,,,,,air,,b26,B26,,1816,
+US,Air,MB-2,344,,,,,,,,,,,,air,,b26,B26,,1817,
+US,Air,MB-2,386,,,,,,,,,,,,air,,b26,B26,,1818,
+US,Air,MB-2,387,,,,,,,,,,,,air,,b26,B26,,1819,
+US,Air,MB-2,391,,,,,,,,,,,,air,,b26,B26,,1820,
+US,Air,MB-2,394,,,,,,,,,,,,air,,b26,B26,,1821,
+US,Air,MB-2,397,,,,,,,,,,,,air,,b26,B26,,1822,
+US,Air,,"INTERDICT 1",,,,,,,,,,,,int,,,,,1823,
+US,Air,,"INTERDICT 2",,,,,,,,,,,,int,,,,,1824,
+US,Air,,"INTERDICT 3",,,,,,,,,,,,int,,,,,1825,
+US,Air,,"INTERDICT 4",,,,,,,,,,,,int,,,,,1826,
+US,Air,,"INTERDICT 5",,,,,,,,,,,,int,,,,,1827,
+US,Air,,"INTERDICT 6",,,,,,,,,,,,int,,,,,1828,
+US,Air,,"INTERDICT 7",,,,,,,,,,,,int,,,,,1829,
+US,Air,,"INTERDICT 8",,,,,,,,,,,,int,,,,,1830,
+US,Corps,V,,,1,8,1,,,,,,,cp,inf,,hq,"corps HQ",,1831,
+US,Corps,VII,,,1,8,1,,,,,,,cp,inf,,hq,"corps HQ",,1832,
+US,Corps,VIII,,,1,8,1,,,,,,,cp,inf,,hq,"corps HQ",,1833,
+US,Corps,XII,,,1,8,1,,,,,,,cp,inf,,hq,"corps HQ",,1834,
+US,Corps,XIX,,,1,8,1,,,,,,,cp,inf,,hq,"corps HQ",,1835,
+US,Corps,XV,,,1,8,1,,,,,,,cp,inf,,hq,"corps HQ",,1836,
+US,Corps,XX,,,1,8,1,,,,,,,cp,inf,,hq,"corps HQ",,1837,
+US,"Ind Arm",,70,6,7,6,2,,3,4,6,2,,bn,pz,,dd,"pz bn DD 53",,1838,2985
+US,"Ind Arm",,701,6,7,6,2,,3,4,6,2,,bn,pz,,,"pz bn M4 53",,1839,2986
+US,"Ind Arm",,702,6,7,6,2,,3,4,6,2,,bn,pz,,,"pz bn M4 53",,1840,2987
+US,"Ind Arm",,707,6,7,6,2,,3,4,6,2,,bn,pz,,,"pz bn M4 53",,1841,2988
+US,"Ind Arm",,709,6,7,6,2,,3,4,6,2,,bn,pz,,,"pz bn M4 53",,1842,2989
+US,"Ind Arm",,712,6,7,6,2,,3,4,6,2,,bn,pz,,,"pz bn M4 53",,1843,2990
+US,"Ind Arm",,735,6,7,6,2,,3,4,6,2,,bn,pz,,,"pz bn M4 53",,1844,2991
+US,"Ind Arm",,736,6,7,6,2,,3,4,6,2,,bn,pz,,,"pz bn M4 53",,1845,2992
+US,"Ind Arm",,737,6,7,6,2,,3,4,6,2,,bn,pz,,,"pz bn M4 53",,1846,2993
+US,"Ind Arm",,741,6,7,6,2,,3,4,6,2,,bn,pz,,dd,"pz bn DD 53",,1847,2994
+US,"Ind Arm",,743,6,7,6,2,,3,4,6,2,,bn,pz,,dd,"pz bn DD 53",,1848,2995
+US,"Ind Arm",,"744 LT",3,4,8,2,,2,3,8,2,,bn,pz,,,"pz bn 53","no type",1849,2996
+US,"Ind Arm",,745,6,7,6,2,,3,4,6,2,,bn,pz,,,"pz bn M4 53",,1850,2997
+US,"Ind Arm",,746,6,7,6,2,,3,4,6,2,,bn,pz,,,"pz bn M4 53",,1851,2998
+US,"Ind Arm",,747,6,7,6,2,,3,4,6,2,,bn,pz,,,"pz bn M4 53",,1852,2999
+US,"Ind Arm",,748,6,7,6,2,,3,4,6,2,,bn,pz,,,"pz bn M4 53",,1853,3000
+US,"Ind Arm",,749,6,7,6,2,,3,4,6,2,,bn,pz,,,"pz bn M4 53",,1854,3001
+US,"Ind Arm",,"759 LT",3,4,8,2,,2,3,8,2,,bn,pz,,,"pz bn 53","no type",1855,3002
+US,"Ind Arm",,761,6,7,6,2,,3,4,6,2,,bn,pz,,,"pz bn M4 53",,1856,3003
+US,"Ind Arm",,774,6,7,6,2,,3,4,6,2,,bn,pz,,,"pz bn M4 53",,1857,3004
+US,"Ind Arty",,253,3,2,6,1,6,,,,,,bn,arty,sp,,"sp arty bn 105 12",,1858,
+US,"Ind Arty",,275,3,2,6,1,6,,,,,,bn,arty,sp,,"sp arty bn 105 12",,1859,
+US,"Ind Arty",,400,3,2,6,1,6,,,,,,bn,arty,sp,,"sp arty bn 105 12",,1860,
+US,"Ind Arty",,58,3,2,6,1,6,,,,,,bn,arty,sp,,"sp arty bn 105 12",,1861,
+US,"Ind Arty",,62,3,2,6,1,6,,,,,,bn,arty,sp,,"sp arty bn 105 12",,1862,
+US,"Ind Arty",,65,3,2,6,1,6,,,,,,bn,arty,sp,,"sp arty bn 105 12",,1863,
+US,"Ind Arty",,695,3,2,6,1,6,,,,,,bn,arty,sp,,"sp arty bn 105 12",,1864,
+US,"Ind Arty",,696,3,2,6,1,6,,,,,,bn,arty,sp,,"sp arty bn 105 12",,1865,
+US,"Ind Arty",,83,3,2,6,1,6,,,,,,bn,arty,sp,,"sp arty bn 105 12",,1866,
+US,"Ind Arty",,87,3,2,6,1,6,,,,,,bn,arty,sp,,"sp arty bn 105 12",,1867,
+US,"Ind Arty",,174,3,2,6,1,9,,,,,,bn,arty,sp,,"sp arty bn 155G 12",,1868,
+US,"Ind Arty",,258,3,2,6,1,9,,,,,,bn,arty,sp,,"sp arty bn 155G 12",,1869,
+US,"Ind Arty",,557,3,2,6,1,9,,,,,,bn,arty,sp,,"sp arty bn 155G 12",,1870,
+US,"Ind Arty",,987,3,2,6,1,9,,,,,,bn,arty,sp,,"sp arty bn 155G 12",,1871,
+US,"Ind Arty",,991,3,2,6,1,9,,,,,,bn,arty,sp,,"sp arty bn 155G 12",,1872,
+US,"Ind Arty",,119,9,3,8,3,6,,,,,,bde,arty,mot,,"mot arty bde 105 36",,1873,
+US,"Ind Arty",,142,9,3,8,3,6,,,,,,bde,arty,mot,,"mot arty bde 105 36",,1874,
+US,"Ind Arty",,144,9,3,8,3,6,,,,,,bde,arty,mot,,"mot arty bde 105 36",,1875,
+US,"Ind Arty",,173,9,3,8,3,6,,,,,,bde,arty,mot,,"mot arty bde 105 36",,1876,
+US,"Ind Arty",,18,9,3,8,3,6,,,,,,bde,arty,mot,,"mot arty bde 105 36",,1877,
+US,"Ind Arty",,40,9,3,8,3,6,,,,,,bde,arty,mot,,"mot arty bde 105 36",,1878,
+US,"Ind Arty",,5,9,3,8,3,6,,,,,,bde,arty,mot,,"mot arty bde 105 36",,1879,
+US,"Ind Arty",,79,9,3,8,3,6,,,,,,bde,arty,mot,,"mot arty bde 105 36",,1880,
+US,"Ind Arty",,195,9,3,8,3,9,,,,,,bde,arty,mot,,"mot arty bde 155G 36",,1881,
+US,"Ind Arty",,196,9,3,8,3,9,,,,,,bde,arty,mot,,"mot arty bde 155G 36",,1882,
+US,"Ind Arty",,202,9,3,8,3,9,,,,,,bde,arty,mot,,"mot arty bde 155G 36",,1883,
+US,"Ind Arty",,203,9,3,8,3,9,,,,,,bde,arty,mot,,"mot arty bde 155G 36",,1884,
+US,"Ind Arty",,204,9,3,8,3,9,,,,,,bde,arty,mot,,"mot arty bde 155G 36",,1885,
+US,"Ind Arty",,208,9,3,8,3,9,,,,,,bde,arty,mot,,"mot arty bde 155G 36",,1886,
+US,"Ind Arty",,174,12,3,8,3,7,,,,,,bde,arty,mot,,"mot arty bde 155 36",,1887,
+US,"Ind Arty",,177,12,3,8,3,7,,,,,,bde,arty,mot,,"mot arty bde 155 36",,1888,
+US,"Ind Arty",,179,12,3,8,3,7,,,,,,bde,arty,mot,,"mot arty bde 155 36",,1889,
+US,"Ind Arty",,182,12,3,8,3,7,,,,,,bde,arty,mot,,"mot arty bde 155 36",,1890,
+US,"Ind Arty",,183,12,3,8,3,7,,,,,,bde,arty,mot,,"mot arty bde 155 36",,1891,
+US,"Ind Arty",,187,12,3,8,3,7,,,,,,bde,arty,mot,,"mot arty bde 155 36",,1892,
+US,"Ind Arty",,188,12,3,8,3,7,,,,,,bde,arty,mot,,"mot arty bde 155 36",,1893,
+US,"Ind Arty",,190,12,3,8,3,7,,,,,,bde,arty,mot,,"mot arty bde 155 36",,1894,
+US,"Ind Arty",,193,12,3,8,3,7,,,,,,bde,arty,mot,,"mot arty bde 155 36",,1895,
+US,"Ind Arty",,258,12,3,8,3,7,,,,,,bde,arty,mot,,"mot arty bde 155 36",,1896,
+US,"Ind Arty",,402,12,3,8,3,7,,,,,,bde,arty,mot,,"mot arty bde 155 36",,1897,
+US,"Ind Arty",,58,12,3,8,3,7,,,,,,bde,arty,mot,,"mot arty bde 155 36",,1898,
+US,"Ind Arty",,228,12,3,8,3,12,,,,,,bde,arty,mot,,"mot arty bde 4.5""G 36",,1899,
+US,"Ind Arty",,258,12,3,8,3,12,,,,,,bde,arty,mot,,"mot arty bde 4.5""G 36",,1900,
+US,"Ind Arty",,401,12,3,8,3,12,,,,,,bde,arty,mot,,"mot arty bde 4.5""G 36",,1901,
+US,"Ind Arty",,402,12,3,8,3,12,,,,,,bde,arty,mot,,"mot arty bde 4.5""G 36",,1902,
+US,"Ind Arty",,607,4,2,8,3,1,2,1,8,3,1,bn,at,mot,,"mot at bn 3"" 36",,1903,3005
+US,"Ind Arty",,610,4,2,8,3,1,2,1,8,3,1,bn,at,mot,,"mot at bn 3"" 36",,1904,3006
+US,"Ind Arty",,612,4,2,8,3,1,2,1,8,3,1,bn,at,mot,,"mot at bn 3"" 36",,1905,3007
+US,"Ind Arty",,630,4,2,8,3,1,2,1,8,3,1,bn,at,mot,,"mot at bn 3"" 36",,1906,3008
+US,"Ind Arty",,631,4,2,8,3,1,2,1,8,3,1,bn,at,mot,,"mot at bn 3"" 36",,1907,3009
+US,"Ind Arty",,635,4,2,8,3,1,2,1,8,3,1,bn,at,mot,,"mot at bn 3"" 36",,1908,3010
+US,"Ind Arty",,638,4,2,8,3,1,2,1,8,3,1,bn,at,mot,,"mot at bn 3"" 36",,1909,3011
+US,"Ind Arty",,691,4,2,8,3,1,2,1,8,3,1,bn,at,mot,,"mot at bn 3"" 36",,1910,3012
+US,"Ind Arty",,801,4,2,8,3,1,2,1,8,3,1,bn,at,mot,,"mot at bn 3"" 36",,1911,3013
+US,"Ind Arty",,802,4,2,8,3,1,2,1,8,3,1,bn,at,mot,,"mot at bn 3"" 36",,1912,3014
+US,"Ind Arty",,812,4,2,8,3,1,2,1,8,3,1,bn,at,mot,,"mot at bn 3"" 36",,1913,3015
+US,"Ind Arty",,814,4,2,8,3,1,2,1,8,3,1,bn,at,mot,,"mot at bn 3"" 36",,1914,3016
+US,"Ind Arty",,821,4,2,8,3,1,2,1,8,3,1,bn,at,mot,,"mot at bn 3"" 36",,1915,3017
+US,"Ind Arty",,823,4,2,8,3,1,2,1,8,3,1,bn,at,mot,,"mot at bn 3"" 36",,1916,3018
+US,"Ind Arty",,825,4,2,8,3,1,2,1,8,3,1,bn,at,mot,,"mot at bn 3"" 36",,1917,3019
+US,"Ind Arty",,843,4,2,8,3,1,2,1,8,3,1,bn,at,mot,,"mot at bn 3"" 36",,1918,3020
+US,"Ind Arty",,602,5,4,6,3,1,2,2,6,3,1,bn,gun,sp,ag,"sp ag bn 3"" 36 M10",,1919,3021
+US,"Ind Arty",,614,5,4,6,3,1,2,2,6,3,1,bn,gun,sp,ag,"sp ag bn 3"" 36 M10",,1920,3022
+US,"Ind Arty",,628,5,4,6,3,1,2,2,6,3,1,bn,gun,sp,ag,"sp ag bn 3"" 36 M10",,1921,3023
+US,"Ind Arty",,629,5,4,6,3,1,2,2,6,3,1,bn,gun,sp,ag,"sp ag bn 3"" 36 M10",,1922,3024
+US,"Ind Arty",,634,5,4,6,3,1,2,2,6,3,1,bn,gun,sp,ag,"sp ag bn 3"" 36 M10",,1923,3025
+US,"Ind Arty",,644,5,4,6,3,1,2,2,6,3,1,bn,gun,sp,ag,"sp ag bn 3"" 36 M10",,1924,3026
+US,"Ind Arty",,654,5,4,6,3,1,2,2,6,3,1,bn,gun,sp,ag,"sp ag bn 3"" 36 M10",,1925,3027
+US,"Ind Arty",,702,5,4,6,3,1,2,2,6,3,1,bn,gun,sp,ag,"sp ag bn 3"" 36 M10",,1926,3028
+US,"Ind Arty",,703,5,4,6,3,1,2,2,6,3,1,bn,gun,sp,ag,"sp ag bn 3"" 36 M10",,1927,3029
+US,"Ind Arty",,704,5,4,6,3,1,2,2,6,3,1,bn,gun,sp,ag,"sp ag bn 3"" 36 M10",,1928,3030
+US,"Ind Arty",,705,5,4,6,3,1,2,2,6,3,1,bn,gun,sp,ag,"sp ag bn 3"" 36 M10",,1929,3031
+US,"Ind Arty",,773,5,4,6,3,1,2,2,6,3,1,bn,gun,sp,ag,"sp ag bn 3"" 36 M10",,1930,3032
+US,"Ind Arty",,774,5,4,6,3,1,2,2,6,3,1,bn,gun,sp,ag,"sp ag bn 3"" 36 M10",,1931,3033
+US,"Ind Arty",,803,5,4,6,3,1,2,2,6,3,1,bn,gun,sp,,"sp gun bn 3"" 36 M10",,1932,3034
+US,"Ind Arty",,817,5,4,6,3,1,2,2,6,3,1,bn,gun,sp,ag,"sp ag bn 3"" 36 M10",,1933,3035
+US,"Ind Arty",,818,5,4,6,3,1,2,2,6,3,1,bn,gun,sp,ag,"sp ag bn 3"" 36 M10",,1934,3036
+US,"Ind Arty",,893,5,4,6,3,1,2,2,6,3,1,bn,gun,sp,ag,"sp ag bn 3"" 36 M10",,1935,3037
+US,"Ind Arty",,899,5,4,6,3,1,2,2,6,3,1,bn,gun,sp,ag,"sp ag bn 3"" 36 M10",,1936,3038
+US,"Ind Arty",,23,5,3,8,1,2,,,,,,bn,gw,mot,,"mot gw bn 4.2""M 18",,1937,
+US,"Ind Arty",,81,5,3,8,1,2,,,,,,bn,gw,mot,,"mot gw bn 4.2""M 18",,1938,
+US,"Ind Arty",,86,5,3,8,1,2,,,,,,bn,gw,mot,,"mot gw bn 4.2""M 18",,1939,
+US,"Ind Arty",,87,5,3,8,1,2,,,,,,bn,gw,mot,,"mot gw bn 4.2""M 18",,1940,
+US,"Ind Arty",,92,5,3,8,1,2,,,,,,bn,gw,mot,,"mot gw bn 4.2""M 18",,1941,
+US,"Ind Inf",,2,4,3,6,2,,2,2,6,2,,bn,inf,,rgr,"rgr bn",,1942,3039
+US,"Ind Inf",,5,4,3,6,2,,2,2,6,2,,bn,inf,,rgr,"rgr bn",,1943,3040
+US,"Ind Inf",,99,4,5,8,3,,2,3,8,3,,bn,inf,mot,,"mot inf bn",,1944,3041
+US,"Ind Rcce",,102,3,4,8,3,,1,2,8,3,,bn,ac,mot,rcce,"mot rcce ac bn",,1945,3042
+US,"Ind Rcce",,104,3,4,8,3,,1,2,8,3,,bn,ac,mot,rcce,"mot rcce ac bn",,1946,3043
+US,"Ind Rcce",,106,3,4,8,3,,1,2,8,3,,bn,ac,mot,rcce,"mot rcce ac bn",,1947,3044
+US,"Ind Rcce",,107,3,4,8,3,,1,2,8,3,,bn,ac,mot,rcce,"mot rcce ac bn",,1948,3045
+US,"Ind Rcce",,113,3,4,8,3,,1,2,8,3,,bn,ac,mot,rcce,"mot rcce ac bn",,1949,3046
+US,"Ind Rcce",,121,3,4,8,3,,1,2,8,3,,bn,ac,mot,rcce,"mot rcce ac bn",,1950,3047
+US,"Ind Rcce",,125,3,4,8,3,,1,2,8,3,,bn,ac,mot,rcce,"mot rcce ac bn",,1951,3048
+US,"Ind Rcce",,15,3,4,8,3,,1,2,8,3,,bn,ac,mot,rcce,"mot rcce ac bn",,1952,3049
+US,"Ind Rcce",,17,3,4,8,3,,1,2,8,3,,bn,ac,mot,rcce,"mot rcce ac bn",,1953,3050
+US,"Ind Rcce",,2,3,4,8,3,,1,2,8,3,,bn,ac,mot,rcce,"mot rcce ac bn",,1954,3051
+US,"Ind Rcce",,24,3,4,8,3,,1,2,8,3,,bn,ac,mot,rcce,"mot rcce ac bn",,1955,3052
+US,"Ind Rcce",,28,3,4,8,3,,1,2,8,3,,bn,ac,mot,rcce,"mot rcce ac bn",,1956,3053
+US,"Ind Rcce",,3,3,4,8,3,,1,2,8,3,,bn,ac,mot,rcce,"mot rcce ac bn",,1957,3054
+US,"Ind Rcce",,38,3,4,8,3,,1,2,8,3,,bn,ac,mot,rcce,"mot rcce ac bn",,1958,3055
+US,"Ind Rcce",,4,3,4,8,3,,1,2,8,3,,bn,ac,mot,rcce,"mot rcce ac bn",,1959,3056
+US,"Ind Rcce",,42,3,4,8,3,,1,2,8,3,,bn,ac,mot,rcce,"mot rcce ac bn",,1960,3057
+US,"Ind Rcce",,6,3,4,8,3,,1,2,8,3,,bn,ac,mot,rcce,"mot rcce ac bn",,1961,3058
+US,Naval,,BB,,,,,,,,,,,,diag,,lg,,,1962,
+US,Naval,,CA,,,,,,,,,,,,diag,,lg,,,1963,
+US,Naval,,DD,,,,,,,,,,,,diag,,lg,,,1964,
+US,Naval,,ROCKET,,,,,,,,,,,,diag,,sm,,,1965,
+US,"Rem & Repl",1,,0,2,6,2,,,,,,,bn,inf,ht,rem,,,1966,
+US,"Rem & Repl",2,,0,2,6,2,,,,,,,bn,inf,ht,rem,,,1967,
+US,"Rem & Repl",3,,0,2,6,2,,,,,,,bn,inf,ht,rem,,,1968,
+US,"Rem & Repl",4,,0,2,6,2,,,,,,,bn,inf,ht,rem,,,1969,
+US,"Rem & Repl",5,,0,2,6,2,,,,,,,bn,inf,ht,rem,,,1970,
+US,"Rem & Repl",6,,0,2,6,2,,,,,,,bn,inf,ht,rem,,,1971,
+US,"Rem & Repl",7,,0,2,6,2,,,,,,,bn,inf,ht,rem,,,1972,
+US,"Rem & Repl",8,,0,2,6,2,,,,,,,bn,inf,ht,rem,,,1973,
+US,"Rem & Repl",1,,0,2,8,2,,,,,,,bn,inf,mot,rem,,,1974,
+US,"Rem & Repl",2,,0,2,8,2,,,,,,,bn,inf,mot,rem,,,1975,
+US,"Rem & Repl",3,,0,2,8,2,,,,,,,bn,inf,mot,rem,,,1976,
+US,"Rem & Repl",4,,0,2,8,2,,,,,,,bn,inf,mot,rem,,,1977,
+US,"Rem & Repl",5,,0,2,8,2,,,,,,,bn,inf,mot,rem,,,1978,
+US,"Rem & Repl",6,,0,2,8,2,,,,,,,bn,inf,mot,rem,,,1979,
+US,"Rem & Repl",7,,0,2,8,2,,,,,,,bn,inf,mot,rem,,,1980,
+US,"Rem & Repl",8,,0,2,8,2,,,,,,,bn,inf,mot,rem,,,1981,
+US,"Rem & Repl",9,,0,2,8,2,,,,,,,bn,inf,mot,rem,,,1982,
+US,"Rem & Repl",10,,0,2,8,2,,,,,,,bn,inf,mot,rem,,,1983,
+US,"Rem & Repl",11,,0,2,8,2,,,,,,,bn,inf,mot,rem,,,1984,
+US,"Rem & Repl",12,,0,2,8,2,,,,,,,bn,inf,mot,rem,,,1985,
+US,"Rem & Repl",13,,0,2,8,2,,,,,,,bn,inf,mot,rem,,,1986,
+US,"Rem & Repl",14,,0,2,8,2,,,,,,,bn,inf,mot,rem,,,1987,
+US,"Rem & Repl",15,,0,2,8,2,,,,,,,bn,inf,mot,rem,,,1988,
+US,"Rem & Repl",16,,0,2,8,2,,,,,,,bn,inf,mot,rem,,,1989,
+US,"Rem & Repl",17,,0,2,8,2,,,,,,,bn,inf,mot,rem,,,1990,
+US,"Rem & Repl",18,,0,2,8,2,,,,,,,bn,inf,mot,rem,,,1991,
+US,"Rem & Repl",19,,0,2,8,2,,,,,,,bn,inf,mot,rem,,,1992,
+US,"Rem & Repl",20,,0,2,8,2,,,,,,,bn,inf,mot,rem,,,1993,
+US,"Rem & Repl",21,,0,2,8,2,,,,,,,bn,inf,mot,rem,,,1994,
+US,"Rem & Repl",22,,0,2,8,2,,,,,,,bn,inf,mot,rem,,,1995,
+US,"Rem & Repl",23,,0,2,8,2,,,,,,,bn,inf,mot,rem,,,1996,
+US,"Rem & Repl",24,,0,2,8,2,,,,,,,bn,inf,mot,rem,,,1997,
+US,"Rem & Repl",25,,0,2,8,2,,,,,,,bn,inf,mot,rem,,,1998,
+US,"Rem & Repl",26,,0,2,8,2,,,,,,,bn,inf,mot,rem,,,1999,
+US,"Rem & Repl",27,,0,2,8,2,,,,,,,bn,inf,mot,rem,,,2000,
+US,"Rem & Repl",28,,0,2,8,2,,,,,,,bn,inf,mot,rem,,,2001,
+US,"Rem & Repl",29,,0,2,8,2,,,,,,,bn,inf,mot,rem,,,2002,
+US,"Rem & Repl",30,,0,2,8,2,,,,,,,bn,inf,mot,rem,,,2003,
+US,"Rem & Repl",31,,0,2,8,2,,,,,,,bn,inf,mot,rem,,,2004,
+US,"Rem & Repl",32,,0,2,8,2,,,,,,,bn,inf,mot,rem,,,2005,
+US,"Rem & Repl",1,,0,2,4,2,,,,,,,bn,inf,,"rem para",,,2006,
+US,"Rem & Repl",2,,0,2,4,2,,,,,,,bn,inf,,"rem para",,,2007,
+US,"Rem & Repl",3,,0,2,4,2,,,,,,,bn,inf,,"rem para",,,2008,
+US,"Rem & Repl",4,,0,2,4,2,,,,,,,bn,inf,,"rem para",,,2009,
+US,"Rem & Repl",5,,0,2,4,2,,,,,,,bn,inf,,"rem para",,,2010,
+US,"Rem & Repl",6,,0,2,4,2,,,,,,,bn,inf,,"rem para",,,2011,
+US,"Rem & Repl",7,,0,2,4,2,,,,,,,bn,inf,,"rem para",,,2012,
+US,"Rem & Repl",8,,0,2,4,2,,,,,,,bn,inf,,"rem para",,,2013,
+US,"Rem & Repl",1,,0,2,6,2,,,,,,,bn,pz,,rem,,,2014,
+US,"Rem & Repl",2,,0,2,6,2,,,,,,,bn,pz,,rem,,,2015,
+US,"Rem & Repl",3,,0,2,6,2,,,,,,,bn,pz,,rem,,,2016,
+US,"Rem & Repl",4,,0,2,6,2,,,,,,,bn,pz,,rem,,,2017,
+US,"Rem & Repl",5,,0,2,6,2,,,,,,,bn,pz,,rem,,,2018,
+US,"Rem & Repl",6,,0,2,6,2,,,,,,,bn,pz,,rem,,,2019,
+US,"Rem & Repl",7,,0,2,6,2,,,,,,,bn,pz,,rem,,,2020,
+US,"Rem & Repl",8,,0,2,6,2,,,,,,,bn,pz,,rem,,,2021,
+US,"Rem & Repl",9,,0,2,6,2,,,,,,,bn,pz,,rem,,,2022,
+US,"Rem & Repl",10,,0,2,6,2,,,,,,,bn,pz,,rem,,,2023,
+US,"Rem & Repl",11,,0,2,6,2,,,,,,,bn,pz,,rem,,,2024,
+US,"Rem & Repl",12,,0,2,6,2,,,,,,,bn,pz,,rem,,,2025,
+US,"Rem & Repl",,,0,0,8,0,,,,,,,rpl,inf,,rpl,,,2026,
+US,"Rem & Repl",,,0,0,8,0,,,,,,,rpl,pz,,rpl,,,2027,
+US,Supply,,,,0,6,1,,,,,,,,hsup,,para,"para supply",,2028,
+US,Supply,,,,0,8,1,,,,,,,,sup,,,supply,,2029,
+US,Supply,,,,0,8,1,,,,,,,,hsup,,,"half supply",,3069,
+W,Markers,,"CHRBG STATUS",,,,,,,,,,,,diag,,sm,,,2030,
+W,Markers,,DISRUPT,,,,,,,,,,,,diag,,med,,,2031,
+W,Markers,,"RAIL DAMAGE",,,,,,,,,,,,diag,,sm,,,2032,
+W,Markers,,"TURN NOW",,,,,,,,,,,,diag,,sm,,,2033,
+W,Markers,,"WEATHER NOW",,,,,,,,,,,,diag,,sm,,,2034,
+W,Markers,,Cherbourg,,,,,,,,,,,,pc,,,,,2035,
+Y,Markers,,BH,,,,,,,,,,,,diag,,lg,,,2036,
+Y,Markers,,CUT,,,,,,,,,,,,diag,,"sm cut",,,2037,
+Y,Markers,,DAMAGED,,,,,,,,,,,,dmul,,,,,2038,
+Y,Markers,,"A Mulberry",,,,,,,,,,,,mul,,,,,2039,
+Y,Markers,,"B Mulberry",,,,,,,,,,,,mul,,,,,2040,
+Y,Markers,,Barfleur,,,,,,,,,,,,pc,,,,,2041,
+Y,Markers,,BUILDING,,,,,,,,,,,,pc,,,,,2042,
+Y,Markers,,Courseulles,,,,,,,,,,,,pc,,,,,2043,
+Y,Markers,,Isigny,,,,,,,,,,,,pc,,,,,2044,
+Y,Markers,,StVaast,,,,,,,,,,,,pc,,,,,2045,
+Y,Markers,,,,,,,,,,,,,,train,,,,,2046,
+F,Fortifications,,CARP-2,2,x3,-2,,,,,,,,,fad,,,"fortified area down",,2047,
+F,Fortifications,,WSTK-3,2,x3,-2,,,,,,,,,fad,,,"fortified area down",,2048,
+F,Fortifications,,CARP-1,2,x2,-2,,,,,,,,,fau,,,"fortified area up",,2049,
+F,Fortifications,,CARP-3,2,x2,-2,,,,,,,,,fau,,,"fortified area up",,2050,
+F,Fortifications,,OSTK-1,2,x2,-2,,,,,,,,,fau,,,"fortified area up",,2051,
+F,Fortifications,,OSTK-2,2,x2,-2,,,,,,,,,fau,,,"fortified area up",,2052,
+F,Fortifications,,WSTK-1,2,x2,-2,,,,,,,,,fau,,,"fortified area up",,2053,
+F,Fortifications,,WSTK-2,2,x2,-2,,,,,,,,,fau,,,"fortified area up",,2054,
+F,Fortifications,,,3,0,-1,,,,,,,,,ff,,,"field fortification",,2055,
+F,Fortifications,,LAND,3,2,-1,,,,,,,,,lf,,,landfronte,,2056,
+F,Fortifications,,CAPL,1,x2,-1,,,,,,,,,mf,,,"minor fort",,2057,
+F,Fortifications,,CHBG,1,x2,-1,,,,,,,,,mf,,,"minor fort",,2058,
+F,Fortifications,,COUP,1,x2,-1,,,,,,,,,mf,,,"minor fort",,2059,
+F,Fortifications,,DUVR,1,x2,-1,,,,,,,,,mf,,,"minor fort",,2060,
+F,Fortifications,,FLAM,1,x2,-1,,,,,,,,,mf,,,"minor fort",,2061,
+F,Fortifications,,FRCH,1,x2,-1,,,,,,,,,mf,,,"minor fort",,2062,
+F,Fortifications,,QEQV,1,x2,-1,,,,,,,,,mf,,,"minor fort",,2063,
+F,Fortifications,,RdTT,1,x2,-1,,,,,,,,,mf,,,"minor fort",,2064,
+F,Fortifications,,ROUL,1,x2,-1,,,,,,,,,mf,,,"minor fort",,2065,
+F,Fortifications,,TLVS,1,x2,-1,,,,,,,,,mf,,,"minor fort",,2066,
+F,Fortifications,,VRND,1,x2,-1,,,,,,,,,mf,,,"minor fort",,2067,
+F,Fortifications,,,0,2,-1,,,,,,,,,spt,,,strongpoint,,2068,
+F,Fortifications,,,0,6,-1,,,,,,,,,spt,,,strongpoint,,2069,
+GE,,,FIRED,,,,,,,,,,,,diag,,med,"ranged arty reverse",,3059,
+LW,,,FIRED,,,,,,,,,,,,diag,,med,"ranged arty reverse",,3060,
+KM,,,FIRED,,,,,,,,,,,,diag,,med,"ranged arty reverse",,3061,
+UK,,,FIRED,,,,,,,,,,,,diag,,med,"ranged arty reverse",,3062,
+US,,,FIRED,,,,,,,,,,,,diag,,med,"ranged arty reverse",,3063,
+W,Markers,,1,,,,,,,,,,,,hor,,lg,number,,3064,
+W,Markers,,2,,,,,,,,,,,,hor,,lg,number,,3065,
+W,Markers,,3,,,,,,,,,,,,hor,,lg,number,,3066,
+W,Markers,,4,,,,,,,,,,,,hor,,lg,number,,3067,
+W,Markers,,5,,,,,,,,,,,,hor,,lg,number,,3068,
